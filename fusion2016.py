@@ -5,10 +5,15 @@ import json
 import urllib
 import sys
 
+if len(sys.argv) < 2:
+    sys.stderr.write('Usage: fusion2016.py NUM_DEPARTEMENT ')
+    sys.exit(1)
+
 # fusion.csv contient la liste des fusions de communes
 with open('fusion.csv') as fichierfusions:
   fusions = csv.DictReader(fichierfusions)
   for fusion in fusions:
+   if fusion['dep']==sys.argv[1]:
     # construction de la requête overpass pour récupérer les infos sur les communes à fusionner
     communes = fusion['anciennes'].replace(',','|')
     overpass = """http://overpass-api.de/api/interpreter?data=[out:json];relation["ref:INSEE"~"^%s"][name~"^(%s)$",i][admin_level=8];out;""" % (fusion['dep'], communes)
