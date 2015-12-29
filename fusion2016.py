@@ -3,6 +3,7 @@ import csv
 import requests
 import json
 import urllib
+import sys
 
 # fusion.csv contient la liste des fusions de communes
 with open('fusion.csv') as fichierfusions:
@@ -35,24 +36,19 @@ with open('fusion.csv') as fichierfusions:
           admin_centre = """<member type='node' ref='%s' role='admin_centre' />""" % member['ref']
 #      requests.get("""http://localhost:8111/import?url=http://api.openstreetmap.org/api/0.6/relation/%s/full""" % element['id'])
     # prend la population du fichier CSV où à défaut celle calculée
-    population = fusion.get('population',population)
+    population_tag = """<tag k='population' v='%s' />""" % fusion.get('population',str(population))
 
     overpass = """http://overpass-api.de/api/interpreter?data=[out:json];relation["ref:INSEE"~"^%s"][name~"^(%s)$",i];out;""" % (fusion['dep'], fusion['nouvelle'])
     osm = requests.get(overpass)
     nouvelle_json = json.loads(osm.text) # transforme réponse HTTP (text) en dictionnaire (json)
 
-    print(nouvelle_json)
-
     for ref in inner:
       objlist = "w" + str(ref) + "," + objlist
-    requests.get("""http://localhost:8111/load_object?objects=%s&addtags=admin_level=10&relation_members=true""" % objlist)
+    requests.get("""http://localhost:8111/load_object?new_layer=true&objects=%s&addtags=admin_level=10&relation_members=true""" % objlist)
     
     outer_ways=""
     for way in outer:
       outer_ways=outer_ways+"""<member type='way' ref='%s' role='outer' />""" % way
-
-    if population>0:
-      population_tag = """<tag k='population' v='%s' />""" % str(population)
 
     newrel = """<?xml version='1.0' encoding='UTF-8'?>
 <osm version='0.6' upload='true' generator='fusion2016.py'>
