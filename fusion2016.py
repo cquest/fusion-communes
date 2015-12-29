@@ -1,9 +1,8 @@
-#!/usr/bin/env python
+#!/usr/bin/python3
 import csv
 import requests
 import json
 import urllib
-from osmapi import OsmApi
 
 # fusion.csv contient la liste des fusions de communes
 with open('fusion.csv') as fichierfusions:
@@ -15,8 +14,7 @@ with open('fusion.csv') as fichierfusions:
     osm = requests.get(overpass)
     outer = [] # pour accumuler les way en outer de la nouvelle commune
     inner = [] # pour accumuler les ways en inner de la nouvelle commune
-    admin_centre=''
-    population=0
+    population = 0
     objlist = ""
     admin_centre = ""
     osm_json = json.loads(osm.text) # transforme réponse HTTP (text) en dictionnaire (json)
@@ -43,6 +41,8 @@ with open('fusion.csv') as fichierfusions:
     osm = requests.get(overpass)
     nouvelle_json = json.loads(osm.text) # transforme réponse HTTP (text) en dictionnaire (json)
 
+    print(nouvelle_json)
+
     for ref in inner:
       objlist = "w" + str(ref) + "," + objlist
     requests.get("""http://localhost:8111/load_object?objects=%s&addtags=admin_level=10&relation_members=true""" % objlist)
@@ -50,6 +50,9 @@ with open('fusion.csv') as fichierfusions:
     outer_ways=""
     for way in outer:
       outer_ways=outer_ways+"""<member type='way' ref='%s' role='outer' />""" % way
+
+    if population>0:
+      population_tag = """<tag k='population' v='%s' />""" % str(population)
 
     newrel = """<?xml version='1.0' encoding='UTF-8'?>
 <osm version='0.6' upload='true' generator='fusion2016.py'>
@@ -63,8 +66,9 @@ with open('fusion.csv') as fichierfusions:
     <tag k='name' v='%s' />
     %s
     %s
+    %s
   </relation>
-</osm>""" % (insee, insee, fusion['nouvelle'],admin_centre,outer_ways)
+</osm>""" % (insee, insee, fusion['nouvelle'],population_tag,admin_centre,outer_ways)
 
     requests.get("""http://localhost:8111/load_data?data="""+urllib.parse.quote_plus(newrel))
 
