@@ -36,28 +36,28 @@ dep,nouvelle,anciennes,date,population,chflieu,jorf
 44,Machecoul-Saint-Même,Machecoul|Saint-Même-le-Tenu,,,,
 44,Loireauxence,Belligné|La Chapelle-Saint-Sauveur|La Rouxière|Varades,,,,
 45,Douchy-Montcorbon,"Douchy,Montcorbon",,1544,Douchy,
-48,Naussac-Fontanes,Naussac|Fontanes,,,,
-48,Banassac-Canilhac,Banassac|Canilhac,,,,
-49,Gennes-Val-de-Loire,Chênehutte-Trèves-Cunault|Gennes|Grézillé|Saint-Georges-des-Sept-Voies|Le Thoureil,,,,
-49,Baugé-en-Anjou,Baugé-en-Anjou|Bocé|Chartrené|Cheviré-le-Rouge|Clefs-Val d'Anjou|Cuon|Échemiré|Fougeré|Le Guédeniau|Saint-Quentin-lès-Beaurepaire,,,,
-49,Le Lion-d'Angers,Le Lion-d'Angers|Andigné,,,,
-49,Les Bois d'Anjou,Fontaine-Guérin|Brion|Saint-Georges-du-Bois,,,,
-49,Bellevigne-en-Layon,Champ-sur-Layon|Faveraye-Mâchelles|Faye-d'Anjou|Rablay-sur-Layon|Thouarcé,,,,
-49,Morannes-sur-Sarthe,Chemiré-sur-Sarthe|Morannes,,,,
-49,Blaison-Saint-Sulpice,Blaison-Gohier|Saint-Sulpice,,,,
-49,Longuenée-en-Anjou,La Meignanne|La Membrolle-sur-Longuenée|Le Plessis-Macé|Pruillé,,,,
-49,Verrières-en-Anjou,Pellouailles-les-Vignes|Saint-Sylvain-d'Anjou,,,,
-49,Loire-Authion,Andard|Bauné|La Bohalle|Brain-sur-l'Authion|Corné|La Daguenière|Saint-Mathurin-sur-Loire,,,,
-49,Tuffalun,Ambillou-Château|Louerre|Noyant-la-Plaine,,,,
-49,Jarzé Villages,Beauvau|Chaumont-d'Anjou|Jarzé|Lué-en-Baugeois,,,,
-49,Beaufort-en-Anjou,Beaufort-en-Vallée|Gée,,,,
-49,Mazé-Milon,Fontaine-Milon|Mazé,,,,
-49,Chénillé-Champteussé,Chenillé-Changé|Champteussé-sur-Baconne,,,,
-50,Villedieu-les-Poêles-Rouffigny,Rouffigny|Villedieu-les-Poêles,,,,
-50,Pontorson,Macey|Vessey|Pontorson,,,,
-50,Le Parc,Braffais|Plomb|Sainte-Pience,,,,
-50,Gouville-sur-Mer,Boisroger|Gouville-sur-Mer,,,,
-50,Cherbourg-en-Cotentin,Cherbourg-Octeville|Équeurdreville-Hainneville|La Glacerie|Querqueville|Tourlaville,,,,
+48,Naussac-Fontanes,Naussac|Fontanes,,356,Naussac,JORFTEXT000031665427
+48,Banassac-Canilhac,Banassac|Canilhac,,1065,Banassac,JORFTEXT000031665430
+49,Gennes-Val-de-Loire,Chênehutte-Trèves-Cunault|Gennes|Grézillé|Saint-Georges-des-Sept-Voies|Le Thoureil,,4989,Gennes,
+49,Baugé-en-Anjou,Baugé-en-Anjou|Bocé|Chartrené|Cheviré-le-Rouge|Clefs-Val d'Anjou|Cuon|Échemiré|Fougeré|Le Guédeniau|Saint-Quentin-lès-Beaurepaire,,12114,Baugé-en-Anjou,JORFTEXT000031665355
+49,Le Lion-d'Angers,Le Lion-d'Angers|Andigné,,4356,Le Lion-d'Angers,JORFTEXT000031665364
+49,Les Bois d'Anjou,Fontaine-Guérin|Brion|Saint-Georges-du-Bois,,2636,Fontaine-Guérin,JORFTEXT000031665367
+49,Bellevigne-en-Layon,Champ-sur-Layon|Faveraye-Mâchelles|Faye-d'Anjou|Rablay-sur-Layon|Thouarcé,,5841,Thouarcé,JORFTEXT000031665484
+49,Morannes-sur-Sarthe,Chemiré-sur-Sarthe|Morannes,,,Morannes,
+49,Blaison-Saint-Sulpice,Blaison-Gohier|Saint-Sulpice,,,Blaison-Gohier,
+49,Longuenée-en-Anjou,La Meignanne|La Membrolle-sur-Longuenée|Le Plessis-Macé|Pruillé,,,La Membrolle-sur-Longuenée,
+49,Verrières-en-Anjou,Pellouailles-les-Vignes|Saint-Sylvain-d'Anjou,,,Saint-Sylvain-d'Anjou,
+49,Loire-Authion,Andard|Bauné|La Bohalle|Brain-sur-l'Authion|Corné|La Daguenière|Saint-Mathurin-sur-Loire,,,Saint-Mathurin-sur-Loire,
+49,Tuffalun,Ambillou-Château|Louerre|Noyant-la-Plaine,,,Ambillou-Château,
+49,Jarzé Villages,Beauvau|Chaumont-d'Anjou|Jarzé|Lué-en-Baugeois,,,Jarzé,
+49,Beaufort-en-Anjou,Beaufort-en-Vallée|Gée,,,Beaufort-en-Vallée,
+49,Mazé-Milon,Fontaine-Milon|Mazé,,,Fontaine-Milon,
+49,Chénillé-Champteussé,Chenillé-Changé|Champteussé-sur-Baconne,,,Champteussé-sur-Baconne,
+50,Villedieu-les-Poêles-Rouffigny,Rouffigny|Villedieu-les-Poêles,,4224,Villedieu-les-Poêles,JORFTEXT000031665463
+50,Pontorson,Macey|Vessey|Pontorson,,4669,Pontorson,JORFTEXT000031665472
+50,Le Parc,Braffais|Plomb|Sainte-Pience,,936,Sainte-Pience,JORFTEXT000031665487
+50,Gouville-sur-Mer,Boisroger|Gouville-sur-Mer,,2282,Gouville-sur-Mer,JORFTEXT000031665490
+50,Cherbourg-en-Cotentin,Cherbourg-Octeville|Équeurdreville-Hainneville|La Glacerie|Querqueville|Tourlaville,,83971,Cherbourg-Octeville,JORFTEXT000031665517
 50,Lessay,Angoville-sur-Ay|Lessay,,,,
 50,Condé-sur-Vire,Condé-sur-Vire|Le Mesnil-Raoult,,,,
 50,Moyon Villages,Chevry|Le Mesnil-Opac|Moyon,,,,
@@ -115,3 +115,4 @@ dep,nouvelle,anciennes,date,population,chflieu,jorf
 15,Le Rouget-Pers,Le Rouget|Pers,,1289,Le Rouget,
 15,Saint-Constant-Fournoulès,Saint-Constant|Fournoulès,,640,Saint-Constant,JORFTEXT000031690300
 12,Palmas d'Aveyron,"Coussergues,Cruéjouls,Palmas",,1059,Palmas,JORFTEXT000031690272
+25,Les Premiers Sapins,"Athose,Chasnans,Hautepierre-le-Châtelet,Nods,Rantechaux,Vanclans",,1537,Nods,JORFTEXT000031690275
