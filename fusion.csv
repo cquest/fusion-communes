@@ -64,38 +64,38 @@ dep,nouvelle,anciennes,date,population,chflieu,jorf
 50,Torigny-les-Villes,Torigni-sur-Vire|Brectouville|Giéville|Guilberville,,4339,Torigni-sur-Vire,JORFTEXT000031665409
 50,Tessy Bocage,Tessy-sur-Vire|Fervaches,,1857,Tessy-sur-Vire,JORFTEXT000031665412
 50,Grandparigny,Chèvreville|Martigny|Milly|Parigny,,2858,Parigny,JORFTEXT000031665436
-53,Sainte-Suzanne-et-Chammes,Sainte-Suzanne|Chammes,,,,
-53,Loiron-Ruillé,Loiron|Ruillé-le-Gravelais,,,,
-53,Pré-en-Pail-Saint-Samson,Pré-en-Pail|Saint-Samson,,,,
-56,Évellys,Naizin|Moustoir-Remungol|Remungol,,,,
-57,Ancy-Dornot,Ancy-sur-Moselle|Dornot,,,,
-61,Rémalard-en-Perche,Rémalard|Bellou-sur-Huisne|Dorceau,,,,
-61,La Ferté-en-Ouche,Anceins|Bocquencé|Couvains|La Ferté-Frênel|Gauville|Glos-la-Ferrière|Heugon|Monnai|Saint-Nicolas-des-Laitiers|Villers-en-Ouche,,,,
-61,Écouché-les-Vallées,Batilly|La Courbe|Écouché|Loucé|Saint-Ouen-sur-Maire|Serans,,,,
-61,Sablons-sur-Huisne,Condeau|Condé-sur-Huisne|Coulonges-les-Sablons,,,,
-61,Val-au-Perche,Gémages|L'Hermitière|Mâle|La Rouge|Saint-Agnan-sur-Erre|Le Theil,,,,
-61,Écouves,Forges|Radon|Vingt-Hanaps,,,,
-61,Les Monts d'Andaine,Saint-Maurice-du-Désert|La Sauvagère,,,,
-61,Rives d'Andaine,La Chapelle-d'Andaine|Couterne|Geneslay|Haleine,,,,
-61,Athis-Val de Rouvre,Athis-de-l'Orne|Bréel|La Carneille|Notre-Dame-du-Rocher|Ronfeugerai|Ségrie-Fontaine|Taillebois|Les Tourailles,,,,
-61,Cour-Maugis sur Huisne,Boissy-Maugis|Courcerault|Maison-Maugis|Saint-Maurice-sur-Huisne,,,,
-61,Longny-les-Villages,La Lande-sur-Eure|Longny-au-Perche|Malétable|Marchainville|Monceaux-au-Perche|Moulicent|Neuilly-sur-Eure|Chailloué|Neuville-près-Sées|Marmouillé,,,,
-61,Domfront-en-Poiraie,Domfront|La Haute-Chapelle|Rouellé,,,,
-61,Tourouvre-au-Perche,Autheuil|Bivilliers|Bresolettes|Bubertré|Champs|Lignerolles|La Poterie-au-Perche|Prépotin|Randonnai|Tourouvre,,,,
-61,Bagnoles-de-l'Orne-Normandie,Bagnoles-de-l'Orne|Saint-Michel-des-Andaines,,,,
-61,Putanges-le-Lac,Chênedouit|La Forêt-Auvray|La Fresnaye-au-Sauvage|Ménil-Jean|Putanges-Pont-Écrepin|Rabodanges|Les Rotours|Saint-Aubert-sur-Orne|Sainte-Croix-sur-Orne,,,,
-61,Sap-en-Auge,Orville|Le Sap,,,,
-68,Kaysersberg Vignoble,Kaysersberg|Kientzheim|Sigolsheim,,,,
-68,Le Haut-Soultzbach,Mortzwiller|Soppe-le-Haut,,,,
-68,Bernwiller,Ammertzwiller|Bernwiller,,,,
-68,Spechbach,Spechbach-le-Bas|Spechbach-le-Haut,,,,
-68,Aspach-Michelbach,Aspach-le-Haut|Michelbach,,,,
-72,Tuffé Val de la Chéronne,Saint-Hilaire-le-Lierru|Tuffé,,,,
-72,Ballon-Saint-Mars,Ballon|Saint-Mars-sous-Ballon,,,,
-73,Les Belleville,Saint-Martin-de-Belleville|Villarlurin,,,,
-73,La Plagne Tarentaise,Bellentre|La Côte-d'Aime|Mâcot-la-Plagne|Valezan,,,,
-73,Aime-la-Plagne,Aime|Granier|Montgirod,,,,
-73,Entrelacs,Albens|Cessens|Épersy|Mognard|Saint-Germain-la-Chambotte|Saint-Girod,,,,
+53,Sainte-Suzanne-et-Chammes,Sainte-Suzanne|Chammes,,1356,Sainte-Suzanne,JORFTEXT000031665460
+53,Loiron-Ruillé,Loiron|Ruillé-le-Gravelais,,2506,Loiron,JORFTEXT000031665508
+53,Pré-en-Pail-Saint-Samson,Pré-en-Pail|Saint-Samson,,,Pré-en-Pail,
+56,Évellys,Naizin|Moustoir-Remungol|Remungol,,3359,Naizin,
+57,Ancy-Dornot,Ancy-sur-Moselle|Dornot,,,Ancy-sur-Moselle,
+61,Rémalard-en-Perche,Rémalard|Bellou-sur-Huisne|Dorceau,,2124,Rémalard,JORFTEXT000031665376
+61,La Ferté-en-Ouche,Anceins|Bocquencé|Couvains|La Ferté-Frênel|Gauville|Glos-la-Ferrière|Heugon|Monnai|Saint-Nicolas-des-Laitiers|Villers-en-Ouche,,3316,La Ferté-Frênel,JORFTEXT000031665475
+61,Écouché-les-Vallées,Batilly|La Courbe|Écouché|Loucé|Saint-Ouen-sur-Maire|Serans,,2027,Ecouché,JORFTEXT000031665478
+61,Sablons-sur-Huisne,Condeau|Condé-sur-Huisne|Coulonges-les-Sablons,,2256,Condé-sur-Huisne,JORFTEXT000031665385
+61,Val-au-Perche,Gémages|L'Hermitière|Mâle|La Rouge|Saint-Agnan-sur-Erre|Le Theil,,3901,Theil-sur-Huisne,JORFTEXT000031665388
+61,Écouves,Forges|Radon|Vingt-Hanaps,,1799,Radon,JORFTEXT000031665415
+61,Les Monts d'Andaine,Saint-Maurice-du-Désert|La Sauvagère,,1763,La Sauvagère,JORFTEXT000031665418
+61,Rives d'Andaine,La Chapelle-d'Andaine|Couterne|Geneslay|Haleine,,,La Chapelle-d'Andaine,
+61,Athis-Val de Rouvre,Athis-de-l'Orne|Bréel|La Carneille|Notre-Dame-du-Rocher|Ronfeugerai|Ségrie-Fontaine|Taillebois|Les Tourailles,,,Athis-de-l'Orne,
+61,Cour-Maugis sur Huisne,Boissy-Maugis|Courcerault|Maison-Maugis|Saint-Maurice-sur-Huisne,,,Boissy-Maugis,
+61,Longny-les-Villages,La Lande-sur-Eure|Longny-au-Perche|Malétable|Marchainville|Monceaux-au-Perche|Moulicent|Neuilly-sur-Eure|Chailloué|Neuville-près-Sées|Marmouillé,,,Chailloué,
+61,Domfront-en-Poiraie,Domfront|La Haute-Chapelle|Rouellé,,,Domfront,
+61,Tourouvre-au-Perche,Autheuil|Bivilliers|Bresolettes|Bubertré|Champs|Lignerolles|La Poterie-au-Perche|Prépotin|Randonnai|Tourouvre,,,Tourouvre,
+61,Bagnoles-de-l'Orne-Normandie,Bagnoles-de-l'Orne|Saint-Michel-des-Andaines,,,Bagnoles-de-l'Orne,
+61,Putanges-le-Lac,Chênedouit|La Forêt-Auvray|La Fresnaye-au-Sauvage|Ménil-Jean|Putanges-Pont-Écrepin|Rabodanges|Les Rotours|Saint-Aubert-sur-Orne|Sainte-Croix-sur-Orne,,2156,Putanges-Pont-Écrepin,
+61,Sap-en-Auge,Orville|Le Sap,,,Le Sap,
+68,Kaysersberg Vignoble,Kaysersberg|Kientzheim|Sigolsheim,,4764,Kaysersberg,JORFTEXT000031665358
+68,Le Haut-Soultzbach,Mortzwiller|Soppe-le-Haut,,925,Mortzwiller,JORFTEXT000031665469
+68,Bernwiller,Ammertzwiller|Bernwiller,,1081,Ammertzwiller,JORFTEXT000031665499
+68,Spechbach,Spechbach-le-Bas|Spechbach-le-Haut,,1389,Spechbach-le-Haut,JORFTEXT000031665511
+68,Aspach-Michelbach,Aspach-le-Haut|Michelbach,,1876,Aspach-le-Haut,JORFTEXT000031665370
+72,Tuffé Val de la Chéronne,Saint-Hilaire-le-Lierru|Tuffé,,1797,Tuffé,JORFTEXT000031665421
+72,Ballon-Saint-Mars,Ballon|Saint-Mars-sous-Ballon,,2190,Ballon,
+73,Les Belleville,Saint-Martin-de-Belleville|Villarlurin,,2998,Saint-Martin-de-Belleville,JORFTEXT000031665493
+73,La Plagne Tarentaise,Bellentre|La Côte-d'Aime|Mâcot-la-Plagne|Valezan,,3964,Mâcot-la-Plagne,JORFTEXT000031665496
+73,Aime-la-Plagne,Aime|Granier|Montgirod,,4512,Aime,JORFTEXT000031665505
+73,Entrelacs,Albens|Cessens|Épersy|Mognard|Saint-Germain-la-Chambotte|Saint-Girod,,5863,Albens,JORFTEXT000031665391
 74,Faverges-Seythenex,Faverges|Seythenex,,,,
 74,Epagny Metz-Tessy,Épagny|Metz-Tessy,,,,
 76,Forges-les-Eaux,Forges-les-Eaux|Le Fossé,,,,
