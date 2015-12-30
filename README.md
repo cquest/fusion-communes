@@ -8,5 +8,4 @@
 
 ## Utilisation
 
-    ./fusion2016.py
-
+    ./fusion2016.py NUM_DEPARTEMENT
