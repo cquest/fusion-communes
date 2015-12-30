@@ -24,10 +24,13 @@ with open('fusion.csv') as fichierfusions:
     objlist = ""
     admin_centre = ""
     insee = ""
-    osm_json = json.loads(osm.text) # transforme réponse HTTP (text) en dictionnaire (json)
+    try:
+      osm_json = json.loads(osm.text) # transforme réponse HTTP (text) en dictionnaire (json)
+    except:
+      print(osm)
     for element in osm_json['elements']: # les différentes communes
       objlist = "r"+str(element['id'])+','+objlist
-      population = population + element['tags'].get('population',0) # calcule la somme des populations
+      population = population + int(element['tags'].get('population','0')) # calcule la somme des populations
       if element['tags']['name']==fusion['chflieu']:
         insee = element['tags']['ref:INSEE']
       for member in element['members']:  # les membres qui composent la relation (way et node our admin_centre)
@@ -55,7 +58,8 @@ with open('fusion.csv') as fichierfusions:
     # liste des objets à passer en nouvel admin_level
     for ref in inner:
       objlist = "w" + str(ref) + "," + objlist
-    requests.get("""http://localhost:8111/load_object?new_layer=true&objects=%s&addtags=admin_level:proposed=10&relation_members=true""" % objlist)
+    #requests.get("""http://localhost:8111/load_object?new_layer=true&objects=%s&addtags=admin_level:proposed=10&relation_members=true""" % objlist)
+    requests.get("""http://localhost:8111/load_object?new_layer=true&objects=%s&relation_members=true""" % objlist)
     
 
     overpass = """http://overpass-api.de/api/interpreter?data=[out:json];relation["start_date"~"^2016"]["ref:INSEE"~"^%s"][name~"^(%s)$",i];out;""" % (fusion['dep'], fusion['nouvelle'])
