@@ -2,9 +2,9 @@
 
 ## Installation
 
-git clone git@github.com:cquest/fusion-communes-2016.git
-cd fusion-communes-2016
-pip install -r requirements.txt
+    git clone git@github.com:cquest/fusion-communes-2016.git
+    cd fusion-communes-2016
+    pip install -r requirements.txt
 
 ## Utilisation
 
