@@ -17,16 +17,16 @@
 "11","Val-de-Lambronne","Caudeval|Gueytes-et-Labastide",,214,"Caudeval","JORFTEXT000031690236"
 "12","Palmas d'Aveyron","Coussergues|Cruéjouls|Palmas",,1059,"Palmas","JORFTEXT000031690272"
 "12","Laissac-Sévérac l'Eglise ","Laissac|Sévérac-l'Eglise",,2182,"Laissac","JORFTEXT000031690260"
-"12","Conques-en-Rouergue ","Conques,Grand-Vabre,Noailhac,Saint-Cyprien-sur-Dourdou",,1747,"Conques","JORFTEXT000031690245"
-"12","Argences en Aubrac","Alpuech,Graissac,Lacalm,La Terrisse,Sainte-Geneviève-sur-Argence,Vitrac-en-Viadène",,1761,"Sainte-Geneviève-sur-Argence","JORFTEXT000031690242"
-"12","Sévérac d'Aveyron ","Buzeins,Lapanouse,Lavernhe,Recoules-Prévinquières,Sévérac-le-Château",,4232,"Sévérac-le-Château","JORFTEXT000031690221"
-"12","Saint Geniez d'Olt et d'Aubrac ","Saint-Geniez-d'Olt,Aurelle-Verlac",,2192,"Saint-Geniez-d'Olt","JORFTEXT000031690218"
+"12","Conques-en-Rouergue ","Conques|Grand-Vabre|Noailhac|Saint-Cyprien-sur-Dourdou",,1747,"Conques","JORFTEXT000031690245"
+"12","Argences en Aubrac","Alpuech|Graissac|Lacalm|La Terrisse|Sainte-Geneviève-sur-Argence|Vitrac-en-Viadène",,1761,"Sainte-Geneviève-sur-Argence","JORFTEXT000031690242"
+"12","Sévérac d'Aveyron ","Buzeins|Lapanouse|Lavernhe|Recoules-Prévinquières|Sévérac-le-Château",,4232,"Sévérac-le-Château","JORFTEXT000031690221"
+"12","Saint Geniez d'Olt et d'Aubrac ","Saint-Geniez-d'Olt|Aurelle-Verlac",,2192,"Saint-Geniez-d'Olt","JORFTEXT000031690218"
 "14","Colomby-Anguerny","Anguerny|Colomby-sur-Thaon",,1193,"Anguerny","JORFTEXT000031690170"
 "14","Valdallière","Bernières-le-Patry|Burcy|Chênedollé|Le Désert|Estry|Montchamp|Pierres|Presles|La Rocque|Rully|Saint-Charles-de-Percy|Le Theil-Bocage|Vassy|Viessoix",,,,
 "14","Le Hom","Thury-Harcourt|Saint-Martin-de-Sallen|Curcy-sur-Orne|Hamars|Caumont-sur-Orne","2015-12-22",3725,"Thury-Harcourt",
 "14","La Vespière-Friardel","Friardel|La Vespière","2015-12-22",1259,"Friardel",
 "14","Rots","Rots|Lasson|Secqueville-en-Bessin","2015-12-22",2468,"Rots",
-"14","Val-de-Vie","Sainte-Foy-de-Montgommery|Saint-Germain-de-Montgommery|La Chapelle-Haute-Grue|La Brévière","2015-12-22",563,"Sainte-Foy-de-Mongommery",
+"14","Val-de-Vie","Sainte-Foy-de-Montgommery|Saint-Germain-de-Montgommery|La Chapelle-Haute-Grue|La Brévière","2015-12-22",563,"Sainte-Foy-de-Montgommery",
 "14","Seulline","Saint-Georges-d'Aunay|Coulvain","2015-12-22",1089,"Saint-Georges-d'Aunay",
 "14","Malherbe-sur-Ajon","Banneville-sur-Ajon|Saint-Agnan-le-Malherbe","2015-12-09",516,"Banneville-sur-Ajon",
 "14","Noyers-Missy","Missy|Noyers-Bocage","2015-12-09",1677,"Noyers-Bocage",
@@ -85,7 +85,7 @@
 "28","Mittainvilliers-Vérigny","Mittainvilliers|Vérigny",,,,
 "28","Auneau-Bleury-Saint-Symphorien","Auneau|Bleury-Saint-Symphorien",,5641,"Auneau","JORFTEXT000031690248"
 "28","Gommerville","Gommerville|Orlu",,673,"Gommerville","JORFTEXT000031690266"
-"28","Theuville","Pézy|Theuville",,,,
+"28","Theuville","Pézy|Theuville",,,"Theuville",
 "28","Éole-en-Beauce","Baignolet|Fains-la-Folie|Germignonville|Viabon",,,,
 "29","Audierne","Audierne|Esquibien",,3839,"Audierne","JORFTEXT000031690191"
 "32","Castelnau-d’Auzan-Labarrère","Castelnau-d’Auzan|Labarrère",,,,
@@ -94,7 +94,7 @@
 "35","La Chapelle-du-Lou-du-Lac","La Chapelle-du-Lou|Le Lou-du-Lac",,,,
 "36","Val-Fouzon","Parpeçay|Sainte-Cécile|Varennes-sur-Fouzon",,1061,"Varennes-sur-Fouzon","JORFTEXT000031690287"
 "36","Levroux","Levroux|Saint-Martin-de-Lamps",,3048,"Levroux","JORFTEXT000031690164"
-"36","Saint-Maur","Saint-Maur|Villers-les-Ormes",,,,
+"36","Saint-Maur","Saint-Maur|Villers-les-Ormes",,,"Saint-Maur",
 "38","Autrans-Méaudre-en-Vercors","Méaudre|Autrans",,,"Méaudre",
 "38","Crêts-en-Belledonne","Saint-Pierre-d'Allevard|Morêtel-de-Mailles",,,"Saint-Pierre-d'Allevard",
 "38","Saint-Antoine-l'Abbaye","Saint-Antoine-l'Abbaye|Dionay",,,"Saint-Antoine-l'Abbaye",
@@ -170,9 +170,9 @@
 "50","Orval-sur-Sienne","Montchaton|Orval",,,,
 "50","Ducey-les-Chéris","Ducey|Les Chéris",,,,
 "50","Saint-Jean-d'Elle","Notre-Dame-d'Elle|Précorbin|Rouxeville|Saint-Jean-des-Baisants|Vidouville",,,,
-"50","Quettreville-sur-Sienne","Quettreville-sur-Sienne|Hyenville",,,,
+"50","Quettreville-sur-Sienne","Quettreville-sur-Sienne|Hyenville",,,"Quettreville-sur-Sienne",
 "50","Thèreval","Hébécrevon|La Chapelle-en-Juger",,,,
-"50","Sainte-Mère-Église","Beuzeville-au-Plain|Chef-du-Pont|Écoquenéauville|Foucarville|Sainte-Mère-Église",,,,
+"50","Sainte-Mère-Église","Beuzeville-au-Plain|Chef-du-Pont|Écoquenéauville|Foucarville|Sainte-Mère-Église",,,"Sainte-Mère-Église",
 "50","Percy-en-Normandie","Le Chefresne|Percy",,,,
 "50","Bricquebec-en-Cotentin","Bricquebec|Les Perques|Le Valdécie|Quettetot|Saint-Martin-le-Hébert|Le Vrétot",,,,
 "50","Vicq-sur-Mer","Néville-sur-Mer|Réthoville|Cosqueville|Gouberville",,,,
@@ -180,12 +180,12 @@
 "50","Romagny-Fontenay","Romagny|Fontenay",,,,
 "50","Le Grippon","Champcervon|Les Chambres",,,,
 "50","Buais-les-Monts","Buais|Saint-Symphorien-des-Monts",,,,
-"50","Le Teilleul","Ferrières|Heussé|Husson|Sainte-Marie-du-Bois|Le Teilleul",,,,
+"50","Le Teilleul","Ferrières|Heussé|Husson|Sainte-Marie-du-Bois|Le Teilleul",,,"Le Teilleul",
 "50","Bourgvallées","Gourfaleur|La Mancellière-sur-Vire|Saint-Romphaire|Saint-Samson-de-Bonfossé",,,,
 "50","Sartilly-Baie-Bocage","Sartilly|Angey|Champcey|Montviron|La Rochelle-Normande",,,,
 "50","Mortain-Bocage","Bion|Mortain|Notre-Dame-du-Touchet|Saint-Jean-du-Corail|Villechien",,,,
 "50","Marigny-le-Lozon","Marigny|Lozon",,,,
-"50","Saint-Hilaire-du-Harcouët","Saint-Hilaire-du-Harcouët|Saint-Martin-de-Landelles|Virey",,,,
+"50","Saint-Hilaire-du-Harcouët","Saint-Hilaire-du-Harcouët|Saint-Martin-de-Landelles|Virey",,,"Saint-Hilaire-du-Harcouët",
 "50","Terre-et-Marais","Sainteny|Saint-Georges-de-Bohon",,,,
 "50","Carentan-les-Marais","Angoville-au-Plain|Carentan|Houesville|Saint-Côme-du-Mont",,,,
 "50","Picauville","Amfreville|Cretteville|Gourbesville|Houtteville|Picauville|Vindefontaine",,,,
@@ -206,7 +206,7 @@
 "60","Anserville-Bornel-Fosseuse","Anserville|Bornel|Fosseuse",,,,
 "61","Athis-Val de Rouvre","Athis-de-l'Orne|Bréel|La Carneille|Notre-Dame-du-Rocher|Ronfeugerai|Ségrie-Fontaine|Taillebois|Les Tourailles",,,"Athis-de-l'Orne",
 "61","Bagnoles-de-l'Orne-Normandie","Bagnoles-de-l'Orne|Saint-Michel-des-Andaines",,,"Bagnoles-de-l'Orne",
-"61","Chailloué","Chailloué|Neuville-près-Sées|Marmouillé",,,,
+"61","Chailloué","Chailloué|Neuville-près-Sées|Marmouillé",,,"Chailloué",
 "61","Cour-Maugis sur Huisne","Boissy-Maugis|Courcerault|Maison-Maugis|Saint-Maurice-sur-Huisne",,,"Boissy-Maugis",
 "61","Domfront-en-Poiraie","Domfront|La Haute-Chapelle|Rouellé",,,"Domfront",
 "61","Écouché-les-Vallées","Batilly|La Courbe|Écouché|Loucé|Saint-Ouen-sur-Maire|Serans",,2027,"Ecouché","JORFTEXT000031665478"
@@ -226,7 +226,7 @@
 "63","Aulhat-Flat","Aulhat-Saint-Privat|Flat",,,,
 "63","Chambaron-sur-Morge","Cellule|La Moutade",,,,
 "65","Gavarnie-Gèdre","Gavarnie|Gèdre",,,,
-"67","Truchtersheim","Truchtersheim|Pfettisheim",,,,
+"67","Truchtersheim","Truchtersheim|Pfettisheim",,,"Truchtersheim",
 "67","Val-de-Moder","Pfaffenhoffen|La Walck|Uberach",,,,
 "67","Sommerau","Allenwiller|Birkenwald|Salenthal|Singrist",,,,
 "68","Kaysersberg Vignoble","Kaysersberg|Kientzheim|Sigolsheim",,4764,"Kaysersberg","JORFTEXT000031665358"
@@ -251,7 +251,7 @@
 "74","Epagny Metz-Tessy","Épagny|Metz-Tessy",,,,
 "74","Val-de-Chaise","Cons-Sainte-Colombe|Marlens",,,,
 "74","Talloires-Montmin","Montmin|Talloires",,,,
-"76","Forges-les-Eaux","Forges-les-Eaux|Le Fossé",,,,
+"76","Forges-les-Eaux","Forges-les-Eaux|Le Fossé",,,"Forges-les-Eaux",
 "76","Petit-Caux","Assigny|Auquemesnil|Belleville-sur-Mer|Berneval-le-Grand|Biville-sur-Mer|Bracquemont|Brunville|Derchigny|Glicourt|Gouchaupré|Greny|Guilmecourt|Intraville|Penly|Saint-Martin-en-Campagne|Saint-Quentin-au-Bosc|Tocqueville-sur-Eu|Tourville-la-Chapelle",,,,
 "76","Port-Jérôme-sur-Seine","Auberville-la-Campagne|Notre-Dame-de-Gravenchon|Touffreville-la-Cable|Triquerville",,,,
 "76","Saint-Martin-de-l'If","Mont-de-l'If|La Folletière|Fréville|Betteville",,,,
@@ -277,4 +277,4 @@
 "89","Le Val-d'Ocre","Saint-Aubin-Château-Neuf|Saint-Martin-sur-Ocre",,,,
 "89","Sépeaux-Saint-Romain","Sépeaux|Saint-Romain-le-Preux",,,,
 "89","Les Vallées-de-la-Vanne","Chigy|Vareilles|Theil-sur-Vanne",,,,
-"89","Vermenton","Vermenton|Sacy",,,,
+"89","Vermenton","Vermenton|Sacy",,"Vermenton",,
