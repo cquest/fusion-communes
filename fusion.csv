@@ -63,7 +63,7 @@
 "24","Saint-Aulaye-Puymangou","Saint-Aulaye|Puymangou",,,,
 "24","Sainte-Alvère-Saint-Laurent-les-Bâtons","Sainte-Alvère|Saint-Laurent-des-Bâtons",,,,
 "24","Sorges-et-Ligueux-en-Périgord","Ligueux|Sorges",,1613,"Sorges",
-"25","Les Premiers Sapins","Athose|Chasnans|Hautepierre-le-Châtelet|Nods|Rantechaux|Vanclans",,1537,"Nods","JORFTEXT000031690275"
+"25","Les Premiers-Sapins","Athose|Chasnans|Hautepierre-le-Châtelet|Nods|Rantechaux|Vanclans",,1537,"Nods","JORFTEXT000031690275"
 "25","Ornans","Ornans|Bonnevaux-le-Prieuré",,4460,"Ornans","JORFTEXT000031690227"
 "25","Osselle-Routelle","Osselle|Routelle",,905,"Osselle",
 "25","Sancey","Sancey-le-Grand|Sancey-le-Long",,1322,"Sancey-le-Grand","JORFTEXT000031680352"
@@ -114,7 +114,7 @@
 "39","Nanchez","Chaux-des-Prés|Prénovel",,,,
 "39","Val-d'Épy","Val-d'Épy|Florentia|Nantey|Senaud",,312,"Val-d'Épy",
 "41","Beauce-la-Romaine","La Colombe|Membrolles|Ouzouer-le-Marché|Prénouvellon|Semerville|Tripleville|Verdes",,3490,"Ouzouer-le-Marché","JORFTEXT000031690230"
-"41","Montrichard Val de Cher","Montrichard|Bourré",,4167,"Montrichard","JORFTEXT000031690290"
+"41","Montrichard-Val-de-Cher","Montrichard|Bourré",,4167,"Montrichard","JORFTEXT000031690290"
 "41","Valencisse","Molineuf|Orchaise",,,,
 "42","Chalmazel-Jeansagnière","Chalmazel|Jeansagnière",,484,"Chalmazel","JORFTEXT000031690197"
 "44","Chaumes-en-Retz","Chéméré|Arthon-en-Retz",,,"Arthon-en-Retz",
@@ -145,9 +145,9 @@
 "49","Chénillé-Champteussé","Chenillé-Changé|Champteussé-sur-Baconne",,,"Champteussé-sur-Baconne",
 "49","Erdre-en-Anjou","Brain-sur-Longuenée|Gené|La Pouëze||Vern-d'Anjou",,,,
 "49","Gennes-Val-de-Loire","Chênehutte-Trèves-Cunault|Gennes|Grézillé|Saint-Georges-des-Sept-Voies|Le Thoureil",,4989,"Gennes",
-"49","Jarzé Villages","Beauvau|Chaumont-d'Anjou|Jarzé|Lué-en-Baugeois",,,"Jarzé",
+"49","Jarzé-Villages","Beauvau|Chaumont-d'Anjou|Jarzé|Lué-en-Baugeois",,,"Jarzé",
 "49","Le Lion-d'Angers","Le Lion-d'Angers|Andigné",,4356,"Le Lion-d'Angers","JORFTEXT000031665364"
-"49","Les Bois d'Anjou","Fontaine-Guérin|Brion|Saint-Georges-du-Bois",,2636,"Fontaine-Guérin","JORFTEXT000031665367"
+"49","Les Bois-d'Anjou","Fontaine-Guérin|Brion|Saint-Georges-du-Bois",,2636,"Fontaine-Guérin","JORFTEXT000031665367"
 "49","Loire-Authion","Andard|Bauné|La Bohalle|Brain-sur-l'Authion|Corné|La Daguenière|Saint-Mathurin-sur-Loire",,,"Saint-Mathurin-sur-Loire",
 "49","Longuenée-en-Anjou","La Meignanne|La Membrolle-sur-Longuenée|Le Plessis-Macé|Pruillé",,,"La Membrolle-sur-Longuenée",
 "49","Lys-Haut-Layon","Les Cerqueux-sous-Passavant|La Fosse-de-Tigné|Nueil-sur-Layon|Tancoigné|Tigné|Trémont|Vihiers|Saint-Hilaire-du-Bois|Le Voide",,,,
@@ -191,7 +191,7 @@
 "50","Sartilly-Baie-Bocage","Sartilly|Angey|Champcey|Montviron|La Rochelle-Normande",,,,
 "50","Sourdeval-Vengeons","Sourdeval|Vengeons",,,,
 "50","Terre-et-Marais","Sainteny|Saint-Georges-de-Bohon",,,,
-"50","Tessy Bocage","Tessy-sur-Vire|Fervaches",,1857,"Tessy-sur-Vire","JORFTEXT000031665412"
+"50","Tessy-Bocage","Tessy-sur-Vire|Fervaches",,1857,"Tessy-sur-Vire","JORFTEXT000031665412"
 "50","Thèreval","Hébécrevon|La Chapelle-en-Juger",,,,
 "50","Torigny-les-Villes","Torigni-sur-Vire|Brectouville|Giéville|Guilberville",,4339,"Torigni-sur-Vire","JORFTEXT000031665409"
 "50","Vicq-sur-Mer","Néville-sur-Mer|Réthoville|Cosqueville|Gouberville",,,,
@@ -211,16 +211,16 @@
 "59","Ghyvelde","Ghyvelde|Les Moëres",,,,
 "59","Téteghem-Coudekerque-Village","Coudekerque-Village|Téteghem",,,,
 "60","Anserville-Bornel-Fosseuse","Anserville|Bornel|Fosseuse",,,,
-"61","Athis-Val de Rouvre","Athis-de-l'Orne|Bréel|La Carneille|Notre-Dame-du-Rocher|Ronfeugerai|Ségrie-Fontaine|Taillebois|Les Tourailles",,,"Athis-de-l'Orne",
+"61","Athis-Val-de-Rouvre","Athis-de-l'Orne|Bréel|La Carneille|Notre-Dame-du-Rocher|Ronfeugerai|Ségrie-Fontaine|Taillebois|Les Tourailles",,,"Athis-de-l'Orne",
 "61","Bagnoles-de-l'Orne-Normandie","Bagnoles-de-l'Orne|Saint-Michel-des-Andaines",,,"Bagnoles-de-l'Orne",
 "61","Chailloué","Chailloué|Neuville-près-Sées|Marmouillé",,,"Chailloué",
-"61","Cour-Maugis sur Huisne","Boissy-Maugis|Courcerault|Maison-Maugis|Saint-Maurice-sur-Huisne",,,"Boissy-Maugis",
+"61","Cour-Maugis-sur-Huisne","Boissy-Maugis|Courcerault|Maison-Maugis|Saint-Maurice-sur-Huisne",,,"Boissy-Maugis",
 "61","Domfront-en-Poiraie","Domfront|La Haute-Chapelle|Rouellé",,,"Domfront",
 "61","Écouché-les-Vallées","Batilly|La Courbe|Écouché|Loucé|Saint-Ouen-sur-Maire|Serans",,2027,"Ecouché","JORFTEXT000031665478"
 "61","Écouves","Forges|Radon|Vingt-Hanaps",,1799,"Radon","JORFTEXT000031665415"
 "61","Juvigny-Val-d'Andaine","Beaulandais|La Baroche-sous-Lucé|Juvigny-sous-Andaine|Lucé|Loré|Saint-Denis-de-Villenette|Sept-Forges",,2221,"Juvigny-sous-Andaine",
 "61","La Ferté-en-Ouche","Anceins|Bocquencé|Couvains|La Ferté-Frênel|Gauville|Glos-la-Ferrière|Heugon|Monnai|Saint-Nicolas-des-Laitiers|Villers-en-Ouche",,3316,"La Ferté-Frênel","JORFTEXT000031665475"
-"61","Les Monts d'Andaine","Saint-Maurice-du-Désert|La Sauvagère",,1763,"La Sauvagère","JORFTEXT000031665418"
+"61","Les Monts-d'Andaine","Saint-Maurice-du-Désert|La Sauvagère",,1763,"La Sauvagère","JORFTEXT000031665418"
 "61","Longny-les-Villages","La Lande-sur-Eure|Longny-au-Perche|Malétable|Marchainville|Monceaux-au-Perche|Moulicent|Neuilly-sur-Eure|Chailloué|Neuville-près-Sées|Marmouillé",,,"Chailloué",
 "61","Passais-Villages","L'Epinay-le-Comte|Passais-la-Conception|Saint-Siméon",,1241,"Passais-la-Conception",
 "61","Perche-en-Nocé","Colonard-Corubert|Dancé|Nocé|Préaux-du-Perche|Saint-Aubin-des-Grois|Saint-Jean-de-la-Forêt",,,,
@@ -243,7 +243,7 @@
 "68","Bernwiller","Ammertzwiller|Bernwiller",,1081,"Ammertzwiller","JORFTEXT000031665499"
 "68","Brunstatt-Didenheim","Brunstatt|Didenheim",,,,
 "68","Illtal","Grentzingen|Henflingen|Oberdorf",,,,
-"68","Kaysersberg Vignoble","Kaysersberg|Kientzheim|Sigolsheim",,4764,"Kaysersberg","JORFTEXT000031665358"
+"68","Kaysersberg-Vignoble","Kaysersberg|Kientzheim|Sigolsheim",,4764,"Kaysersberg","JORFTEXT000031665358"
 "68","Le Haut-Soultzbach","Mortzwiller|Soppe-le-Haut",,925,"Mortzwiller","JORFTEXT000031665469"
 "68","Masevaux-Niederbruck","Masevaux|Niederbruck",,,,
 "68","Porte-du-Ried","Holtzwihr|Riedwihr",,,,
@@ -252,12 +252,12 @@
 "70","La Romaine","Le Pont-de-Planches|Greucourt|Vezet",,,,
 "71","Fragnes-la-Loyère","Fragnes|La Loyère",,,,
 "72","Ballon-Saint-Mars","Ballon|Saint-Mars-sous-Ballon",,2190,"Ballon",
-"72","Tuffé Val de la Chéronne","Saint-Hilaire-le-Lierru|Tuffé",,1797,"Tuffé","JORFTEXT000031665421"
+"72","Tuffé-Val-de-la-Chéronne","Saint-Hilaire-le-Lierru|Tuffé",,1797,"Tuffé","JORFTEXT000031665421"
 "73","Aime-la-Plagne","Aime|Granier|Montgirod",,4512,"Aime","JORFTEXT000031665505"
 "73","Entrelacs","Albens|Cessens|Épersy|Mognard|Saint-Germain-la-Chambotte|Saint-Girod",,5863,"Albens","JORFTEXT000031665391"
-"73","La Plagne Tarentaise","Bellentre|La Côte-d'Aime|Mâcot-la-Plagne|Valezan",,3964,"Mâcot-la-Plagne","JORFTEXT000031665496"
+"73","La Plagne-Tarentaise","Bellentre|La Côte-d'Aime|Mâcot-la-Plagne|Valezan",,3964,"Mâcot-la-Plagne","JORFTEXT000031665496"
 "73","Les Belleville","Saint-Martin-de-Belleville|Villarlurin",,2998,"Saint-Martin-de-Belleville","JORFTEXT000031665493"
-"74","Epagny Metz-Tessy","Épagny|Metz-Tessy",,,,
+"74","Epagny-Metz-Tessy","Épagny|Metz-Tessy",,,,
 "74","Faverges-Seythenex","Faverges|Seythenex",,,,
 "74","Talloires-Montmin","Montmin|Talloires",,,,
 "74","Val-de-Chaise","Cons-Sainte-Colombe|Marlens",,,,
@@ -280,7 +280,7 @@
 "85","Mouilleron-Saint-Germain","Mouilleron-en-Pareds|Saint-Germain-l'Aiguiller",,,,
 "85","Sèvremont","Les Châtelliers-Châteaumur|La Flocellière|La Pommeraie-sur-Sèvre|Saint-Michel-Mont-Mercure",,,,
 "86","Senillé-Saint-Sauveur","Senillé|Saint-Sauveur",,,,
-"87","Val d'Issoire","Bussière-Boffy|Mézières-sur-Issoire",,,,
+"87","Val-d'Issoire","Bussière-Boffy|Mézières-sur-Issoire",,,,
 "88","Granges-Aumontzey","Granges-sur-Vologne|Aumontzey",,,,
 "89","Charny-Orée-de-Puisaye","Chambeugle|Charny|Chêne-Arnoult|Chevillon|Dicy|Fontenouilles|Grandchamp|Malicorne|Marchais-Beton|Perreux|Prunoy|Saint-Denis-sur-Ouanne|Saint-Martin-sur-Ouanne|Villefranche|",,,,
 "89","Le Val-d'Ocre","Saint-Aubin-Château-Neuf|Saint-Martin-sur-Ocre",,,,
