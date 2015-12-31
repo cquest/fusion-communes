@@ -59,10 +59,10 @@ with open('fusion.csv') as fichierfusions:
     for ref in inner:
       objlist = "w" + str(ref) + "," + objlist
     #requests.get("""http://localhost:8111/load_object?new_layer=true&objects=%s&addtags=admin_level:proposed=10&relation_members=true""" % objlist)
-    requests.get("""http://localhost:8111/load_object?new_layer=true&objects=%s&relation_members=true""" % objlist)
+    requests.get("""http://localhost:8111/load_object?objects=%s&relation_members=true""" % objlist)
     
 
-    overpass = """http://overpass-api.de/api/interpreter?data=[out:json];relation["start_date"~"^2016"]["ref:INSEE"~"^%s"][name~"^(%s)$",i];out;""" % (fusion['dep'], fusion['nouvelle'])
+    overpass = """http://overpass-api.de/api/interpreter?data=[out:json];relation["start_date"~"^2016"][name~"^(%s)$",i];out;""" % (fusion['nouvelle'].replace(' ','.').replace('-','.').replace('É','.'))
     osm = requests.get(overpass)
     nouvelle_json = json.loads(osm.text) # transforme réponse HTTP (text) en dictionnaire (json)
     if len(nouvelle_json['elements']) == 0:
@@ -92,7 +92,7 @@ with open('fusion.csv') as fichierfusions:
     <tag k='admin_level:proposed' v='8' />
     <tag k='start_date' v='2016-01-01' />
     %s
-    <tag k='name' v='%s' />
+    <tag k='name' v="%s" />
     %s
     %s
     %s
@@ -102,7 +102,14 @@ with open('fusion.csv') as fichierfusions:
 
       requests.get("""http://localhost:8111/load_data?data="""+urllib.parse.quote_plus(newrel))
     else:
+      nouvelle = nouvelle_json['elements'][0]
       # la nouvelle commune existe déjà, on la charge en positionnant les tags voulus
+      tags = "start_date=2016-01-01|name="+fusion['nouvelle']
       nouvelle_id = "r" + str(nouvelle_json['elements'][0]['id'])
-      requests.get("""http://localhost:8111/load_object?&objects=%s&addtags=admin_level:proposed=8|start_date=2016-01-01|ref:INSEE=%s|name=%s&relation_members=true""" % (nouvelle_id, insee,fusion['nouvelle']))
+      if nouvelle['tags'].get('ref:INSEE','')=='' and insee !='':
+        tags = tags+("|ref:INSEE=%s" % insee)
+      if nouvelle['tags'].get('admin_level','')!='8' :
+        tags = tags+"|admin_level:proposed=8"
+
+      requests.get("""http://localhost:8111/load_object?&objects=%s&addtags=%s&relation_members=true""" % (nouvelle_id, tags))
 
