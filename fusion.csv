@@ -16,12 +16,13 @@
 "08","Mouzon","Mouzon|Amblimont",,,"Mouzon",
 "10","Aix-Villemaur-Pâlis","Aix-en-Othe|Villemaur-sur-Vanne|Palis",,,,
 "11","Val-de-Lambronne","Caudeval|Gueytes-et-Labastide",,214,"Caudeval","JORFTEXT000031690236"
-"12","Argences en Aubrac","Alpuech|Graissac|Lacalm|La Terrisse|Sainte-Geneviève-sur-Argence|Vitrac-en-Viadène",,1761,"Sainte-Geneviève-sur-Argence","JORFTEXT000031690242"
+"12","Argences-en-Aubrac","Alpuech|Graissac|Lacalm|La Terrisse|Sainte-Geneviève-sur-Argence|Vitrac-en-Viadène",,1761,"Sainte-Geneviève-sur-Argence","JORFTEXT000031690242"
 "12","Conques-en-Rouergue ","Conques|Grand-Vabre|Noailhac|Saint-Cyprien-sur-Dourdou",,1747,"Conques","JORFTEXT000031690245"
-"12","Laissac-Sévérac l'Eglise ","Laissac|Sévérac-l'Eglise",,2182,"Laissac","JORFTEXT000031690260"
-"12","Palmas d'Aveyron","Coussergues|Cruéjouls|Palmas",,1059,"Palmas","JORFTEXT000031690272"
-"12","Saint Geniez d'Olt et d'Aubrac ","Saint-Geniez-d'Olt|Aurelle-Verlac",,2192,"Saint-Geniez-d'Olt","JORFTEXT000031690218"
-"12","Sévérac d'Aveyron ","Buzeins|Lapanouse|Lavernhe|Recoules-Prévinquières|Sévérac-le-Château",,4232,"Sévérac-le-Château","JORFTEXT000031690221"
+"12","Laissac-Sévérac-l'Église ","Laissac|Sévérac-l'Eglise",,2182,"Laissac","JORFTEXT000031690260"
+"12","Palmas-d'Aveyron","Coussergues|Cruéjouls|Palmas",,1059,"Palmas","JORFTEXT000031690272"
+"12","Saint-Geniez-d'Olt-et-d'Aubrac ","Saint-Geniez-d'Olt|Aurelle-Verlac",,2192,"Saint-Geniez-d'Olt","JORFTEXT000031690218"
+"12","Sévérac-d'Aveyron ","Buzeins|Lapanouse|Lavernhe|Recoules-Prévinquières|Sévérac-le-Château",,4232,"Sévérac-le-Château","JORFTEXT000031690221"
+"12","Le Bas-Ségala","La Bastide-l'Évêque|Saint-Salvadou|Vabre-Tizac",,1650,"La Bastide-l'Évêque",
 "14","Balleroy-sur-Drôme","Balleroy|Vaubadon",,,,
 "14","Colomby-Anguerny","Anguerny|Colomby-sur-Thaon",,1193,"Anguerny","JORFTEXT000031690170"
 "14","Condé-en-Normandie","Condé-sur-Noireau|Saint-Germain-du-Crioult|Proussy|Saint-Pierre-la-Vieille|Lénault|La Chapelle-Engerbold",,7260,"Condé-sur-Noireau",
@@ -230,6 +231,7 @@
 "61","Sap-en-Auge","Orville|Le Sap",,,"Le Sap",
 "61","Tourouvre-au-Perche","Autheuil|Bivilliers|Bresolettes|Bubertré|Champs|Lignerolles|La Poterie-au-Perche|Prépotin|Randonnai|Tourouvre",,,"Tourouvre",
 "61","Val-au-Perche","Gémages|L'Hermitière|Mâle|La Rouge|Saint-Agnan-sur-Erre|Le Theil",,3901,"Theil-sur-Huisne","JORFTEXT000031665388"
+"62","Saint-Augustin","Clarques|Rebecques",,790,"Rebecques",
 "63","Aulhat-Flat","Aulhat-Saint-Privat|Flat",,911,"Flat",
 "63","Chambaron-sur-Morge","Cellule|La Moutade",,1610,"La Moutade",
 "63","Nonette-Orsonnette","Nonette|Orsonnette",,530,"Nonette",
@@ -265,9 +267,9 @@
 "76","Port-Jérôme-sur-Seine","Auberville-la-Campagne|Notre-Dame-de-Gravenchon|Touffreville-la-Cable|Triquerville",,,,
 "76","Rives-en-Seine","Caudebec-en-Caux|Saint-Wandrille-Rançon|Villequier",,,,
 "76","Saint-Martin-de-l'If","Mont-de-l'If|La Folletière|Fréville|Betteville",,,,
-"77","Moret-Loing et Orvanne","Épisy|Montarlot|Orvanne",,,,
+"77","Moret-Loing-et-Orvanne","Épisy|Montarlot|Orvanne",,,,
 "79","Argentonnay","Argenton-les-Vallées|Le Breuil-sous-Argenton|La Chapelle-Gaudin|La Coudre|Moutiers-sous-Argenton|Ulcot",,,,
-"79","Saint-Maurice-Etusson ","Saint-Maurice-la-Fougereuse|Étusson",,,,
+"79","Saint-Maurice-Étusson ","Saint-Maurice-la-Fougereuse|Étusson",,,,
 "81","Bellegarde-Marsal","Bellegarde|Marsal",,,,
 "81","Fontrieu","Castelnau-de-Brassac|Ferrières|Le Margnès",,,,
 "85","Aubigny-les-Clouzeaux","Aubigny|Les Clouzeaux",,,,
