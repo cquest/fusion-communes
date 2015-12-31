@@ -165,11 +165,11 @@
 "50","Torigny-les-Villes","Torigni-sur-Vire|Brectouville|Giéville|Guilberville",,4339,"Torigni-sur-Vire","JORFTEXT000031665409"
 "50","Tessy Bocage","Tessy-sur-Vire|Fervaches",,1857,"Tessy-sur-Vire","JORFTEXT000031665412"
 "50","Grandparigny","Chèvreville|Martigny|Milly|Parigny",,2858,"Parigny","JORFTEXT000031665436"
-"50","La Haye","Baudreville|Bolleville|Glatigny|La Haye-du-Puits|Mobecq|Montgardon|Saint-Rémy-des-Landes|Saint-Symphorien-le-Valois|Surville",,,,
-"50","Montsenelle","Coigny|Lithaire|Prétot-Sainte-Suzanne|Saint-Jores",,,,
-"50","Orval-sur-Sienne","Montchaton|Orval",,,,
-"50","Ducey-les-Chéris","Ducey|Les Chéris",,,,
-"50","Saint-Jean-d'Elle","Notre-Dame-d'Elle|Précorbin|Rouxeville|Saint-Jean-des-Baisants|Vidouville",,,,
+"50","La Haye","Baudreville|Bolleville|Glatigny|La Haye-du-Puits|Mobecq|Montgardon|Saint-Rémy-des-Landes|Saint-Symphorien-le-Valois|Surville",,4112,"La Haye-du-Puits",
+"50","Montsenelle","Coigny|Lithaire|Prétot-Sainte-Suzanne|Saint-Jores",,1391,"Lithaire",
+"50","Orval-sur-Sienne","Montchaton|Orval",,1181,"Orval",
+"50","Ducey-les-Chéris","Ducey|Les Chéris",,2753,"Ducey",
+"50","Saint-Jean-d'Elle","Notre-Dame-d'Elle|Précorbin|Rouxeville|Saint-Jean-des-Baisants|Vidouville",,2394,"Saint-Jean-des-Baisants",
 "50","Quettreville-sur-Sienne","Quettreville-sur-Sienne|Hyenville",,,"Quettreville-sur-Sienne",
 "50","Thèreval","Hébécrevon|La Chapelle-en-Juger",,,,
 "50","Sainte-Mère-Église","Beuzeville-au-Plain|Chef-du-Pont|Écoquenéauville|Foucarville|Sainte-Mère-Église",,,"Sainte-Mère-Église",
@@ -222,9 +222,9 @@
 "61","Sap-en-Auge","Orville|Le Sap",,,"Le Sap",
 "61","Tourouvre-au-Perche","Autheuil|Bivilliers|Bresolettes|Bubertré|Champs|Lignerolles|La Poterie-au-Perche|Prépotin|Randonnai|Tourouvre",,,"Tourouvre",
 "61","Val-au-Perche","Gémages|L'Hermitière|Mâle|La Rouge|Saint-Agnan-sur-Erre|Le Theil",,3901,"Theil-sur-Huisne","JORFTEXT000031665388"
-"63","Nonette-Orsonnette","Nonette|Orsonnette",,,,
-"63","Aulhat-Flat","Aulhat-Saint-Privat|Flat",,,,
-"63","Chambaron-sur-Morge","Cellule|La Moutade",,,,
+"63","Nonette-Orsonnette","Nonette|Orsonnette",,530,"Nonette",
+"63","Aulhat-Flat","Aulhat-Saint-Privat|Flat",,911,"Flat",
+"63","Chambaron-sur-Morge","Cellule|La Moutade",,1610,"La Moutade",
 "65","Gavarnie-Gèdre","Gavarnie|Gèdre",,,,
 "67","Truchtersheim","Truchtersheim|Pfettisheim",,,"Truchtersheim",
 "67","Val-de-Moder","Pfaffenhoffen|La Walck|Uberach",,,,
@@ -238,7 +238,7 @@
 "68","Illtal","Grentzingen|Henflingen|Oberdorf",,,,
 "68","Masevaux-Niederbruck","Masevaux|Niederbruck",,,,
 "68","Brunstatt-Didenheim","Brunstatt|Didenheim",,,,
-"69","Cours","Cours-la-Ville|Thel|Pont-Trambouze",,,,
+"69","Cours","Cours-la-Ville|Thel|Pont-Trambouze",,,"Cours-la-Ville",
 "70","La Romaine","Le Pont-de-Planches|Greucourt|Vezet",,,,
 "71","Fragnes-la-Loyère","Fragnes|La Loyère",,,,
 "72","Tuffé Val de la Chéronne","Saint-Hilaire-le-Lierru|Tuffé",,1797,"Tuffé","JORFTEXT000031665421"
