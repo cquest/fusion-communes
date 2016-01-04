@@ -29,6 +29,7 @@ with open('fusion.csv') as fichierfusions:
     except:
       print(osm)
     for element in osm_json['elements']: # les différentes communes
+     if element['tags'].get('start_date','')!='2016-01-01':
       objlist = "r"+str(element['id'])+','+objlist
       population = population + int(element['tags'].get('population','0')) # calcule la somme des populations
       if element['tags']['name']==fusion['chflieu']:
@@ -58,8 +59,8 @@ with open('fusion.csv') as fichierfusions:
     # liste des objets à passer en nouvel admin_level
     for ref in inner:
       objlist = "w" + str(ref) + "," + objlist
-    #requests.get("""http://localhost:8111/load_object?new_layer=true&objects=%s&addtags=admin_level:proposed=10&relation_members=true""" % objlist)
-    requests.get("""http://localhost:8111/load_object?objects=%s&relation_members=true""" % objlist)
+    #requests.get("""http://localhost:8111/load_object?objects=%s&addtags=admin_level:proposed=10&relation_members=true""" % objlist)
+    requests.get("""http://localhost:8111/load_object?objects=%s&addtags=admin_level=9|disused:admin_level=8&relation_members=true""" % objlist)
     
 
     overpass = """http://overpass-api.de/api/interpreter?data=[out:json];relation["start_date"~"^2016"][name~"^(%s)$",i];out;""" % (fusion['nouvelle'].replace(' ','.').replace('-','.').replace('É','.'))
@@ -89,7 +90,7 @@ with open('fusion.csv') as fichierfusions:
   <relation id='-1' action='modify' visible='true'>
     <tag k='type' v='boundary' />
     <tag k='boundary' v='administrative' />
-    <tag k='admin_level:proposed' v='8' />
+    <tag k='admin_level' v='8' />
     <tag k='start_date' v='2016-01-01' />
     %s
     <tag k='name' v="%s" />
@@ -109,7 +110,8 @@ with open('fusion.csv') as fichierfusions:
       if nouvelle['tags'].get('ref:INSEE','')=='' and insee !='':
         tags = tags+("|ref:INSEE=%s" % insee)
       if nouvelle['tags'].get('admin_level','')!='8' :
-        tags = tags+"|admin_level:proposed=8"
+        tags = tags+"|admin_level=8"
 
       requests.get("""http://localhost:8111/load_object?&objects=%s&addtags=%s&relation_members=true""" % (nouvelle_id, tags))
+   
 
