@@ -1,8 +1,10 @@
 "dep","nouvelle","anciennes","date","population","chflieu","jorf"
 "01","Arboys-en-Bugey","Arbignieu|Saint-Bois",,621,"Arbignieu",
 "01","Champdor-Corcelles","Champdor|Corcelles",,730,"Champdor","JORFTEXT000031690269"
+"01","Groslée-Saint-Benoît","Groslée|Saint-Benoît",,,,
 "01","Haut-Valromey","Hotonnes|Le Grand-Abergement|Le Petit-Abergement|Songieu",,,"Hotonnes",
 "01","Le Poizat-Lalleyriat","Lalleyriat|Le Poizat",,717,"Lalleyriat","JORFTEXT000031690152"
+"01","Parves-et-Nattages","Nattages|Parves",,,,
 "01","Val-Revermont","Pressiat|Treffort-Cuisiat",,,"Treffort-Cuisiat",
 "02","Dhuys-et-Morin-en-Brie","Artonges|La Celle-sous-Montmirail|Fontenelle-en-Brie|Marchais-en-Brie",,831,"Marchais-en-Brie","JORFTEXT000031690149"
 "02","Les Septvallons","Vauxcéré|Glennes|Longueval-Barbonval|Merval|Perles|Révillon|Villers-en-Prayères",,1211,"Longueval-Barbonval","JORFTEXT000031680364"
@@ -12,17 +14,19 @@
 "05","Garde-Colombe","Eyguians|Lagrand|Saint-Genis",,549,"Eyguians","JORFTEXT000031690182"
 "05","Val-Buëch-Méouge","Antonaves|Châteauneuf-de-Chabre|Ribiers",,1343,"Ribiers","JORFTEXT000031690146"
 "08","Bairon-et-ses-Environs","Les Alleux|Le Chesne|Louvergny",,,,
+"08","Chémery-Chéhéry","Chémery-sur-Bar|Chéhéry",,,,
 "08","Grandpré","Grandpré|Termes",,601,"Grandpré","JORFTEXT000031690233"
 "08","Mouzon","Mouzon|Amblimont",,,"Mouzon",
 "10","Aix-Villemaur-Pâlis","Aix-en-Othe|Villemaur-sur-Vanne|Palis",,,,
+"11","Quillan","Brenac|Quillan",,3605,"Quillan","JORFTEXT000031741222"
 "11","Val-de-Lambronne","Caudeval|Gueytes-et-Labastide",,214,"Caudeval","JORFTEXT000031690236"
 "12","Argences-en-Aubrac","Alpuech|Graissac|Lacalm|La Terrisse|Sainte-Geneviève-sur-Argence|Vitrac-en-Viadène",,1761,"Sainte-Geneviève-sur-Argence","JORFTEXT000031690242"
 "12","Conques-en-Rouergue ","Conques|Grand-Vabre|Noailhac|Saint-Cyprien-sur-Dourdou",,1747,"Conques","JORFTEXT000031690245"
-"12","Laissac-Sévérac-l'Église ","Laissac|Sévérac-l'Eglise",,2182,"Laissac","JORFTEXT000031690260"
+"12","Laissac-Sévérac-l'Église ","Laissac|Sévérac-l'Église",,2182,"Laissac","JORFTEXT000031690260"
+"12","Le Bas-Ségala","La Bastide-l'Évêque|Saint-Salvadou|Vabre-Tizac",,1650,"La Bastide-l'Évêque",
 "12","Palmas-d'Aveyron","Coussergues|Cruéjouls|Palmas",,1059,"Palmas","JORFTEXT000031690272"
 "12","Saint-Geniez-d'Olt-et-d'Aubrac ","Saint-Geniez-d'Olt|Aurelle-Verlac",,2192,"Saint-Geniez-d'Olt","JORFTEXT000031690218"
 "12","Sévérac-d'Aveyron ","Buzeins|Lapanouse|Lavernhe|Recoules-Prévinquières|Sévérac-le-Château",,4232,"Sévérac-le-Château","JORFTEXT000031690221"
-"12","Le Bas-Ségala","La Bastide-l'Évêque|Saint-Salvadou|Vabre-Tizac",,1650,"La Bastide-l'Évêque",
 "14","Balleroy-sur-Drôme","Balleroy|Vaubadon",,,,
 "14","Colomby-Anguerny","Anguerny|Colomby-sur-Thaon",,1193,"Anguerny","JORFTEXT000031690170"
 "14","Condé-en-Normandie","Condé-sur-Noireau|Saint-Germain-du-Crioult|Proussy|Saint-Pierre-la-Vieille|Lénault|La Chapelle-Engerbold",,7260,"Condé-sur-Noireau",
@@ -37,17 +41,20 @@
 "14","Val-de-Vie","Sainte-Foy-de-Montgommery|Saint-Germain-de-Montgommery|La Chapelle-Haute-Grue|La Brévière","2015-12-22",563,"Sainte-Foy-de-Montgommery",
 "14","Valdallière","Bernières-le-Patry|Burcy|Chênedollé|Le Désert|Estry|Montchamp|Pierres|Presles|La Rocque|Rully|Saint-Charles-de-Percy|Le Theil-Bocage|Vassy|Viessoix",,,,
 "14","Valorbiquet","La Chapelle-Yvon|Saint-Cyr-du-Ronceray|Saint-Julien-de-Mailloc|Saint-Pierre-de-Mailloc|Tordouet","2015-12-09",2478,"Saint-Cyr-du-Ronceray",
+"14","Vire-Normandie","Coulonces|Maisoncelles-la-Jourdan|Roullours|Saint-Germain-de-Tallevende-la-Lande-Vaumont|Truttemer-le-Grand|Truttemer-le-Petit|Vaudry|Vire",,,,
 "15","Le Rouget-Pers","Le Rouget|Pers",,1289,"Le Rouget",
 "15","Saint-Constant-Fournoulès","Saint-Constant|Fournoulès",,640,"Saint-Constant","JORFTEXT000031690300"
 "15","Val-d'Arcomie","Faverolles|Loubaresse|Saint-Just|Saint-Marc",,1031,"Loubaresse","JORFTEXT000031690173"
 "16","Boisné-la-Tude","Charmant|Chavenat|Juillaguet",,732,"Charmant","JORFTEXT000031690239"
 "16","Confolens","Confolens|Saint-Germain-de-Confolens",,2935,"Confolens",
 "16","Genac-Bignac","Genac|Bignac",,,,
+"16","Montmérac","Montchaude|Lamérac",,,,
 "16","Rouillac","Plaizac|Rouillac|Sonneville",,2312,"Rouillac","JORFTEXT000031690161"
 "16","Val-des-Vignes","Aubeville|Jurignac|Mainfonds|Péreuil",,1364,"Jurignac","JORFTEXT000031690185"
 "17","Essouvert","La Benâte|Saint-Denis-du-Pin",,1227,"Saint-Denis-du-Pin","JORFTEXT000031690224"
 "17","Réaux-sur-Trèfle","Réaux|Moings|Saint-Maurice-de-Tavernole",,795,"Réaux","JORFTEXT000031690140"
 "19","Malemort","Malemort-sur-Corrèze|Venarsal",,8330,"Malemort-sur-Corrèze","JORFTEXT000031690215"
+"21","Val-Mont","Jours-en-Vaux|Ivry-en-Montagne",,,,
 "22","Jugon-les-Lacs","Jugon-les-Lacs|Dolo",,,"Jugon-les-Lacs",
 "22","Lamballe","Lamballe|Meslin",,,"Lamballe",
 "22","Le Mené","Collinée|Langourla|Le Gouray|Plessala|Saint-Gilles-du-Mené|Saint-Gouéno|Saint-Jacut-du-Mené",,,"Collinée",
@@ -55,6 +62,7 @@
 "22","Plœuc-L'Hermitage","Plœuc-sur-Lié|L'Hermitage-Lorge",,,"Plœuc-sur-Lié",
 "22","Pordic","Pordic|Tréméloir",,,"Pordic",
 "23","Parsac-Rimondeix","Parsac|Rimondeix",,694,"Parsac","JORFTEXT000031690158"
+"24","Beaumontois-en-Périgord","Beaumont-du-Périgord|Labouquerie|Nojals-et-Clotte|Sainte-Sabine-Born",,,,
 "24","Boulazac-Isle-Manoire","Atur|Boulazac|Saint-Laurent-sur-Manoire",,,,
 "24","Brantôme-en-Périgord","Brantôme|Saint-Julien-de-Bourdeilles",,,,
 "24","Coux-et-Bigaroque-Mouzens","Coux-et-Bigaroque|Mouzens",,,,
@@ -94,6 +102,7 @@
 "28","Mittainvilliers-Vérigny","Mittainvilliers|Vérigny",,,,
 "28","Theuville","Pézy|Theuville",,,"Theuville",
 "29","Audierne","Audierne|Esquibien",,3839,"Audierne","JORFTEXT000031690191"
+"29","Saint-Thégonnec-Loc-Éguiner","Saint-Thégonnec|Loc-Eguiner-Saint-Thégonnec",,,,
 "32","Castelnau-d'Auzan-Labarrère","Castelnau-d'Auzan|Labarrère",,,,
 "33","Val-de-Virvée","Aubie-et-Espessas|Saint-Antoine|Salignac",,,,
 "35","Guipry-Messac","Guipry|Messac",,6823,"Messac","JORFTEXT000031690143"
@@ -103,10 +112,12 @@
 "36","Val-Fouzon","Parpeçay|Sainte-Cécile|Varennes-sur-Fouzon",,1061,"Varennes-sur-Fouzon","JORFTEXT000031690287"
 "38","Autrans-Méaudre-en-Vercors","Méaudre|Autrans",,,"Méaudre",
 "38","Crêts-en-Belledonne","Saint-Pierre-d'Allevard|Morêtel-de-Mailles",,,"Saint-Pierre-d'Allevard",
+"38","Les Abrets-en-Dauphiné","Les Abrets|La Bâtie-Divisin|Fitilieu",,,,
 "38","Les Avenières-Veyrins-Thuellin","Les Avenières|Veyrins-Thuellin",,,"Les Avenières",
 "38","Saint-Antoine-l'Abbaye","Saint-Antoine-l'Abbaye|Dionay",,,"Saint-Antoine-l'Abbaye",
 "39","Arlay","Arlay|Saint-Germain-lès-Arlay",,1258,"Arlay","JORFTEXT000031690203"
 "39","Hauteroche","Crançot|Granges-sur-Baume|Mirebel",,994,"Crançot",
+"39","Hauts-de-Bienne","La Mouille|Lézat|Morez",,,,
 "39","La Chailleuse","Arthenas|Essia|Saint-Laurent-la-Roche|Varessia",,620,"Arthenas","JORFTEXT000031690206"
 "39","Lavans-lès-Saint-Claude","Lavans-lès-Saint-Claude|Ponthoux",,2084,"Lavans-lès-Saint-Claude","JORFTEXT000031690200"
 "39","Mièges","Esserval-Combe|Mièges|Molpré",,129,"Mièges","JORFTEXT000031665442"
@@ -117,6 +128,8 @@
 "41","Montrichard-Val-de-Cher","Montrichard|Bourré",,4167,"Montrichard","JORFTEXT000031690290"
 "41","Valencisse","Molineuf|Orchaise",,,,
 "42","Chalmazel-Jeansagnière","Chalmazel|Jeansagnière",,484,"Chalmazel","JORFTEXT000031690197"
+"43","Esplantas-Vazeilles","Esplantas|Vazeilles-près-Saugues",,,,
+"43","Thoras","Croisances|Thoras",,,,
 "44","Chaumes-en-Retz","Chéméré|Arthon-en-Retz",,,"Arthon-en-Retz",
 "44","Divatte-sur-Loire","Barbechat|La Chapelle-Basse-Mer",,,"La Chapelle-Basse-Mer",
 "44","Loireauxence","Belligné|La Chapelle-Saint-Sauveur|La Rouxière|Varades",,,"Varades",
@@ -145,6 +158,7 @@
 "49","Chénillé-Champteussé","Chenillé-Changé|Champteussé-sur-Baconne",,,"Champteussé-sur-Baconne",
 "49","Erdre-en-Anjou","Brain-sur-Longuenée|Gené|La Pouëze||Vern-d'Anjou",,,,
 "49","Gennes-Val-de-Loire","Chênehutte-Trèves-Cunault|Gennes|Grézillé|Saint-Georges-des-Sept-Voies|Le Thoureil",,4989,"Gennes",
+"49","Ingrandes-Le-Fresne-sur-Loire","Ingrandes|Le Fresne-sur-Loire",,2676,"Ingrandes",
 "49","Jarzé-Villages","Beauvau|Chaumont-d'Anjou|Jarzé|Lué-en-Baugeois",,,"Jarzé",
 "49","Le Lion-d'Angers","Le Lion-d'Angers|Andigné",,4356,"Le Lion-d'Angers","JORFTEXT000031665364"
 "49","Les Bois-d'Anjou","Fontaine-Guérin|Brion|Saint-Georges-du-Bois",,2636,"Fontaine-Guérin","JORFTEXT000031665367"
@@ -189,7 +203,7 @@
 "50","Saint-Jean-d'Elle","Notre-Dame-d'Elle|Précorbin|Rouxeville|Saint-Jean-des-Baisants|Vidouville",,2394,"Saint-Jean-des-Baisants",
 "50","Sainte-Mère-Église","Beuzeville-au-Plain|Chef-du-Pont|Écoquenéauville|Foucarville|Sainte-Mère-Église",,,"Sainte-Mère-Église",
 "50","Sartilly-Baie-Bocage","Sartilly|Angey|Champcey|Montviron|La Rochelle-Normande",,,,
-"50","Sourdeval-Vengeons","Sourdeval|Vengeons",,,,
+"50","Sourdeval","Sourdeval|Vengeons",,,"Sourdeval",
 "50","Terre-et-Marais","Sainteny|Saint-Georges-de-Bohon",,,,
 "50","Tessy-Bocage","Tessy-sur-Vire|Fervaches",,1857,"Tessy-sur-Vire","JORFTEXT000031665412"
 "50","Thèreval","Hébécrevon|La Chapelle-en-Juger",,,,
@@ -198,7 +212,10 @@
 "50","Villedieu-les-Poêles-Rouffigny","Rouffigny|Villedieu-les-Poêles",,4224,"Villedieu-les-Poêles","JORFTEXT000031665463"
 "51","Aÿ-Champagne","Ay|Bisseuil|Mareuil-sur-Ay",,,,
 "51","Val-de-Livre","Louvois|Tauxières-Mutry",,,,
+"52","La Porte-du-Der","Montier-en-Der|Robert-Magny",,,,
 "52","Le Montsaugeonnais","Montsaugeon|Prauthoy|Vaux-sous-Aubigny",,,,
+"52","Rives-Dervoises","Droyes|Longeville-sur-la-Laines|Louze|Puellemontier",,,,
+"52","Saints-Geosmes","Balesmes-sur-Marne|Saints-Geosmes",,1238,"Saints-Geosmes","JORFTEXT000031741224"
 "52","Villegusien-le-Lac","Heuilley-Cotton|Villegusien-le-Lac",,,,
 "53","Loiron-Ruillé","Loiron|Ruillé-le-Gravelais",,2506,"Loiron","JORFTEXT000031665508"
 "53","Pré-en-Pail-Saint-Samson","Pré-en-Pail|Saint-Samson",,,"Pré-en-Pail",
@@ -210,7 +227,7 @@
 "58","Beaulieu","Beaulieu|Dompierre-sur-Héry|Michaugues",,,,
 "59","Ghyvelde","Ghyvelde|Les Moëres",,,,
 "59","Téteghem-Coudekerque-Village","Coudekerque-Village|Téteghem",,,,
-"60","Anserville-Bornel-Fosseuse","Anserville|Bornel|Fosseuse",,,,
+"60","Bornel","Anserville|Bornel|Fosseuse",,,,
 "61","Athis-Val-de-Rouvre","Athis-de-l'Orne|Bréel|La Carneille|Notre-Dame-du-Rocher|Ronfeugerai|Ségrie-Fontaine|Taillebois|Les Tourailles",,,"Athis-de-l'Orne",
 "61","Bagnoles-de-l'Orne-Normandie","Bagnoles-de-l'Orne|Saint-Michel-des-Andaines",,,"Bagnoles-de-l'Orne",
 "61","Chailloué","Chailloué|Neuville-près-Sées|Marmouillé",,,"Chailloué",
@@ -222,7 +239,7 @@
 "61","La Ferté-en-Ouche","Anceins|Bocquencé|Couvains|La Ferté-Frênel|Gauville|Glos-la-Ferrière|Heugon|Monnai|Saint-Nicolas-des-Laitiers|Villers-en-Ouche",,3316,"La Ferté-Frênel","JORFTEXT000031665475"
 "61","Les Monts-d'Andaine","Saint-Maurice-du-Désert|La Sauvagère",,1763,"La Sauvagère","JORFTEXT000031665418"
 "61","Longny-les-Villages","La Lande-sur-Eure|Longny-au-Perche|Malétable|Marchainville|Monceaux-au-Perche|Moulicent|Neuilly-sur-Eure|Chailloué|Neuville-près-Sées|Marmouillé",,,"Chailloué",
-"61","Passais-Villages","L'Epinay-le-Comte|Passais-la-Conception|Saint-Siméon",,1241,"Passais-la-Conception",
+"61","Passais-Villages","L'Épinay-le-Comte|Passais-la-Conception|Saint-Siméon",,1241,"Passais-la-Conception",
 "61","Perche-en-Nocé","Colonard-Corubert|Dancé|Nocé|Préaux-du-Perche|Saint-Aubin-des-Grois|Saint-Jean-de-la-Forêt",,,,
 "61","Putanges-le-Lac","Chênedouit|La Forêt-Auvray|La Fresnaye-au-Sauvage|Ménil-Jean|Putanges-Pont-Écrepin|Rabodanges|Les Rotours|Saint-Aubert-sur-Orne|Sainte-Croix-sur-Orne",,2156,"Putanges-Pont-Écrepin",
 "61","Rémalard-en-Perche","Rémalard|Bellou-sur-Huisne|Dorceau",,2124,"Rémalard","JORFTEXT000031665376"
@@ -236,9 +253,11 @@
 "63","Chambaron-sur-Morge","Cellule|La Moutade",,1610,"La Moutade",
 "63","Nonette-Orsonnette","Nonette|Orsonnette",,530,"Nonette",
 "65","Gavarnie-Gèdre","Gavarnie|Gèdre",,,,
+"65","Loudenvielle","Armenteule|Loudenvielle",,,,
 "67","Sommerau","Allenwiller|Birkenwald|Salenthal|Singrist",,,,
 "67","Truchtersheim","Truchtersheim|Pfettisheim",,,"Truchtersheim",
 "67","Val-de-Moder","Pfaffenhoffen|La Walck|Uberach",,,,
+"67","Wingersheim-les-Quatre-Bans","Hohatzenheim|Gingsheim|Mittelhausen|Wingersheim",,,,
 "68","Aspach-Michelbach","Aspach-le-Haut|Michelbach",,1876,"Aspach-le-Haut","JORFTEXT000031665370"
 "68","Bernwiller","Ammertzwiller|Bernwiller",,1081,"Ammertzwiller","JORFTEXT000031665499"
 "68","Brunstatt-Didenheim","Brunstatt|Didenheim",,,,
@@ -251,12 +270,14 @@
 "69","Cours","Cours-la-Ville|Thel|Pont-Trambouze",,,"Cours-la-Ville",
 "70","La Romaine","Le Pont-de-Planches|Greucourt|Vezet",,,,
 "71","Fragnes-la-Loyère","Fragnes|La Loyère",,,,
+"71","Le Rousset-Marizy","Rousset|Marizy",,732,"Marizy","JORFTEXT000031741232"
 "72","Ballon-Saint-Mars","Ballon|Saint-Mars-sous-Ballon",,2190,"Ballon",
 "72","Tuffé-Val-de-la-Chéronne","Saint-Hilaire-le-Lierru|Tuffé",,1797,"Tuffé","JORFTEXT000031665421"
 "73","Aime-la-Plagne","Aime|Granier|Montgirod",,4512,"Aime","JORFTEXT000031665505"
 "73","Entrelacs","Albens|Cessens|Épersy|Mognard|Saint-Germain-la-Chambotte|Saint-Girod",,5863,"Albens","JORFTEXT000031665391"
 "73","La Plagne-Tarentaise","Bellentre|La Côte-d'Aime|Mâcot-la-Plagne|Valezan",,3964,"Mâcot-la-Plagne","JORFTEXT000031665496"
 "73","Les Belleville","Saint-Martin-de-Belleville|Villarlurin",,2998,"Saint-Martin-de-Belleville","JORFTEXT000031665493"
+"73","Salins-Fontaine","Fontaine-le-Puits|Salins-les-Thermes",,1048,"Salins-les-Thermes","JORFTEXT000031741017"
 "74","Epagny-Metz-Tessy","Épagny|Metz-Tessy",,,,
 "74","Faverges-Seythenex","Faverges|Seythenex",,,,
 "74","Talloires-Montmin","Montmin|Talloires",,,,
@@ -278,10 +299,13 @@
 "85","Essarts-en-Bocage","Les Essarts|Boulogne|L'Oie|Sainte-Florence",,,,
 "85","Montréverd","Mormaison|Saint-Sulpice-le-Verdon|Saint-André-Treize-Voies",,,,
 "85","Mouilleron-Saint-Germain","Mouilleron-en-Pareds|Saint-Germain-l'Aiguiller",,,,
+"85","Rives-de-l'Yon","Chaillé-sous-les-Ormeaux|Saint-Florent-des-Bois",,,,
 "85","Sèvremont","Les Châtelliers-Châteaumur|La Flocellière|La Pommeraie-sur-Sèvre|Saint-Michel-Mont-Mercure",,,,
 "86","Senillé-Saint-Sauveur","Senillé|Saint-Sauveur",,,,
 "87","Val-d'Issoire","Bussière-Boffy|Mézières-sur-Issoire",,,,
+"88","Capavenir-Vosges","Girmont|Oncourt|Thaon-les-Vosges",,,,
 "88","Granges-Aumontzey","Granges-sur-Vologne|Aumontzey",,,,
+"88","Provenchères-et-Colroy","Colroy-la-Grande|Provenchères-sur-Fave",,1437,"Provenchères-sur-Fave","JORFTEXT000031741273"
 "89","Charny-Orée-de-Puisaye","Chambeugle|Charny|Chêne-Arnoult|Chevillon|Dicy|Fontenouilles|Grandchamp|Malicorne|Marchais-Beton|Perreux|Prunoy|Saint-Denis-sur-Ouanne|Saint-Martin-sur-Ouanne|Villefranche|",,,,
 "89","Le Val-d'Ocre","Saint-Aubin-Château-Neuf|Saint-Martin-sur-Ocre",,,,
 "89","Les Vallées-de-la-Vanne","Chigy|Vareilles|Theil-sur-Vanne",,,,
