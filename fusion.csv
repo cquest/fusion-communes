@@ -81,13 +81,13 @@
 "27","Bourneville-Sainte-Croix","Bourneville|Sainte-Croix-sur-Aizier",,1233,"Bourneville","JORFTEXT000031690257"
 "27","Breteuil","Breteuil|Cintray|La Guéroulde",,,,
 "27","Chambois","Avrilly|Corneuil|Thomer-la-Sôgne",,,,
-"27","Clef-Vallée-d'Eure","Ecardenville-sur-Eure|Fontaine-Heudebourg|La Croix-Saint-Leufroy",,,,
+"27","Clef-Vallée-d'Eure","Écardenville-sur-Eure|Fontaine-Heudebourg|La Croix-Saint-Leufroy",,,,
 "27","Flancourt-Crescy-en-Roumois","Bosc-Bénard-Crescy|Épreville-en-Roumois|Flancourt-Catelon",,,,
 "27","Grand-Bourgtheroulde","Bosc-Bénard-Commin|Bourgtheroulde-Infreville|Thuit-Hébert",,,,
 "27","La Baronnie","Garencières|Quessigny",,,,
 "27","Le Bosc-du-Theil","Le Gros-Theil|Saint-Nicolas-du-Bosc",,,,
 "27","Le Lesme","Guernanville|Sainte-Marguerite-de-l'Autel",,,,
-"27","Le Thuit-de-l'Oison","Le Thuit-Signol|Le Thuit-Anger|de Le Thuit-Simer",,,,
+"27","Le Thuit-de-l'Oison","Le Thuit-Signol|Le Thuit-Anger|Le Thuit-Simer",,,,
 "27","Le Val-d'Hazey","Aubevoye|Sainte-Barbe-sur-Gaillon|Vieux-Villez",,,,
 "27","Marbois","Chanteloup|Le Chesne|Les Essarts|Saint-Denis-du-Béhélan",,,,
 "27","Mesnil-en-Ouche","Ajou|La Barre-en-Ouche|Beaumesnil|Bosc-Renoult-en-Ouche|Épinay|Gisay-la-Coudre|Gouttières|Granchain|Jonquerets-de-Livet|Landepéreuse|La Roussière|Saint-Aubin-des-Hayes|Saint-Aubin-le-Guichard|Sainte-Marguerite-en-Ouche|Saint-Pierre-du-Mesnil|Thevray",,,,
@@ -149,14 +149,14 @@
 "48","Naussac-Fontanes","Naussac|Fontanes",,356,"Naussac","JORFTEXT000031665427"
 "48","Pont-de-Montvert-Sud-Mont-Lozère","Fraissinet-de-Lozère|Le Pont-de-Montvert|Saint-Maurice-de-Ventalon",,,,
 "48","Ventalon-en-Cévennes","Saint-Frézal-de-Ventalon|Saint-Andéol-de-Clerguemort",,,,
-"49","Baugé-en-Anjou","Baugé-en-Anjou|Bocé|Chartrené|Cheviré-le-Rouge|Clefs-Val d'Anjou|Cuon|Échemiré|Fougeré|Le Guédeniau|Saint-Quentin-lès-Beaurepaire",,12114,"Baugé-en-Anjou","JORFTEXT000031665355"
+"49","Baugé-en-Anjou","Baugé-en-Anjou|Bocé|Chartrené|Cheviré-le-Rouge|Clefs-Val-d'Anjou|Cuon|Échemiré|Fougeré|Le Guédeniau|Saint-Quentin-lès-Beaurepaire",,12114,"Baugé-en-Anjou","JORFTEXT000031665355"
 "49","Beaufort-en-Anjou","Beaufort-en-Vallée|Gée",,,"Beaufort-en-Vallée",
 "49","Beaupréau-en-Mauges","Andrezé|Beaupréau|La Chapelle-du-Genêt|Gesté|Jallais|La Jubaudière|Le Pin-en-Mauges|La Poitevinière|Saint-Philbert-en-Mauges|Villedieu-la-Blouère",,,,
 "49","Bellevigne-en-Layon","Champ-sur-Layon|Faveraye-Mâchelles|Faye-d'Anjou|Rablay-sur-Layon|Thouarcé",,5841,"Thouarcé","JORFTEXT000031665484"
 "49","Blaison-Saint-Sulpice","Blaison-Gohier|Saint-Sulpice",,,"Blaison-Gohier",
 "49","Chemillé-en-Anjou","Chanzeaux|La Chapelle-Rousselin|Chemillé-Melay|Cossé-d'Anjou|La Jumellière|Neuvy-en-Mauges|Sainte-Christine|Saint-Georges-des-Gardes|Saint-Lézin|La Salle-de-Vihiers|La Tourlandry|Valanjou",,,,
 "49","Chénillé-Champteussé","Chenillé-Changé|Champteussé-sur-Baconne",,,"Champteussé-sur-Baconne",
-"49","Erdre-en-Anjou","Brain-sur-Longuenée|Gené|La Pouëze||Vern-d'Anjou",,,,
+"49","Erdre-en-Anjou","Brain-sur-Longuenée|Gené|La Pouëze|Vern-d'Anjou",,,,
 "49","Gennes-Val-de-Loire","Chênehutte-Trèves-Cunault|Gennes|Grézillé|Saint-Georges-des-Sept-Voies|Le Thoureil",,4989,"Gennes",
 "49","Ingrandes-Le-Fresne-sur-Loire","Ingrandes|Le Fresne-sur-Loire",,2676,"Ingrandes",
 "49","Jarzé-Villages","Beauvau|Chaumont-d'Anjou|Jarzé|Lué-en-Baugeois",,,"Jarzé",
@@ -259,7 +259,7 @@
 "67","Val-de-Moder","Pfaffenhoffen|La Walck|Uberach",,,,
 "67","Wingersheim-les-Quatre-Bans","Hohatzenheim|Gingsheim|Mittelhausen|Wingersheim",,,,
 "68","Aspach-Michelbach","Aspach-le-Haut|Michelbach",,1876,"Aspach-le-Haut","JORFTEXT000031665370"
-"68","Bernwiller","Ammertzwiller|Bernwiller",,1081,"Ammertzwiller","JORFTEXT000031665499"
+"68","Bernwiller","Ammerzwiller|Bernwiller",,1081,"Ammertzwiller","JORFTEXT000031665499"
 "68","Brunstatt-Didenheim","Brunstatt|Didenheim",,,,
 "68","Illtal","Grentzingen|Henflingen|Oberdorf",,,,
 "68","Kaysersberg-Vignoble","Kaysersberg|Kientzheim|Sigolsheim",,4764,"Kaysersberg","JORFTEXT000031665358"
@@ -284,7 +284,7 @@
 "74","Val-de-Chaise","Cons-Sainte-Colombe|Marlens",,,,
 "76","Arelaune-en-Seine","La Mailleraye-sur-Seine|Saint-Nicolas-de-Bliquetuit",,,,
 "76","Forges-les-Eaux","Forges-les-Eaux|Le Fossé",,,"Forges-les-Eaux",
-"76","Petit-Caux","Assigny|Auquemesnil|Belleville-sur-Mer|Berneval-le-Grand|Biville-sur-Mer|Bracquemont|Brunville|Derchigny|Glicourt|Gouchaupré|Greny|Guilmecourt|Intraville|Penly|Saint-Martin-en-Campagne|Saint-Quentin-au-Bosc|Tocqueville-sur-Eu|Tourville-la-Chapelle",,,,
+"76","Petit-Caux","Assigny|Auquemesnil|Belleville-sur-Mer|Berneval-le-Grand|Biville-sur-Mer|Bracquemont|Brunville|Derchigny|Glicourt|Gouchaupré|Greny|Guilmécourt|Intraville|Penly|Saint-Martin-en-Campagne|Saint-Quentin-au-Bosc|Tocqueville-sur-Eu|Tourville-la-Chapelle",,,,
 "76","Port-Jérôme-sur-Seine","Auberville-la-Campagne|Notre-Dame-de-Gravenchon|Touffreville-la-Cable|Triquerville",,,,
 "76","Rives-en-Seine","Caudebec-en-Caux|Saint-Wandrille-Rançon|Villequier",,,,
 "76","Saint-Martin-de-l'If","Mont-de-l'If|La Folletière|Fréville|Betteville",,,,
@@ -306,7 +306,7 @@
 "88","Capavenir-Vosges","Girmont|Oncourt|Thaon-les-Vosges",,,,
 "88","Granges-Aumontzey","Granges-sur-Vologne|Aumontzey",,,,
 "88","Provenchères-et-Colroy","Colroy-la-Grande|Provenchères-sur-Fave",,1437,"Provenchères-sur-Fave","JORFTEXT000031741273"
-"89","Charny-Orée-de-Puisaye","Chambeugle|Charny|Chêne-Arnoult|Chevillon|Dicy|Fontenouilles|Grandchamp|Malicorne|Marchais-Beton|Perreux|Prunoy|Saint-Denis-sur-Ouanne|Saint-Martin-sur-Ouanne|Villefranche|",,,,
+"89","Charny-Orée-de-Puisaye","Chambeugle|Charny|Chêne-Arnoult|Chevillon|Dicy|Fontenouilles|Grandchamp|Malicorne|Marchais-Beton|Perreux|Prunoy|Saint-Denis-sur-Ouanne|Saint-Martin-sur-Ouanne|Villefranche",,,,
 "89","Le Val-d'Ocre","Saint-Aubin-Château-Neuf|Saint-Martin-sur-Ocre",,,,
 "89","Les Vallées-de-la-Vanne","Chigy|Vareilles|Theil-sur-Vanne",,,,
 "89","Sépeaux-Saint-Romain","Sépeaux|Saint-Romain-le-Preux",,,,
