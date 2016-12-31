@@ -43,13 +43,13 @@ for row in rows[2:]:
     # mise au propre de la date, ex: 2017-01-01
     if com['date'] != None:
         com['date'] = re.sub('[^0-9]','',com['date']['data-sort-value'])
-        com['date'] = com['date'][0:4]+'-'+com['date'][4:6]+com['date'][6:8]
+        com['date'] = com['date'][0:4]+'-'+com['date'][4:6]+'-'+com['date'][6:8]
 
     # mise au propre de la date, ex: 2017-01-01
     if com['arrete'] != None:
         try:
             com['arrete'] = re.sub('[^0-9]','',com['arrete']['data-sort-value'])
-            com['arrete'] = com['arrete'][0:4]+'-'+com['arrete'][4:6]+com['arrete'][6:8]
+            com['arrete'] = com['arrete'][0:4]+'-'+com['arrete'][4:6]+'-'+com['arrete'][6:8]
         except:
             com['arrete'] = None
             pass
