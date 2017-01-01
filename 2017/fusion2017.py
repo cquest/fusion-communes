@@ -92,6 +92,7 @@ with open('fusion2017.json') as json_file:
                 outer_ways=outer_ways+"""<member type='way' ref='%s' role='outer' />""" % way
 
               # tag ref:INSEE hérité du chef-lieu... ou pas
+              insee = fusion['insee']
               if insee == "":
                 print("%s : Pas de code INSEE ni admin_centre" % fusion['nom'])
                 insee_tag = """<tag k='fixme' v='ref:INSEE inconnu et admin_centre manquant' />"""
@@ -107,6 +108,7 @@ with open('fusion2017.json') as json_file:
             <tag k='type' v='boundary' />
             <tag k='boundary' v='administrative' />
             <tag k='admin_level' v='8' />
+            <tag k='admin_type:FR' v='commune nouvelle' />
             <tag k='start_date' v='%s' />
             %s
             <tag k='name' v="%s" />
