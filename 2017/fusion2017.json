@@ -1,1 +1,4358 @@
-[{"arrete": "2016-05-20", "date": "2017-01-01", "anciennes": [{"insee": "01095", "nom": "Chavannes-sur-Suran"}, {"insee": "01172", "nom": "Germagnat"}], "population": 790, "nom": "Nivigne et Suran", "delegue": "oui", "insee": "01095", "cheflieu": "Chavannes-sur-Suran"}, {"arrete": "2016-06-30", "date": "2017-01-01", "anciennes": [{"insee": "01098", "nom": "Chazey-Bons"}, {"insee": "01316", "nom": "Pugieu"}], "population": 1000, "nom": "Chazey-Bons", "delegue": "oui", "insee": "01098", "cheflieu": "Chazey-Bons"}, {"arrete": null, "date": "2017-01-01", "anciennes": [{"insee": "03168", "nom": "Meaulne"}, {"insee": "03318", "nom": "Vitray"}], "population": 894, "nom": "Meaulne-Vitray", "delegue": null, "insee": "03168", "cheflieu": "Meaulne"}, {"arrete": null, "date": "2017-01-01", "anciennes": [{"insee": "04033", "nom": "La Br\u00e9ole"}, {"insee": "04198", "nom": "Saint-Vincent-les-Forts"}], "population": 693, "nom": "Ubaye-Serre-Pon\u00e7on", "delegue": "oui", "insee": "04033", "cheflieu": "La Br\u00e9ole"}, {"arrete": "2016-09-05", "date": "2017-01-01", "anciennes": [{"insee": "05101", "nom": "Pelvoux"}, {"insee": "05175", "nom": "Vallouise"}], "population": 1275, "nom": "Vallouise-Pelvoux", "delegue": null, "insee": "05101", "cheflieu": "Pelvoux"}, {"arrete": "2016-06-15", "date": "2017-01-01", "anciennes": [{"insee": "08053", "nom": "Bazeilles"}, {"insee": "08371", "nom": "Rub\u00e9court-et-Lam\u00e9court"}, {"insee": "08475", "nom": "Villers-Cernay"}], "population": 2506, "nom": "Bazeilles", "delegue": "oui", "insee": "08053", "cheflieu": "Bazeilles"}, {"arrete": null, "date": "2017-01-01", "anciennes": [{"insee": "08072", "nom": "Bosseval-et-Briancourt"}, {"insee": "08491", "nom": "Vrigne-aux-Bois"}], "population": 3751, "nom": "Vrigne-aux-Bois", "delegue": "oui", "insee": "08491", "cheflieu": "Vrigne-aux-Bois"}, {"arrete": "2016-08-04", "date": "2017-01-01", "anciennes": [{"insee": "09062", "nom": "Les Bordes-sur-Lez"}, {"insee": "09317", "nom": "Uchentein"}], "population": 188, "nom": "Bordes-Uchentein", "delegue": "oui", "insee": "09062", "cheflieu": "Les Bordes-sur-Lez"}, {"arrete": "2016-09-06", "date": "2017-01-01", "anciennes": [{"insee": "12020", "nom": "Balsac"}, {"insee": "12090", "nom": "Druelle"}], "population": 2753, "nom": "Druelle Balsac", "delegue": "oui", "insee": "12090", "cheflieu": "Druelle"}, {"arrete": "2016-07-29", "date": "2017-01-01", "anciennes": [{"insee": "14666", "nom": "Sannerville"}, {"insee": "14712", "nom": "Troarn"}], "population": 5437, "nom": "Saline", "delegue": "oui", "insee": "14712", "cheflieu": "Troarn"}, {"arrete": "2016-09-08", "date": "2017-01-01", "anciennes": [{"insee": "14164", "nom": "Clinchamps-sur-Orne"}, {"insee": "14349", "nom": "Laize-la-Ville"}], "population": 1790, "nom": "Laize-Clinchamps", "delegue": "oui", "insee": "14349", "cheflieu": "Laize-la-Ville"}, {"arrete": "2016-09-08", "date": "2017-01-01", "anciennes": [{"insee": "14098", "nom": "Bretteville-l'Orgueilleuse"}, {"insee": "14109", "nom": "Brouay"}, {"insee": "14157", "nom": "Cheux"}, {"insee": "14423", "nom": "Le Mesnil-Patry"}, {"insee": "14525", "nom": "Putot-en-Bessin"}, {"insee": "14568", "nom": "Sainte-Croix-Grand-Tonne"}], "population": 5328, "nom": "Thue et Mue", "delegue": "oui", "insee": "14098", "cheflieu": "Bretteville-l'Orgueilleuse"}, {"arrete": "2016-09-08", "date": "2017-01-01", "anciennes": [{"insee": "14200", "nom": "Creully"}, {"insee": "14577", "nom": "Saint-Gabriel-Br\u00e9cy"}, {"insee": "14757", "nom": "Villiers-le-Sec"}], "population": 2389, "nom": "Creully sur Seulles", "delegue": "oui", "insee": "14200", "cheflieu": "Creully"}, {"arrete": "2016-09-08", "date": "2017-01-01", "anciennes": [{"insee": "14008", "nom": "Amblie"}, {"insee": "14355", "nom": "Lantheuil"}, {"insee": "14690", "nom": "Tierceville"}], "population": 1095, "nom": "Ponts sur Seulles", "delegue": "oui", "insee": "14355", "cheflieu": "Lantheuil"}, {"arrete": "2016-09-08", "date": "2017-01-01", "anciennes": [{"insee": "14186", "nom": "Coulombs"}, {"insee": "14212", "nom": "Cully"}, {"insee": "14406", "nom": "Martragny"}, {"insee": "14548", "nom": "Rucqueville"}], "population": 1113, "nom": "Moulins en Bessin", "delegue": "oui", "insee": "14406", "cheflieu": "Martragny"}, {"arrete": "2016-09-08", "date": "2017-01-01", "anciennes": [{"insee": "14158", "nom": "Chicheboville"}, {"insee": "14456", "nom": "Moult"}], "population": 2654, "nom": "Moult-Chicheboville", "delegue": "oui", "insee": "14456", "cheflieu": "Moult"}, {"arrete": "2016-09-08", "date": "2017-01-01", "anciennes": [{"insee": "14373", "nom": "Le Locheur"}, {"insee": "14475", "nom": "Noyers-Missy"}, {"insee": "14432", "nom": "Missy"}, {"insee": "14475", "nom": "Noyers-Bocage"}, {"insee": "14702", "nom": "Tournay-sur-Odon"}], "population": 2278, "nom": "Val d'Arry", "delegue": null, "insee": "14475", "cheflieu": "Noyers-Missy"}, {"arrete": "2016-09-08", "date": "2017-01-01", "anciennes": [{"insee": "14005", "nom": "Airan"}, {"insee": "14074", "nom": "Billy"}, {"insee": "14176", "nom": "Conteville"}, {"insee": "14268", "nom": "Fierville-Bray"}, {"insee": "14517", "nom": "Poussy-la-Campagne"}], "population": 1778, "nom": "Valambray", "delegue": "oui", "insee": "14005", "cheflieu": "Airan"}, {"arrete": "2016-09-08", "date": "2017-01-01", "anciennes": [{"insee": "14142", "nom": "Castilly"}, {"insee": "14342", "nom": "Isigny-sur-Mer"}, {"insee": "14462", "nom": "Neuilly-la-For\u00eat"}, {"insee": "14481", "nom": "Les Oubeaux"}, {"insee": "14763", "nom": "Vouilly"}], "population": 3834, "nom": "Isigny-sur-Mer", "delegue": "oui", "insee": "14342", "cheflieu": "Isigny-sur-Mer"}, {"arrete": "2016-09-08", "date": "2017-01-01", "anciennes": [{"insee": "14004", "nom": "Aignerville"}, {"insee": "14235", "nom": "Ecrammeville"}, {"insee": "14281", "nom": "Formigny"}, {"insee": "14382", "nom": "Louvi\u00e8res"}], "population": 715, "nom": "Formigny La Bataille", "delegue": "oui", "insee": "14281", "cheflieu": "Formigny"}, {"arrete": "2016-09-08", "date": "2017-01-01", "anciennes": [{"insee": "14011", "nom": "Anctoville"}, {"insee": "14376", "nom": "Longraye"}, {"insee": "14581", "nom": "Saint-Germain-d'Ectot"}, {"insee": "14695", "nom": "Torteval-Quesnay"}], "population": 1944, "nom": "Aurseulles", "delegue": "oui", "insee": "14011", "cheflieu": "Anctoville"}, {"arrete": "2016-09-08", "date": "2017-01-01", "anciennes": [{"insee": "14143", "nom": "Caumont-l'\u00c9vent\u00e9"}, {"insee": "14372", "nom": "Livry"}, {"insee": "14722", "nom": "La Vacquerie"}], "population": 2434, "nom": "Caumont-sur-Aure", "delegue": "oui", "insee": "14143", "cheflieu": "Caumont-l'\u00c9vent\u00e9"}, {"arrete": "2016-09-08", "date": "2017-01-01", "anciennes": [{"insee": "14075", "nom": "Bissi\u00e8res"}, {"insee": "14410", "nom": "M\u00e9ry-Corbon"}], "population": 1206, "nom": "M\u00e9ry-Bissi\u00e8res-en-Auge", "delegue": "oui", "insee": "14410", "cheflieu": "M\u00e9ry-Corbon"}, {"arrete": "2016-09-08", "date": "2017-01-01", "anciennes": [{"insee": "14527", "nom": "Bi\u00e9ville-Qu\u00e9ti\u00e9ville"}, {"insee": "14608", "nom": "Saint-Loup-de-Fribois"}], "population": 509, "nom": "Belle Vie en Auge", "delegue": "oui", "insee": "14527", "cheflieu": "Bi\u00e9ville-Qu\u00e9ti\u00e9ville"}, {"arrete": "2016-09-08", "date": "2017-01-01", "anciennes": [{"insee": "14031", "nom": "Les Authieux-Papion"}, {"insee": "14189", "nom": "Coupesarte"}, {"insee": "14201", "nom": "Cr\u00e8vec\u0153ur-en-Auge"}, {"insee": "14208", "nom": "Croissanville"}, {"insee": "14313", "nom": "Grandchamp-le-Ch\u00e2teau"}, {"insee": "14359", "nom": "L\u00e9caude"}, {"insee": "14386", "nom": "Magny-la-Campagne"}, {"insee": "14387", "nom": "Magny-le-Freule"}, {"insee": "14422", "nom": "Le Mesnil-Mauger"}, {"insee": "14431", "nom": "M\u00e9zidon-Canon"}, {"insee": "14444", "nom": "Monteille"}, {"insee": "14493", "nom": "Percy-en-Auge"}, {"insee": "14600", "nom": "Saint-Julien-le-Faucon"}, {"insee": "14749", "nom": "Vieux-Fum\u00e9"}], "population": 9819, "nom": "M\u00e9zidon Vall\u00e9e d'Auge", "delegue": "oui", "insee": "14431", "cheflieu": "M\u00e9zidon-Canon"}, {"arrete": "2016-09-08", "date": "2017-01-01", "anciennes": [{"insee": "14081", "nom": "Boissey"}, {"insee": "14099", "nom": "Bretteville-sur-Dives"}, {"insee": "14331", "nom": "Hi\u00e9ville"}, {"insee": "14433", "nom": "Mittois"}, {"insee": "14450", "nom": "Montviette"}, {"insee": "14472", "nom": "L'Oudon"}, {"insee": "14489", "nom": "Ouville-la-Bien-Tourn\u00e9e"}, {"insee": "14616", "nom": "Sainte-Marguerite-de-Viette"}, {"insee": "14580", "nom": "Saint-Georges-en-Auge"}, {"insee": "14654", "nom": "Saint-Pierre-sur-Dives"}, {"insee": "14688", "nom": "Thi\u00e9ville"}, {"insee": "14729", "nom": "Vaudeloges"}, {"insee": "14750", "nom": "Vieux-Pont-en-Auge"}], "population": 7863, "nom": "Saint-Pierre-en-Auge", "delegue": "oui", "insee": "14654", "cheflieu": "Saint-Pierre-sur-Dives"}, {"arrete": "2016-09-26", "date": "2017-01-01", "anciennes": [{"insee": "14217", "nom": "Dampierre"}, {"insee": "14350", "nom": "La Lande-sur-Dr\u00f4me"}, {"insee": "14596", "nom": "Saint-Jean-des-Essartiers"}, {"insee": "14672", "nom": "Sept-Vents"}], "population": 820, "nom": "Val de Dr\u00f4me", "delegue": "oui", "insee": "14672", "cheflieu": "Sept-Vents"}, {"arrete": "2016-09-26", "date": "2017-01-01", "anciennes": [{"insee": "14347", "nom": "Jurques"}, {"insee": "14413", "nom": "Le Mesnil-Auzouf"}], "population": 1069, "nom": "Dialan sur Cha\u00eene", "delegue": "oui", "insee": "14347", "cheflieu": "Jurques"}, {"arrete": "2016-09-26", "date": "2017-01-01", "anciennes": [{"insee": "14027", "nom": "Aunay-sur-Odon"}, {"insee": "14056", "nom": "Bauquay"}, {"insee": "14128", "nom": "Campandr\u00e9-Valcongrain"}, {"insee": "14219", "nom": "Danvou-la-Ferri\u00e8re"}, {"insee": "14477", "nom": "Ondefontaine"}, {"insee": "14508", "nom": "Le Plessis-Grimoult"}, {"insee": "14544", "nom": "Roucamps"}], "population": 4761, "nom": "Les Monts d'Aunay", "delegue": "oui", "insee": "14027", "cheflieu": "Aunay-sur-Odon"}, {"arrete": "2016-09-26", "date": "2017-01-01", "anciennes": [{"insee": "14073", "nom": "La Bigne"}, {"insee": "14579", "nom": "Seulline"}, {"insee": "14188", "nom": "Coulvain"}, {"insee": "14579", "nom": "Saint-Georges-d'Aunay"}], "population": 1307, "nom": "Seulline", "delegue": "oui", "insee": "14579", "cheflieu": "Seulline"}, {"arrete": null, "date": "2017-01-01", "anciennes": [{"insee": "14357", "nom": "Lassy"}, {"insee": "14597", "nom": "Saint-Jean-le-Blanc"}, {"insee": "14662", "nom": "Saint-Vigor-des-M\u00e9zerets"}], "population": 939, "nom": "Terres de Druance", "delegue": "oui", "insee": "14357", "cheflieu": "Lassy"}, {"arrete": null, "date": "2017-01-01", "anciennes": [{"insee": "14151", "nom": "Champ-du-Boult"}, {"insee": "14192", "nom": "Courson"}, {"insee": "14279", "nom": "Fontenermont"}, {"insee": "14296", "nom": "Le Gast"}, {"insee": "14415", "nom": "Le Mesnil-Benoist"}, {"insee": "14416", "nom": "Le Mesnil-Caussois"}, {"insee": "14417", "nom": "Mesnil-Clinchamps"}, {"insee": "14611", "nom": "Saint-Manvieu-Bocage"}, {"insee": "14658", "nom": "Saint-Sever-Calvados"}, {"insee": "14671", "nom": "Sept-Fr\u00e8res"}], "population": 4492, "nom": "Noues de Sienne", "delegue": "oui", "insee": "14658", "cheflieu": "Saint-Sever-Calvados"}, {"arrete": null, "date": "2017-01-01", "anciennes": [{"insee": "14551", "nom": "Russy"}, {"insee": "14591", "nom": "Sainte-Honorine-des-Pertes"}], "population": 755, "nom": "Aure sur Mer", "delegue": "oui", "insee": "14591", "cheflieu": "Sainte-Honorine-des-Pertes"}, {"arrete": null, "date": "2017-01-01", "anciennes": [{"insee": "15099", "nom": "Lavastrie"}, {"insee": "15142", "nom": "Neuv\u00e9glise"}, {"insee": "15145", "nom": "Oradour"}, {"insee": "15227", "nom": "S\u00e9riers"}], "population": 1750, "nom": "Neuv\u00e9glise-sur-Truy\u00e8re", "delegue": "oui", "insee": "15142", "cheflieu": "Neuv\u00e9glise"}, {"arrete": null, "date": "2017-01-01", "anciennes": [{"insee": "15138", "nom": "Murat"}, {"insee": "15044", "nom": "Chastel-sur-Murat"}], "population": 2015, "nom": "Murat", "delegue": "oui", "insee": "15138", "cheflieu": "Murat"}, {"arrete": "2016-06-29", "date": "2017-01-01", "anciennes": [{"insee": "16004", "nom": "Aignes-et-Puyp\u00e9roux"}, {"insee": "16230", "nom": "Montmoreau-Saint-Cybard"}, {"insee": "16294", "nom": "Saint-Amant-de-Montmoreau"}, {"insee": "16314", "nom": "Saint-Eutrope"}, {"insee": "16328", "nom": "Saint-Laurent-de-Belzagot"}], "population": 2608, "nom": "Montmoreau", "delegue": null, "insee": "16230", "cheflieu": "Montmoreau-Saint-Cybard"}, {"arrete": "2016-06-22", "date": "2017-01-01", "anciennes": [{"insee": "16129", "nom": "\u00c9raville"}, {"insee": "16204", "nom": "Malaville"}, {"insee": "16247", "nom": "Nonaville"}, {"insee": "16386", "nom": "Touzac"}, {"insee": "16417", "nom": "Viville"}], "population": 1385, "nom": "Bellevigne", "delegue": null, "insee": "16204", "cheflieu": "Malaville"}, {"arrete": "2016-06-09", "date": "2017-01-01", "anciennes": [{"insee": "16023", "nom": "Aunac"}, {"insee": "16033", "nom": "Bayers"}, {"insee": "16094", "nom": "Chenommet"}], "population": 623, "nom": "Aunac-sur-Charente", "delegue": null, "insee": "16023", "cheflieu": "Aunac"}, {"arrete": null, "date": "2017-01-01", "anciennes": [{"insee": "16046", "nom": "Blanzac-Porcheresse"}, {"insee": "16115", "nom": "Cressac-Saint-Genis"}], "population": 949, "nom": "Coteaux du Blanzacais", "delegue": null, "insee": "16046", "cheflieu": "Blanzac-Porcheresse"}, {"arrete": "2016-06-22", "date": "2017-01-01", "anciennes": [{"insee": "19218", "nom": "Saint-Julien-pr\u00e8s-Bort"}, {"insee": "19252", "nom": "Sarroux"}], "population": 863, "nom": "Sarroux-Saint Julien", "delegue": "oui", "insee": "19252", "cheflieu": "Sarroux"}, {"arrete": "2016-06-28", "date": "2017-01-01", "anciennes": [{"insee": "19010", "nom": "Argentat"}, {"insee": "19183", "nom": "Saint-Bazile-de-la-Roche"}], "population": 3116, "nom": "Argentat-sur-Dordogne", "delegue": "oui", "insee": "19010", "cheflieu": "Argentat"}, {"arrete": "2016-12-02", "date": "2017-01-01", "anciennes": [{"insee": "21195", "nom": "Cormot-le-Grand"}, {"insee": "21658", "nom": "Vauchignon"}], "population": 191, "nom": "Cormot-Vauchignon", "delegue": "non", "insee": "21195", "cheflieu": "Cormot-le-Grand"}, {"arrete": "2016-08-30", "date": "2017-01-01", "anciennes": [{"insee": "22158", "nom": "M\u00fbr-de-Bretagne"}, {"insee": "22298", "nom": "Saint-Guen"}], "population": 2532, "nom": "Guerl\u00e9dan", "delegue": "oui", "insee": "22158", "cheflieu": "M\u00fbr-de-Bretagne"}, {"arrete": "2016-08-30", "date": "2017-01-01", "anciennes": [{"insee": "22107", "nom": "Laniscat"}, {"insee": "22167", "nom": "Perret"}, {"insee": "22290", "nom": "Saint-Gelven"}], "population": 1282, "nom": "Bon Repos sur Blavet", "delegue": "oui", "insee": "22107", "cheflieu": "Laniscat"}, {"arrete": "2016-08-30", "date": "2017-01-01", "anciennes": [{"insee": "22192", "nom": "Plessix-Balisson"}, {"insee": "22209", "nom": "Ploubalay"}, {"insee": "22357", "nom": "Tr\u00e9gon"}], "population": 3352, "nom": "Beaussais-sur-Mer", "delegue": "oui", "insee": "22209", "cheflieu": "Ploubalay"}, {"arrete": "2016-09-29", "date": "2017-01-01", "anciennes": [{"insee": "23192", "nom": "Saint-\u00c9tienne-de-Fursac"}, {"insee": "23231", "nom": "Saint-Pierre-de-Fursac"}], "population": 1561, "nom": "Fursac", "delegue": "oui", "insee": "23192", "cheflieu": "Saint-\u00c9tienne-de-Fursac"}, {"arrete": "2016-06-29", "date": "2017-01-01", "anciennes": [{"insee": "24026", "nom": "Bassillac"}, {"insee": "24044", "nom": "Blis-et-Born"}, {"insee": "24103", "nom": "Le Change"}, {"insee": "24166", "nom": "Eyliac"}, {"insee": "24270", "nom": "Milhac-d'Auberoche"}, {"insee": "24369", "nom": "Saint-Antoine-d'Auberoche"}], "population": 4407, "nom": "Bassillac et Auberoche", "delegue": "oui", "insee": "24026", "cheflieu": "Bassillac"}, {"arrete": "2016-06-29", "date": "2017-01-01", "anciennes": [{"insee": "24041", "nom": "B\u00e9zenac"}, {"insee": "24087", "nom": "Castels"}], "population": 784, "nom": "Castels et B\u00e9zenac", "delegue": "oui", "insee": "24087", "cheflieu": "Castels"}, {"arrete": "2016-06-29", "date": "2017-01-01", "anciennes": [{"insee": "24117", "nom": "Chavagnac"}, {"insee": "24204", "nom": "Gr\u00e8zes"}], "population": 563, "nom": "Les Coteaux P\u00e9rigourdins", "delegue": "oui", "insee": "24117", "cheflieu": "Chavagnac"}, {"arrete": null, "date": "2017-01-01", "anciennes": [{"insee": "24053", "nom": "Boulazac Isle Manoire"}, {"insee": "24447", "nom": "Sainte-Marie-de-Chignac"}], "population": 10282, "nom": "Boulazac Isle Manoire", "delegue": "oui", "insee": "24053", "cheflieu": "Boulazac"}, {"arrete": null, "date": "2017-01-01", "anciennes": [{"insee": "24147", "nom": "Cubjac"}, {"insee": "24047", "nom": "La Boissi\u00e8re-d'Ans"}, {"insee": "24475", "nom": "Saint-Pantaly-d'Ans"}], "population": 1104, "nom": "Cubjac-Auv\u00e9z\u00e8re-Val d'Ans", "delegue": "oui", "insee": "24147", "cheflieu": "Cubjac"}, {"arrete": null, "date": "2017-01-01", "anciennes": [{"insee": "24554", "nom": "La Tour-Blanche"}, {"insee": "24093", "nom": "Cercles"}], "population": 625, "nom": "La Tour-Blanche-Cercles", "delegue": "oui", "insee": "24554", "cheflieu": "La Tour-Blanche"}, {"arrete": null, "date": "2017-01-01", "anciennes": [{"insee": "24033", "nom": "Beaussac"}, {"insee": "24099", "nom": "Champeaux-et-la-Chapelle-Pommier"}, {"insee": "24203", "nom": "Les Graulges"}, {"insee": "24235", "nom": "L\u00e9guillac-de-Cercles"}, {"insee": "24253", "nom": "Mareuil"}, {"insee": "24283", "nom": "Monsec"}, {"insee": "24344", "nom": "Puyrenier"}, {"insee": "24503", "nom": "Saint-Sulpice-de-Mareuil"}, {"insee": "24579", "nom": "Vieux-Mareuil"}], "population": 2533, "nom": "Mareuil en P\u00e9rigord", "delegue": "oui", "insee": "24253", "cheflieu": "Mareuil"}, {"arrete": null, "date": "2017-01-01", "anciennes": [{"insee": "24065", "nom": "Breuilh"}, {"insee": "24258", "nom": "Marsaneix"}, {"insee": "24312", "nom": "Notre-Dame-de-Sanilhac"}], "population": 4416, "nom": "Sanilhac", "delegue": "oui", "insee": "24312", "cheflieu": "Notre-Dame-de-Sanilhac"}, {"arrete": null, "date": "2017-01-01", "anciennes": [{"insee": "24178", "nom": "Festalemps"}, {"insee": "24368", "nom": "Saint-Antoine-Cumond"}, {"insee": "24490", "nom": "Saint-Privat-des-Pr\u00e9s"}], "population": 1236, "nom": "Saint Privat en P\u00e9rigord", "delegue": "oui", "insee": "24490", "cheflieu": "Saint-Privat-des-Pr\u00e9s"}, {"arrete": null, "date": "2017-01-01", "anciennes": [{"insee": "24362", "nom": "Sainte-Alv\u00e8re-Saint-Laurent Les B\u00e2tons"}, {"insee": "24092", "nom": "Cendrieux"}], "population": 1643, "nom": "Val de Louyre et Caudeau", "delegue": "oui", "insee": "24362", "cheflieu": "Sainte-Alv\u00e8re"}, {"arrete": null, "date": "2017-01-01", "anciennes": [{"insee": "24216", "nom": "La Jemaye"}, {"insee": "24333", "nom": "Ponteyraud"}], "population": 158, "nom": "La Jemaye-Ponteyraud", "delegue": "oui", "insee": "24216", "cheflieu": "La Jemaye"}, {"arrete": "2016-08-12", "date": "2017-01-01", "anciennes": [{"insee": "25147", "nom": "Chemaudin"}, {"insee": "25593", "nom": "Vaux-les-Pr\u00e9s"}], "population": 1863, "nom": "Chemaudin et Vaux", "delegue": "non", "insee": "25147", "cheflieu": "Chemaudin"}, {"arrete": "2016-08-12", "date": "2017-01-01", "anciennes": [{"insee": "25123", "nom": "Charbonni\u00e8res-les-Sapins"}, {"insee": "25222", "nom": "\u00c9talans"}, {"insee": "25610", "nom": "Verri\u00e8res-du-Grosbois"}], "population": 1446, "nom": "\u00c9talans", "delegue": "non", "insee": "25222", "cheflieu": "\u00c9talans"}, {"arrete": "2016-08-09", "date": "2017-01-01", "anciennes": [{"insee": "25156", "nom": "Clerval"}, {"insee": "25531", "nom": "Santoche"}], "population": 1119, "nom": "Pays de Clerval", "delegue": "non", "insee": "25156", "cheflieu": "Clerval"}, {"arrete": null, "date": "2017-01-01", "anciennes": [{"insee": "25319", "nom": "Labergement-du-Navois"}, {"insee": "25334", "nom": "Levier"}], "population": 2121, "nom": "Levier", "delegue": "non", "insee": "25334", "cheflieu": "Levier"}, {"arrete": null, "date": "2017-01-01", "anciennes": [{"insee": "25399", "nom": "Montfort"}, {"insee": "25460", "nom": "Pointvillers"}], "population": 238, "nom": "Le Val", "delegue": "non", "insee": "25460", "cheflieu": "Pointvillers"}, {"arrete": "2016-08-03", "date": "2017-01-01", "anciennes": [{"insee": "27090", "nom": "Le Bosc-Roger-en-Roumois"}, {"insee": "27093", "nom": "Bosnormand"}], "population": 3466, "nom": "Bosroumois", "delegue": "oui", "insee": "27090", "cheflieu": "Le Bosc-Roger-en-Roumois"}, {"arrete": "2016-08-03", "date": "2017-01-01", "anciennes": [{"insee": "27150", "nom": "La Chapelle-R\u00e9anville"}, {"insee": "27554", "nom": "Saint-Just"}, {"insee": "27588", "nom": "Saint-Pierre-d'Autils"}], "population": 3414, "nom": "La Chapelle-Longueville", "delegue": "oui", "insee": "27554", "cheflieu": "Saint-Just"}, {"arrete": "2016-08-03", "date": "2017-01-01", "anciennes": [{"insee": "27062", "nom": "Berville-en-Roumois"}, {"insee": "27092", "nom": "Bosgu\u00e9rard-de-Marcouville"}, {"insee": "27344", "nom": "Houlbec-pr\u00e8s-le-Gros-Theil"}], "population": 1548, "nom": "Les Monts du Roumois", "delegue": "oui", "insee": "27062", "cheflieu": "Berville-en-Roumois"}, {"arrete": "2016-08-03", "date": "2017-01-01", "anciennes": [{"insee": "27058", "nom": "Berni\u00e8res-sur-Seine"}, {"insee": "27647", "nom": "Tosny"}, {"insee": "27676", "nom": "Venables"}], "population": 1788, "nom": "Les Trois Lacs", "delegue": "oui", "insee": "27676", "cheflieu": "Venables"}, {"arrete": "2016-08-03", "date": "2017-01-01", "anciennes": [{"insee": "27131", "nom": "Carsix"}, {"insee": "27253", "nom": "Fontaine-la-Soret"}, {"insee": "27425", "nom": "Nassandres"}, {"insee": "27452", "nom": "Perriers-la-Campagne"}], "population": 2395, "nom": "Nassandres sur Risle", "delegue": "oui", "insee": "27425", "cheflieu": "Nassandres"}, {"arrete": "2016-08-03", "date": "2017-01-01", "anciennes": [{"insee": "27448", "nom": "Pacy-sur-Eure"}, {"insee": "27510", "nom": "Saint-Aquilin-de-Pacy"}], "population": 5129, "nom": "Pacy-sur-Eure", "delegue": "oui", "insee": "27448", "cheflieu": "Pacy-sur-Eure"}, {"arrete": "2016-08-03", "date": "2017-01-01", "anciennes": [{"insee": "27089", "nom": "Bosc-Renoult-en-Roumois"}, {"insee": "27626", "nom": "Theillement"}], "population": 840, "nom": "Thenouville", "delegue": "oui", "insee": "27089", "cheflieu": "Bosc-Renoult-en-Roumois"}, {"arrete": "2016-08-03", "date": "2017-01-01", "anciennes": [{"insee": "27274", "nom": "Gaillardbois-Cressenville"}, {"insee": "27294", "nom": "Grainville"}], "population": 996, "nom": "Val d'Orger", "delegue": "oui", "insee": "27294", "cheflieu": "Grainville"}, {"arrete": "2016-08-03", "date": "2017-01-01", "anciennes": [{"insee": "27265", "nom": "Francheville"}, {"insee": "27679", "nom": "Verneuil-sur-Avre"}], "population": 7731, "nom": "Verneuil d'Avre et d'Iton", "delegue": "oui", "insee": "27679", "cheflieu": "Verneuil-sur-Avre"}, {"arrete": null, "date": "2017-01-01", "anciennes": [{"insee": "27412", "nom": "Montaure"}, {"insee": "27648", "nom": "Tostes"}], "population": 1511, "nom": "Terres de Bord", "delegue": "oui", "insee": "27412", "cheflieu": "Montaure"}, {"arrete": "2016-05-25", "date": "2017-01-01", "anciennes": [{"insee": "28012", "nom": "Arrou"}, {"insee": "28044", "nom": "Boisgasson"}, {"insee": "28093", "nom": "Ch\u00e2tillon-en-Dunois"}, {"insee": "28115", "nom": "Courtalain"}, {"insee": "28204", "nom": "Langey"}, {"insee": "28356", "nom": "Saint-Pellerin"}], "population": 3885, "nom": "Arrou", "delegue": "oui", "insee": "28012", "cheflieu": "Arrou"}, {"arrete": "2016-05-25", "date": "2017-01-01", "anciennes": [{"insee": "28017", "nom": "Autheuil"}, {"insee": "28083", "nom": "Charray"}, {"insee": "28103", "nom": "Cloyes-sur-le-Loir"}, {"insee": "28133", "nom": "Douy"}, {"insee": "28150", "nom": "La Fert\u00e9-Villeneuil"}, {"insee": "28241", "nom": "Le M\u00e9e"}, {"insee": "28262", "nom": "Montigny-le-Gannelon"}, {"insee": "28318", "nom": "Romilly-sur-Aigre"}, {"insee": "28340", "nom": "Saint-Hilaire-sur-Yerre"}], "population": 5773, "nom": "Cloyes les Trois Rivi\u00e8res", "delegue": "oui", "insee": "28103", "cheflieu": "Cloyes-sur-le-Loir"}, {"arrete": "2016-09-09", "date": "2017-01-01", "anciennes": [{"insee": "28101", "nom": "Civry"}, {"insee": "28224", "nom": "Lutz-en-Dunois"}, {"insee": "28295", "nom": "Ozoir-le-Breuil"}, {"insee": "28330", "nom": "Saint-Cloud-en-Dunois"}], "population": 1500, "nom": "Villemaury", "delegue": "oui", "insee": "28330", "cheflieu": "Saint-Cloud-en-Dunois"}, {"arrete": "2016-06-29", "date": "2017-01-01", "anciennes": [{"insee": "29076", "nom": "Guipronvel"}, {"insee": "29149", "nom": "Milizac"}], "population": 4213, "nom": "Milizac-Guipronvel", "delegue": "oui", "insee": "29076", "cheflieu": "Guipronvel"}, {"arrete": "2016-06-29", "date": "2017-01-01", "anciennes": [{"insee": "29021", "nom": "Brignogan-Plages"}, {"insee": "29203", "nom": "Ploun\u00e9our-Trez"}], "population": 2036, "nom": "Ploun\u00e9our-Brignogan-Plages", "delegue": "oui", "insee": "29021", "cheflieu": "Brignogan-Plages"}, {"arrete": null, "date": "2017-01-01", "anciennes": [{"insee": "31307", "nom": "Lunax"}, {"insee": "31412", "nom": "P\u00e9guilhan"}], "population": 296, "nom": "P\u00e9guilhan", "delegue": null, "insee": "31412", "cheflieu": "P\u00e9guilhan"}, {"arrete": "2016-08-01", "date": "2017-01-01", "anciennes": [{"insee": "33106", "nom": "Castets-en-Dorthe"}, {"insee": "33107", "nom": "Castillon-de-Castets"}], "population": 1492, "nom": "Castets et Castillon", "delegue": "oui", "insee": "33106", "cheflieu": "Castets-en-Dorthe"}, {"arrete": null, "date": "2017-01-01", "anciennes": [{"insee": "33268", "nom": "Margaux"}, {"insee": "33091", "nom": "Cantenac"}], "population": 2954, "nom": "Margaux-Cantenac", "delegue": "oui (Cantenac)", "insee": "33268", "cheflieu": "Margaux"}, {"arrete": "2016-06-13", "date": "2017-01-01", "anciennes": [{"insee": "35069", "nom": "Ch\u00e2teaugiron"}, {"insee": "35209", "nom": "Oss\u00e9"}, {"insee": "35254", "nom": "Saint-Aubin-du-Pavail"}], "population": 9182, "nom": "Ch\u00e2teaugiron", "delegue": "oui", "insee": "35069", "cheflieu": "Ch\u00e2teaugiron"}, {"arrete": "2016-08-29", "date": "2017-01-01", "anciennes": [{"insee": "35048", "nom": "Campel"}, {"insee": "35168", "nom": "Maure-de-Bretagne"}], "population": 3813, "nom": "Val d'Anast", "delegue": "oui", "insee": "35168", "cheflieu": "Maure-de-Bretagne"}, {"arrete": "2016-08-29", "date": "2017-01-01", "anciennes": [{"insee": "35257", "nom": "Saint-Brice-en-Cogl\u00e8s"}, {"insee": "35267", "nom": "Saint-\u00c9tienne-en-Cogl\u00e8s"}], "population": 4777, "nom": "Maen-Roch", "delegue": "oui", "insee": "35257", "cheflieu": "Saint-Brice-en-Cogl\u00e8s"}, {"arrete": "2016-09-30", "date": "2017-01-01", "anciennes": [{"insee": "35083", "nom": "Cogl\u00e8s"}, {"insee": "35323", "nom": "La Selle-en-Cogl\u00e8s"}, {"insee": "35191", "nom": "Montours"}], "population": 2339, "nom": "Les Portes du Coglais", "delegue": "oui", "insee": "35191", "cheflieu": "Montours"}, {"arrete": "2016-09-30", "date": "2017-01-01", "anciennes": [{"insee": "37120", "nom": "Ingrandes-de-Touraine"}, {"insee": "37227", "nom": "Saint-Michel-sur-Loire"}, {"insee": "37232", "nom": "Saint-Patrice"}], "population": 1870, "nom": "Coteaux sur Loire", "delegue": "oui", "insee": "37232", "cheflieu": "Saint-Patrice"}, {"arrete": "2016-09-30", "date": "2017-01-01", "anciennes": [{"insee": "37123", "nom": "Langeais"}, {"insee": "37102", "nom": "Les Essards"}], "population": 4400, "nom": "Langeais", "delegue": "oui (Les Essards)", "insee": "37123", "cheflieu": "Langeais"}, {"arrete": null, "date": "2017-01-01", "anciennes": [{"insee": "37021", "nom": "Beaumont-la-Ronce"}, {"insee": "37135", "nom": "Louestault"}], "population": 1598, "nom": "Beaumont-Louestault", "delegue": null, "insee": "37021", "cheflieu": "Beaumont-la-Ronce"}, {"arrete": "2016-07-29", "date": "2017-01-01", "anciennes": [{"insee": "38014", "nom": "Arandon"}, {"insee": "38297", "nom": "Passins"}], "population": 1753, "nom": "Arandon-Passins", "delegue": "oui", "insee": "38297", "cheflieu": "Passins"}, {"arrete": "2016-07-29", "date": "2017-01-01", "anciennes": [{"insee": "38292", "nom": "Paladru"}, {"insee": "38305", "nom": "Le Pin"}], "population": 2373, "nom": "Villages du Lac de Paladru", "delegue": "oui", "insee": "38292", "cheflieu": "Paladru"}, {"arrete": "2016-09-02", "date": "2017-01-01", "anciennes": [{"insee": "38312", "nom": "Pommiers-la-Placette"}, {"insee": "38407", "nom": "Saint-Julien-de-Ratz"}], "population": 983, "nom": "La Sure en Chartreuse", "delegue": "non", "insee": "38407", "cheflieu": "Saint-Julien-de-Ratz"}, {"arrete": "2016-09-28", "date": "2017-01-01", "anciennes": [{"insee": "38253", "nom": "Mont-de-Lans"}, {"insee": "38534", "nom": "V\u00e9nosc"}], "population": 1981, "nom": "Les Deux Alpes", "delegue": "oui", "insee": "38253", "cheflieu": "Mont-de-Lans"}, {"arrete": null, "date": "2017-01-01", "anciennes": [{"insee": "38125", "nom": "Cord\u00e9ac"}, {"insee": "38456", "nom": "Saint-S\u00e9bastien"}], "population": 474, "nom": "Ch\u00e2tel-en-Tri\u00e8ves", "delegue": "oui", "insee": "38456", "cheflieu": "Saint-S\u00e9bastien"}, {"arrete": "2016-05-27", "date": "2017-01-01", "anciennes": [{"insee": "39195", "nom": "Dessia"}, {"insee": "39273", "nom": "Lains"}, {"insee": "39347", "nom": "Montagna-le-Templier"}], "population": 245, "nom": "Montlainsia", "delegue": "oui", "insee": "39273", "cheflieu": "Lains"}, {"arrete": "2016-06-08", "date": "2017-01-01", "anciennes": [{"insee": "39309", "nom": "Mallerey"}, {"insee": "39537", "nom": "Trenal"}], "population": 436, "nom": "Trenal", "delegue": "oui", "insee": "39537", "cheflieu": "Trenal"}, {"arrete": "2016-07-04", "date": "2017-01-01", "anciennes": [{"insee": "39186", "nom": "Cuttura"}, {"insee": "39491", "nom": "Saint-Lupicin"}], "population": 2420, "nom": "Coteaux du Lizon", "delegue": "oui", "insee": "39491", "cheflieu": "Saint-Lupicin"}, {"arrete": "2016-07-04", "date": "2017-01-01", "anciennes": [{"insee": "39123", "nom": "Chatonnay"}, {"insee": "39224", "nom": "F\u00e9tigny"}, {"insee": "39290", "nom": "L\u00e9gna"}, {"insee": "39506", "nom": "Savigna"}], "population": 479, "nom": "Valzin en Petite Montagne", "delegue": "non", "insee": "39290", "cheflieu": "L\u00e9gna"}, {"arrete": "2016-07-04", "date": "2017-01-01", "anciennes": [{"insee": "39064", "nom": "Bonnaud"}, {"insee": "39264", "nom": "Grusse"}, {"insee": "39549", "nom": "Vercia"}, {"insee": "39576", "nom": "Vincelles"}], "population": 938, "nom": "Val-Sonnette", "delegue": "oui", "insee": "39576", "cheflieu": "Vincelles"}, {"arrete": null, "date": "2017-01-01", "anciennes": [{"insee": "39069", "nom": "Bourcia"}, {"insee": "39303", "nom": "Louvenne"}, {"insee": "39485", "nom": "Saint-Julien"}, {"insee": "39564", "nom": "Villechantria"}], "population": 831, "nom": "Val Suran", "delegue": "oui", "insee": "39485", "cheflieu": "Saint-Julien"}, {"arrete": null, "date": "2017-01-01", "anciennes": [{"insee": "39510", "nom": "Septmoncel"}, {"insee": "39341", "nom": "Les Molunes"}], "population": 831, "nom": "Septmoncel Les Molunes", "delegue": "oui", "insee": "39510", "cheflieu": "Septmoncel"}, {"arrete": null, "date": "2017-01-01", "anciennes": [{"insee": "39018", "nom": "Aromas"}, {"insee": "39566", "nom": "Villeneuve-l\u00e8s-Charnod"}], "population": 634, "nom": "Aromas", "delegue": "non", "insee": "39018", "cheflieu": "Aromas"}, {"arrete": null, "date": "2017-01-01", "anciennes": [{"insee": "39530", "nom": "Thoirette"}, {"insee": "39158", "nom": "Coisia"}], "population": null, "nom": "Thoirette-Coisia", "delegue": "oui", "insee": "39530", "cheflieu": "Thoirette"}, {"arrete": null, "date": "2017-01-01", "anciennes": [{"insee": "40048", "nom": "Boos"}, {"insee": "40243", "nom": "Rion-des-Landes"}], "population": 2978, "nom": "Rion-des-Landes", "delegue": "oui", "insee": "40243", "cheflieu": "Rion-des-Landes"}, {"arrete": "2016-06-04", "date": "2017-01-01", "anciennes": [{"insee": "41055", "nom": "Chouzy-sur-Cisse"}, {"insee": "41064", "nom": "Coulanges"}, {"insee": "41240", "nom": "Seillac"}], "population": 2378, "nom": "Valloire-sur-Cisse", "delegue": "oui", "insee": "41055", "cheflieu": "Chouzy-sur-Cisse"}, {"arrete": "2016-07-27", "date": "2017-01-01", "anciennes": [{"insee": "41033", "nom": "Chambon-sur-Cisse"}, {"insee": "41142", "nom": "Valencisse"}, {"insee": "41142", "nom": "Molineuf"}, {"insee": "41169", "nom": "Orchaise"}], "population": 2416, "nom": "Valencisse", "delegue": "oui", "insee": "41142", "cheflieu": "Valencisse"}, {"arrete": null, "date": "2017-01-01", "anciennes": [{"insee": "41167", "nom": "Onzain"}, {"insee": "41272", "nom": "Veuves"}], "population": 3861, "nom": "Veuzain-sur-Loire", "delegue": "oui", "insee": "41167", "cheflieu": "Onzain"}, {"arrete": null, "date": "2017-01-01", "anciennes": [{"insee": "41011", "nom": "Baigneaux"}, {"insee": "41015", "nom": "Beauvilliers"}, {"insee": "41171", "nom": "Oucques"}, {"insee": "41210", "nom": "Sainte-Gemmes"}], "population": 1723, "nom": "Oucques la Nouvelle", "delegue": "oui", "insee": "41171", "cheflieu": "Oucques"}, {"arrete": "2016-09-27", "date": "2017-01-01", "anciennes": [{"insee": "43176", "nom": "Saint-Didier-d'Allier"}, {"insee": "43221", "nom": "Saint-Privat-d'Allier"}], "population": 419, "nom": "Saint-Privat-d'Allier", "delegue": null, "insee": "43221", "cheflieu": "Saint-Privat-d'Allier"}, {"arrete": "2016-07-25", "date": "2017-01-01", "anciennes": [{"insee": "45051", "nom": "Bray-en-Val"}, {"insee": "45267", "nom": "Saint-Aignan-des-Gu\u00e9s"}], "population": 1734, "nom": "Bray-Saint Aignan", "delegue": "oui", "insee": "45051", "cheflieu": "Bray-en-Val"}, {"arrete": "2016-08-03", "date": "2017-01-01", "anciennes": [{"insee": "46063", "nom": "Castelnau-Montratier"}, {"insee": "46248", "nom": "Sainte-Alauzie"}], "population": 1960, "nom": "Castelnau-Montratier-Sainte-Alauzie", "delegue": "oui", "insee": "46063", "cheflieu": "Castelnau-Montratier"}, {"arrete": null, "date": "2017-01-01", "anciennes": [{"insee": "46268", "nom": "Saint-G\u00e9ry"}, {"insee": "46331", "nom": "Vers"}], "population": 860, "nom": "Saint G\u00e9ry-Vers", "delegue": "oui", "insee": "46268", "cheflieu": "Saint-G\u00e9ry"}, {"arrete": null, "date": "2017-01-01", "anciennes": [{"insee": "46077", "nom": "Cours"}, {"insee": "46156", "nom": "Laroque-des-Arcs"}, {"insee": "46327", "nom": "Valroufi\u00e9"}], "population": 1248, "nom": "Bellefont-La Rauze", "delegue": "oui", "insee": "46156", "cheflieu": "Laroque-des-Arcs"}, {"arrete": "2016-05-23", "date": "2017-01-01", "anciennes": [{"insee": "48014", "nom": "Bagnols-les-Bains"}, {"insee": "48023", "nom": "Belvezet"}, {"insee": "48027", "nom": "Le Bleymard"}, {"insee": "48040", "nom": "Chasserad\u00e8s"}, {"insee": "48093", "nom": "Mas-d'Orci\u00e8res"}, {"insee": "48164", "nom": "Saint-Julien-du-Tournel"}], "population": 1070, "nom": "Mont Loz\u00e8re et Goulet", "delegue": "oui", "insee": "48027", "cheflieu": "Le Bleymard"}, {"arrete": "2016-07-04", "date": "2017-01-01", "anciennes": [{"insee": "48101", "nom": "Montbrun"}, {"insee": "48122", "nom": "Qu\u00e9zac"}, {"insee": "48146", "nom": "Sainte-Enimie"}], "population": 967, "nom": "Gorges du Tarn Causses", "delegue": "oui", "insee": "48146", "cheflieu": "Sainte-Enimie"}, {"arrete": "2016-08-03", "date": "2017-01-01", "anciennes": [{"insee": "48087", "nom": "Malbouzon"}, {"insee": "48120", "nom": "Prinsu\u00e9jols"}], "population": 293, "nom": "Prinsu\u00e9jols-Malbouzon", "delegue": "oui", "insee": "48087", "cheflieu": "Malbouzon"}, {"arrete": null, "date": "2017-01-01", "anciennes": [{"insee": "48139", "nom": "Saint-Bonnet-de-Montauroux"}, {"insee": "48084", "nom": "Laval-Atger"}], "population": 274, "nom": "Saint-Bonnet-Laval", "delegue": "oui", "insee": "48139", "cheflieu": "Saint-Bonnet-de-Montauroux"}, {"arrete": null, "date": "2017-01-01", "anciennes": [{"insee": "48009", "nom": "Aumont-Aubrac"}, {"insee": "48047", "nom": "La Chaze-de-Peyre"}, {"insee": "48060", "nom": "Fau-de-Peyre"}, {"insee": "48076", "nom": "Javols"}, {"insee": "48142", "nom": "Sainte-Colombe-de-Peyre"}, {"insee": "48183", "nom": "Saint-Sauveur-de-Peyre"}], "population": 2390, "nom": "Peyre-en-Aubrac", "delegue": "oui", "insee": "48009", "cheflieu": "Aumont-Aubrac"}, {"arrete": null, "date": "2017-01-01", "anciennes": [{"insee": "48094", "nom": "Le Massegros"}, {"insee": "48154", "nom": "Saint-Georges-de-L\u00e9v\u00e9jac"}, {"insee": "48125", "nom": "Le Recoux"}, {"insee": "48195", "nom": "Les Vignes"}, {"insee": "48180", "nom": "Saint-Rome-de-Dolan"}], "population": 948, "nom": "Massegros-Causses-Gorges", "delegue": null, "insee": "48094", "cheflieu": "Le Massegros"}, {"arrete": "2016-09-06", "date": "2017-01-01", "anciennes": [{"insee": "49119", "nom": "Daumeray"}, {"insee": "49220", "nom": "Morannes-sur-Sarthe"}, {"insee": "49093", "nom": "Chemir\u00e9-sur-Sarthe"}, {"insee": "49220", "nom": "Morannes"}], "population": 3586, "nom": "Morannes sur Sarthe-Daumeray", "delegue": null, "insee": "49220", "cheflieu": "Morannes-sur-Sarthe"}, {"arrete": null, "date": "2017-01-01", "anciennes": [{"insee": "49086", "nom": "Chavagnes"}, {"insee": "49227", "nom": "Notre-Dame-d'Allen\u00e7on"}, {"insee": "49191", "nom": "Martign\u00e9-Briand"}], "population": 3764, "nom": "Terranjou", "delegue": "oui", "insee": "49086", "cheflieu": "Chavagnes"}, {"arrete": "2016-07-04", "date": "2017-01-01", "anciennes": [{"insee": "50333", "nom": "Les Moitiers-en-Bauptois"}, {"insee": "50400", "nom": "Picauville"}, {"insee": "50005", "nom": "Amfreville"}, {"insee": "50153", "nom": "Cretteville"}, {"insee": "50212", "nom": "Gourbesville"}, {"insee": "50250", "nom": "Houtteville"}, {"insee": "50400", "nom": "Picauville"}, {"insee": "50642", "nom": "Vindefontaine"}], "population": 3401, "nom": "Picauville", "delegue": "oui", "insee": "50400", "cheflieu": "Picauville"}, {"arrete": "2016-07-08", "date": "2017-01-01", "anciennes": [{"insee": "50018", "nom": "Argouges"}, {"insee": "50100", "nom": "Carnet"}, {"insee": "50154", "nom": "La Croix-Avranchin"}, {"insee": "50337", "nom": "Montanel"}, {"insee": "50487", "nom": "Saint-James"}, {"insee": "50627", "nom": "Vergoncey"}, {"insee": "50640", "nom": "Villiers-le-Pr\u00e9"}], "population": 5041, "nom": "Saint-James", "delegue": "oui", "insee": "50487", "cheflieu": "Saint-James"}, {"arrete": "2016-07-08", "date": "2017-01-01", "anciennes": [{"insee": "50037", "nom": "La Bazoge"}, {"insee": "50043", "nom": "Bellefontaine"}, {"insee": "50125", "nom": "Chasseguey"}, {"insee": "50131", "nom": "Ch\u00e9renc\u00e9-le-Roussel"}, {"insee": "50260", "nom": "Juvigny-le-Tertre"}, {"insee": "50318", "nom": "Le Mesnil-Rainfray"}, {"insee": "50323", "nom": "Le Mesnil-T\u00f4ve"}], "population": 1742, "nom": "Juvigny les Vall\u00e9es", "delegue": "oui", "insee": "50260", "cheflieu": "Juvigny-le-Tertre"}, {"arrete": "2016-07-21", "date": "2017-01-01", "anciennes": [{"insee": "50404", "nom": "Placy-Montaigu"}, {"insee": "50444", "nom": "Saint-Amand"}], "population": 2590, "nom": "Saint-Amand-Villages", "delegue": "oui", "insee": "50444", "cheflieu": "Saint-Amand"}, {"arrete": "2016-07-22", "date": "2017-01-01", "anciennes": [{"insee": "50139", "nom": "Cond\u00e9-sur-Vire"}, {"insee": "50139", "nom": "Cond\u00e9-sur-Vire"}, {"insee": "50319", "nom": "Le Mesnil-Raoult"}, {"insee": "50608", "nom": "Troisgots"}], "population": 4088, "nom": "Cond\u00e9-sur-Vire", "delegue": "oui", "insee": "50139", "cheflieu": "Cond\u00e9-sur-Vire"}, {"arrete": "2016-07-22", "date": "2017-01-01", "anciennes": [{"insee": "50080", "nom": "Br\u00e9vands"}, {"insee": "50099", "nom": "Carentan-les-Marais"}, {"insee": "50010", "nom": "Angoville-au-Plain"}, {"insee": "50099", "nom": "Carentan"}, {"insee": "50249", "nom": "Houesville"}, {"insee": "50458", "nom": "Saint-C\u00f4me-du-Mont"}, {"insee": "50534", "nom": "Saint-Pellerin"}, {"insee": "50631", "nom": "Les Veys"}], "population": 7887, "nom": "Carentan les Marais", "delegue": "oui", "insee": "50099", "cheflieu": "Carentan-les-Marais"}, {"arrete": "2016-07-22", "date": "2017-01-01", "anciennes": [{"insee": "50095", "nom": "Canisy"}, {"insee": "50465", "nom": "Saint-\u00c9bremond-de-Bonfoss\u00e9"}], "population": 1799, "nom": "Canisy", "delegue": "oui", "insee": "50095", "cheflieu": "Canisy"}, {"arrete": "2016-08-05", "date": "2017-01-01", "anciennes": [{"insee": "50119", "nom": "Les Champs-de-Losque"}, {"insee": "50325", "nom": "Le Mesnil-Vigot"}, {"insee": "50431", "nom": "Remilly-sur-Lozon"}], "population": 1092, "nom": "Remilly-les-Marais", "delegue": "oui", "insee": "50431", "cheflieu": "Remilly-sur-Lozon"}, {"arrete": "2016-09-27", "date": "2017-01-01", "anciennes": [{"insee": "50001", "nom": "Acqueville"}, {"insee": "50020", "nom": "Auderville"}, {"insee": "50041", "nom": "Beaumont-Hague"}, {"insee": "50057", "nom": "Biville"}, {"insee": "50073", "nom": "Branville-Hague"}, {"insee": "50163", "nom": "Digulleville"}, {"insee": "50171", "nom": "Eculleville"}, {"insee": "50187", "nom": "Flottemanville-Hague"}, {"insee": "50220", "nom": "Gr\u00e9ville-Hague"}, {"insee": "50242", "nom": "Herqueville"}, {"insee": "50257", "nom": "Jobourg"}, {"insee": "50385", "nom": "Omonville-la-Petite"}, {"insee": "50386", "nom": "Omonville-la-Rogue"}, {"insee": "50460", "nom": "Sainte-Croix-Hague"}, {"insee": "50477", "nom": "Saint-Germain-des-Vaux"}, {"insee": "50600", "nom": "Tonneville"}, {"insee": "50611", "nom": "Urville-Nacqueville"}, {"insee": "50620", "nom": "Vasteville"}, {"insee": "50623", "nom": "Vauville"}], "population": 11886, "nom": "La Hague", "delegue": "oui", "insee": "50041", "cheflieu": "Beaumont-Hague"}, {"arrete": "2016-06-27", "date": "2017-01-01", "anciennes": [{"insee": "51075", "nom": "Bourgogne"}, {"insee": "51261", "nom": "Fresne-l\u00e8s-Reims"}], "population": 1478, "nom": "Bourgogne-Fresne", "delegue": "oui", "insee": "51075", "cheflieu": "Bourgogne"}, {"arrete": "2016-12-31", "date": "2017-01-01", "anciennes": [{"insee": "51171", "nom": "Cormicy"}, {"insee": "02344", "nom": "Gernicourt"}], "population": 1478, "nom": "Cormicy", "delegue": "oui", "insee": "51171", "cheflieu": "Cormicy"}, {"arrete": null, "date": "2017-01-01", "anciennes": [{"insee": "52140", "nom": "Colombey-les-Deux-\u00c9glises"}, {"insee": "52262", "nom": "Lamothe-en-Blaisy"}], "population": 766, "nom": "Colombey-les-Deux-\u00c9glises", "delegue": "oui", "insee": "52140", "cheflieu": "Colombey-les-Deux-\u00c9glises"}, {"arrete": "2016-06-02", "date": "2017-01-01", "anciennes": [{"insee": "53032", "nom": "Blandouet"}, {"insee": "53228", "nom": "Saint-Jean-sur-Erve"}], "population": 640, "nom": "Blandouet-Saint Jean", "delegue": "oui", "insee": "53228", "cheflieu": "Saint-Jean-sur-Erve"}, {"arrete": "2016-07-22", "date": "2017-01-01", "anciennes": [{"insee": "53017", "nom": "Ball\u00e9e"}, {"insee": "53095", "nom": "\u00c9pineux-le-Seguin"}], "population": 938, "nom": "Val-du-Maine", "delegue": "oui", "insee": "53017", "cheflieu": "Ball\u00e9e"}, {"arrete": null, "date": "2017-01-01", "anciennes": [{"insee": "53161", "nom": "Monts\u00fbrs"}, {"insee": "53205", "nom": "Saint-C\u00e9ner\u00e9"}], "population": 2516, "nom": "Monts\u00fbrs-Saint C\u00e9ner\u00e9", "delegue": "oui", "insee": "53161", "cheflieu": "Monts\u00fbrs"}, {"arrete": "2016-08-23", "date": "2017-01-01", "anciennes": [{"insee": "54099", "nom": "Briey"}, {"insee": "54341", "nom": "Mance"}, {"insee": "54342", "nom": "Mancieulles"}], "population": 8175, "nom": "Val de Briey", "delegue": "oui", "insee": "54099", "cheflieu": "Briey"}, {"arrete": "2016-07-13", "date": "2017-01-01", "anciennes": [{"insee": "56038", "nom": "La Chapelle-Gaceline"}, {"insee": "56061", "nom": "La Gacilly"}, {"insee": "56064", "nom": "Gl\u00e9nac"}], "population": 3883, "nom": "La Gacilly", "delegue": "oui", "insee": "56061", "cheflieu": "La Gacilly"}, {"arrete": null, "date": "2017-01-01", "anciennes": [{"insee": "56033", "nom": "Carentoir"}, {"insee": "56183", "nom": "Quelneuc"}], "population": 3271, "nom": "Carentoir", "delegue": "oui (Quelneuc)", "insee": "56033", "cheflieu": "Carentoir"}, {"arrete": "2016-07-06", "date": "2017-01-01", "anciennes": [{"insee": "58022", "nom": "Balleray"}, {"insee": "58204", "nom": "Ourou\u00ebr"}], "population": 558, "nom": "Vaux d'Amognes", "delegue": "oui", "insee": "58204", "cheflieu": "Ourou\u00ebr"}, {"arrete": "2016-05-27", "date": "2017-01-01", "anciennes": [{"insee": "60196", "nom": "Le D\u00e9luge"}, {"insee": "60453", "nom": "La Neuville-d'Aumont"}, {"insee": "60532", "nom": "Ressons-l'Abbaye"}], "population": 926, "nom": "La Drenne", "delegue": null, "insee": "60196", "cheflieu": "Le D\u00e9luge"}, {"arrete": "2016-08-08", "date": "2017-01-01", "anciennes": [{"insee": "61154", "nom": "Eperrais"}, {"insee": "61196", "nom": "Le Gu\u00e9-de-la-Cha\u00eene"}, {"insee": "61318", "nom": "Origny-le-Butin"}, {"insee": "61325", "nom": "La Perri\u00e8re"}, {"insee": "61437", "nom": "Saint-Ouen-de-la-Cour"}, {"insee": "61471", "nom": "S\u00e9rigny"}], "population": 1675, "nom": "Belfor\u00eat-en-Perche", "delegue": "oui", "insee": "61196", "cheflieu": "Le Gu\u00e9-de-la-Cha\u00eene"}, {"arrete": null, "date": "2017-01-01", "anciennes": [{"insee": "61009", "nom": "Aubry-en-Exmes"}, {"insee": "61019", "nom": "Avernes-sous-Exmes"}, {"insee": "61057", "nom": "Le Bourg-Saint-L\u00e9onard"}, {"insee": "61083", "nom": "Chambois"}, {"insee": "61110", "nom": "La Coch\u00e8re"}, {"insee": "61131", "nom": "Courm\u00e9nil"}, {"insee": "61157", "nom": "Exmes"}, {"insee": "61161", "nom": "Fel"}, {"insee": "61315", "nom": "Omm\u00e9el"}, {"insee": "61449", "nom": "Saint-Pierre-la-Rivi\u00e8re"}, {"insee": "61474", "nom": "Silly-en-Gouffern"}, {"insee": "61477", "nom": "Survie"}, {"insee": "61496", "nom": "Urou-et-Crennes"}, {"insee": "61504", "nom": "Villebadin"}], "population": 3829, "nom": "Gouffern en Auge", "delegue": "oui", "insee": "61474", "cheflieu": "Silly-en-Gouffern"}, {"arrete": "2016-06-30", "date": "2017-01-01", "anciennes": [{"insee": "62294", "nom": "Enguinegatte"}, {"insee": "62295", "nom": "Enquin-les-Mines"}], "population": 1606, "nom": "Enquin-lez-Guinegatte", "delegue": null, "insee": "62294", "cheflieu": "Enguinegatte"}, {"arrete": "2016-07-19", "date": "2017-01-01", "anciennes": [{"insee": "64020", "nom": "Ance"}, {"insee": "64225", "nom": "F\u00e9as"}], "population": 642, "nom": "Ance F\u00e9as", "delegue": "oui", "insee": "64225", "cheflieu": "F\u00e9as"}, {"arrete": "2016-07-21", "date": "2017-01-01", "anciennes": [{"insee": "65081", "nom": "Benqu\u00e9"}, {"insee": "65312", "nom": "Mol\u00e8re"}], "population": 121, "nom": "Benqu\u00e9-Mol\u00e8re", "delegue": "non", "insee": "65081", "cheflieu": "Benqu\u00e9"}, {"arrete": "2016-09-14", "date": "2017-01-01", "anciennes": [{"insee": "65399", "nom": "Saligos"}, {"insee": "65480", "nom": "Vizos"}], "population": 128, "nom": "Saligos", "delegue": "non", "insee": "65399", "cheflieu": "Saligos"}, {"arrete": "2016-06-30", "date": "2017-01-01", "anciennes": [{"insee": "67202", "nom": "Hochfelden"}, {"insee": "67439", "nom": "Schaffhouse-sur-Zorn"}], "population": 3921, "nom": "Hochfelden", "delegue": null, "insee": "67202", "cheflieu": "Hochfelden"}, {"arrete": null, "date": "2017-01-01", "anciennes": [{"insee": "69114", "nom": "Liergues"}, {"insee": "69159", "nom": "Pouilly-le-Monial"}], "population": 2906, "nom": "Porte des Pierres Dor\u00e9es", "delegue": "oui", "insee": "69159", "cheflieu": "Pouilly-le-Monial"}, {"arrete": null, "date": "2017-01-01", "anciennes": [{"insee": "69146", "nom": "Oingt"}, {"insee": "69024", "nom": "Le Bois-d'Oingt"}, {"insee": "69222", "nom": "Saint-Laurent-d'Oingt"}], "population": 3815, "nom": "Val d'Oingt", "delegue": "oui", "insee": "69024", "cheflieu": "Le Bois-d'Oingt"}, {"arrete": null, "date": "2017-01-01", "anciennes": [{"insee": "69237", "nom": "Saint-Sorlin"}, {"insee": "69228", "nom": "Saint-Maurice-sur-Dargoire"}, {"insee": "69195", "nom": "Saint-Didier-sous-Riverie"}], "population": 4047, "nom": "Chabani\u00e8re", "delegue": "oui", "insee": "69228", "cheflieu": "Saint-Maurice-sur-Dargoire"}, {"arrete": "2016-09-26", "date": "2017-01-01", "anciennes": [{"insee": "70489", "nom": "Servance"}, {"insee": "70345", "nom": "Miellin"}], "population": 867, "nom": "Servance-Miellin", "delegue": "oui", "insee": "70489", "cheflieu": "Servance"}, {"arrete": "2016-07-28", "date": "2017-01-01", "anciennes": [{"insee": "71180", "nom": "Donzy-le-National"}, {"insee": "71288", "nom": "Massy"}, {"insee": "71582", "nom": "La Vineuse"}, {"insee": "71587", "nom": "Vitry-l\u00e8s-Cluny"}], "population": 627, "nom": "La Vineuse sur Fregande", "delegue": "oui", "insee": "71582", "cheflieu": "La Vineuse"}, {"arrete": null, "date": "2017-01-01", "anciennes": [{"insee": "72308", "nom": "Saint-Paterne"}, {"insee": "72082", "nom": "Le Chevain"}], "population": 2180, "nom": "Saint-Paterne - Le Chevain", "delegue": "oui", "insee": "72308", "cheflieu": "Saint-Paterne"}, {"arrete": null, "date": "2017-01-01", "anciennes": [{"insee": "72025", "nom": "Bazouges-sur-le-Loir"}, {"insee": "72108", "nom": "Cr\u00e9-sur-Loir"}], "population": 2057, "nom": "Bazouges Cr\u00e9 sur Loir", "delegue": "oui", "insee": "72025", "cheflieu": "Bazouges-sur-le-Loir"}, {"arrete": null, "date": "2017-01-01", "anciennes": [{"insee": "72159", "nom": "Lavenay"}, {"insee": "72063", "nom": "La Chapelle-Gaugain"}, {"insee": "72240", "nom": "Ponc\u00e9-sur-le-Loir -"}, {"insee": "72262", "nom": "Ruill\u00e9-sur-Loir"}], "population": 2223, "nom": "Loir en Vall\u00e9e", "delegue": "oui", "insee": "72262", "cheflieu": "Ruill\u00e9-sur-Loir"}, {"arrete": "2016-08-08", "date": "2017-01-01", "anciennes": [{"insee": "73056", "nom": "Bramans"}, {"insee": "73143", "nom": "Lanslebourg"}, {"insee": "73144", "nom": "Lanslevillard"}, {"insee": "73287", "nom": "Solli\u00e8res-Sardi\u00e8res"}, {"insee": "73290", "nom": "Termignon"}], "population": 2123, "nom": "Val-Cenis", "delegue": "oui", "insee": "73290", "cheflieu": "Termignon"}, {"arrete": "2016-08-08", "date": "2017-01-01", "anciennes": [{"insee": "73198", "nom": "La Perri\u00e8re"}, {"insee": "73227", "nom": "Saint-Bon-Tarentaise"}], "population": 2376, "nom": "Courchevel", "delegue": "oui", "insee": "73227", "cheflieu": "Saint-Bon-Tarentaise"}, {"arrete": "2016-05-27", "date": "2017-01-01", "anciennes": [{"insee": "74022", "nom": "Aviernoz"}, {"insee": "74120", "nom": "\u00c9vires"}, {"insee": "74204", "nom": "Les Olli\u00e8res"}, {"insee": "74245", "nom": "Saint-Martin-Bellevue"}, {"insee": "74282", "nom": "Thorens-Gli\u00e8res"}], "population": 8796, "nom": "Filli\u00e8re", "delegue": "oui", "insee": "74282", "cheflieu": "Thorens-Gli\u00e8res"}, {"arrete": "2016-07-14", "date": "2017-01-01", "anciennes": [{"insee": "74010", "nom": "Annecy"}, {"insee": "74011", "nom": "Annecy-le-Vieux"}, {"insee": "74093", "nom": "Cran-Gevrier"}, {"insee": "74182", "nom": "Meythet"}, {"insee": "74217", "nom": "Pringy"}, {"insee": "74268", "nom": "Seynod"}], "population": 121809, "nom": "Annecy", "delegue": "oui", "insee": "74010", "cheflieu": "Annecy"}, {"arrete": "2016-09-12", "date": "2017-01-01", "anciennes": [{"insee": "76044", "nom": "Auzouville-Auberbosc"}, {"insee": "76078", "nom": "Bennetot"}, {"insee": "76080", "nom": "Bermonville"}, {"insee": "76258", "nom": "Fauville-en-Caux"}, {"insee": "76525", "nom": "Ricarville"}, {"insee": "76639", "nom": "Saint-Pierre-Lavis"}, {"insee": "76607", "nom": "Sainte-Marguerite-sur-Fauville"}], "population": 4129, "nom": "Terres-de-Caux", "delegue": "oui", "insee": "76258", "cheflieu": "Fauville-en-Caux"}, {"arrete": null, "date": "2017-01-01", "anciennes": [{"insee": "76127", "nom": "Bosc-Roger-sur-Buchy"}, {"insee": "76146", "nom": "Buchy"}, {"insee": "76248", "nom": "Estouteville-\u00c9calles"}], "population": 2782, "nom": "Buchy", "delegue": "oui", "insee": "76146", "cheflieu": "Buchy"}, {"arrete": null, "date": "2017-01-01", "anciennes": [{"insee": "77316", "nom": "Moret-Loing-et-Orvanne"}, {"insee": "77491", "nom": "Veneux-les-Sablons"}], "population": 12715, "nom": "Moret-Loing-et-Orvanne", "delegue": "oui (5 communes d\u00e9l\u00e9gu\u00e9es)", "insee": "77316", "cheflieu": "Moret-Loing-et-Orvanne"}, {"arrete": "2016-04-18", "date": "2017-01-01", "anciennes": [{"insee": "79006", "nom": "Les Alleuds"}, {"insee": "79136", "nom": "Gournay-Loiz\u00e9"}], "population": 878, "nom": "Alloinay", "delegue": "oui", "insee": "79136", "cheflieu": "Gournay-Loiz\u00e9"}, {"arrete": null, "date": "2017-01-01", "anciennes": [{"insee": "79044", "nom": "Bouill\u00e9-Saint-Paul"}, {"insee": "79063", "nom": "Cersay"}, {"insee": "79168", "nom": "Massais"}], "population": 2022, "nom": "Val en Vignes", "delegue": "oui", "insee": "79063", "cheflieu": "Cersay"}, {"arrete": null, "date": "2017-01-01", "anciennes": [{"insee": "79185", "nom": "Mougon"}, {"insee": "79327", "nom": "Thorign\u00e9"}], "population": 3390, "nom": "Mougon-Thorign\u00e9", "delegue": "oui", "insee": "79185", "cheflieu": "Mougon"}, {"arrete": "2016-05-25", "date": "2017-01-01", "anciennes": [{"insee": "80447", "nom": "Hyencourt-le-Grand"}, {"insee": "80608", "nom": "Omi\u00e9court"}, {"insee": "80621", "nom": "Pertain"}], "population": 705, "nom": "Hypercourt", "delegue": "oui", "insee": "80621", "cheflieu": "Pertain"}, {"arrete": "2016-07-11", "date": "2017-01-01", "anciennes": [{"insee": "80295", "nom": "\u00c9tinehem"}, {"insee": "80532", "nom": "M\u00e9ricourt-sur-Somme"}], "population": 589, "nom": "\u00c9tinehem-M\u00e9ricourt", "delegue": "oui", "insee": "80295", "cheflieu": "\u00c9tinehem"}, {"arrete": "2016-07-11", "date": "2017-01-01", "anciennes": [{"insee": "81113", "nom": "Labastide-D\u00e9nat"}, {"insee": "81218", "nom": "Puygouzon"}], "population": 3331, "nom": "Puygouzon", "delegue": null, "insee": "81218", "cheflieu": "Puygouzon"}, {"arrete": "2016-08-04", "date": "2017-01-01", "anciennes": [{"insee": "85009", "nom": "Auzay"}, {"insee": "85044", "nom": "Chaix"}], "population": 1090, "nom": "Auchay-sur-Vend\u00e9e", "delegue": "oui", "insee": "85009", "cheflieu": "Auzay"}, {"arrete": "2016-09-30", "date": "2017-01-01", "anciennes": [{"insee": "85052", "nom": "La Chapelle-Achard"}, {"insee": "85152", "nom": "La Mothe-Achard"}], "population": 4782, "nom": "Les Achards", "delegue": "oui", "insee": "85152", "cheflieu": "La Mothe-Achard"}, {"arrete": "2016-07-08", "date": "2017-01-01", "anciennes": [{"insee": "86019", "nom": "Beaumont"}, {"insee": "86219", "nom": "Saint-Cyr"}], "population": 2968, "nom": "Beaumont Saint-Cyr", "delegue": "oui", "insee": "86019", "cheflieu": "Beaumont"}, {"arrete": "2016-07-19", "date": "2017-01-01", "anciennes": [{"insee": "86115", "nom": "Jaunay-Clan"}, {"insee": "86146", "nom": "Marigny-Brizay"}], "population": 7233, "nom": "Jaunay-Marigny", "delegue": "oui", "insee": "86115", "cheflieu": "Jaunay-Clan"}, {"arrete": "2016-07-19", "date": "2017-01-01", "anciennes": [{"insee": "86030", "nom": "Blaslay"}, {"insee": "86060", "nom": "Charrais"}, {"insee": "86071", "nom": "Chenech\u00e9"}, {"insee": "86281", "nom": "Vendeuvre-du-Poitou"}], "population": 5109, "nom": "Saint Martin la Pallu", "delegue": "oui", "insee": "86281", "cheflieu": "Vendeuvre-du-Poitou"}, {"arrete": "2016-07-19", "date": "2017-01-01", "anciennes": [{"insee": "86053", "nom": "Champigny-le-Sec"}, {"insee": "86208", "nom": "Le Rochereau"}], "population": 1862, "nom": "Champigny en Rochereau", "delegue": "oui", "insee": "86053", "cheflieu": "Champigny-le-Sec"}, {"arrete": "2016-09-19", "date": "2017-01-01", "anciennes": [{"insee": "88475", "nom": "Tollaincourt"}, {"insee": "88392", "nom": "Rocourt"}], "population": 127, "nom": "Tollaincourt", "delegue": "non", "insee": "88475", "cheflieu": "Tollaincourt"}, {"arrete": null, "date": "2017-01-01", "anciennes": [{"insee": "88029", "nom": "Bains-les-Bains"}, {"insee": "88234", "nom": "Harsault"}, {"insee": "88235", "nom": "Hautmougey"}], "population": 1734, "nom": "La V\u00f4ge-les-Bains", "delegue": "oui", "insee": "88029", "cheflieu": "Bains-les-Bains"}, {"arrete": "2016-04-01", "date": "2017-01-01", "anciennes": [{"insee": "89003", "nom": "Aillant-sur-Tholon"}, {"insee": "89078", "nom": "Champvallon"}, {"insee": "89473", "nom": "Villiers-sur-Tholon"}, {"insee": "89484", "nom": "Volgr\u00e9"}], "population": 2913, "nom": "Montholon", "delegue": "oui", "insee": "89003", "cheflieu": "Aillant-sur-Tholon"}, {"arrete": "2016-04-26", "date": "2017-01-01", "anciennes": [{"insee": "89001", "nom": "Accolay"}, {"insee": "89130", "nom": "Cravant"}], "population": 1259, "nom": "Deux Rivi\u00e8res", "delegue": "oui", "insee": "89130", "cheflieu": "Cravant"}, {"arrete": "2016-08-16", "date": "2017-01-01", "anciennes": [{"insee": "89174", "nom": "Fontenailles"}, {"insee": "89260", "nom": "Molesmes"}, {"insee": "89405", "nom": "Taingy"}], "population": 539, "nom": "Les Hauts de Forterre", "delegue": "oui", "insee": "89405", "cheflieu": "Taingy"}]
+[
+  {
+    "cheflieu": "Chavannes-sur-Suran",
+    "anciennes": [
+      {
+        "insee": "01095",
+        "nom": "Chavannes-sur-Suran"
+      },
+      {
+        "insee": "01172",
+        "nom": "Germagnat"
+      }
+    ],
+    "delegue": "oui",
+    "arrete": "2016-05-20",
+    "insee": "01095",
+    "population": 790,
+    "date": "2017-01-01",
+    "nom": "Nivigne et Suran"
+  },
+  {
+    "cheflieu": "Chazey-Bons",
+    "anciennes": [
+      {
+        "insee": "01098",
+        "nom": "Chazey-Bons"
+      },
+      {
+        "insee": "01316",
+        "nom": "Pugieu"
+      }
+    ],
+    "delegue": "oui",
+    "arrete": "2016-06-30",
+    "insee": "01098",
+    "population": 1000,
+    "date": "2017-01-01",
+    "nom": "Chazey-Bons"
+  },
+  {
+    "cheflieu": "Meaulne",
+    "anciennes": [
+      {
+        "insee": "03168",
+        "nom": "Meaulne"
+      },
+      {
+        "insee": "03318",
+        "nom": "Vitray"
+      }
+    ],
+    "delegue": null,
+    "arrete": null,
+    "insee": "03168",
+    "population": 894,
+    "date": "2017-01-01",
+    "nom": "Meaulne-Vitray"
+  },
+  {
+    "cheflieu": "La Bréole",
+    "anciennes": [
+      {
+        "insee": "04033",
+        "nom": "La Bréole"
+      },
+      {
+        "insee": "04198",
+        "nom": "Saint-Vincent-les-Forts"
+      }
+    ],
+    "delegue": "oui",
+    "arrete": null,
+    "insee": "04033",
+    "population": 693,
+    "date": "2017-01-01",
+    "nom": "Ubaye-Serre-Ponçon"
+  },
+  {
+    "cheflieu": "Pelvoux",
+    "anciennes": [
+      {
+        "insee": "05101",
+        "nom": "Pelvoux"
+      },
+      {
+        "insee": "05175",
+        "nom": "Vallouise"
+      }
+    ],
+    "delegue": null,
+    "arrete": "2016-09-05",
+    "insee": "05101",
+    "population": 1275,
+    "date": "2017-01-01",
+    "nom": "Vallouise-Pelvoux"
+  },
+  {
+    "cheflieu": "Bazeilles",
+    "anciennes": [
+      {
+        "insee": "08053",
+        "nom": "Bazeilles"
+      },
+      {
+        "insee": "08371",
+        "nom": "Rubécourt-et-Lamécourt"
+      },
+      {
+        "insee": "08475",
+        "nom": "Villers-Cernay"
+      }
+    ],
+    "delegue": "oui",
+    "arrete": "2016-06-15",
+    "insee": "08053",
+    "population": 2506,
+    "date": "2017-01-01",
+    "nom": "Bazeilles"
+  },
+  {
+    "cheflieu": "Vrigne-aux-Bois",
+    "anciennes": [
+      {
+        "insee": "08072",
+        "nom": "Bosseval-et-Briancourt"
+      },
+      {
+        "insee": "08491",
+        "nom": "Vrigne-aux-Bois"
+      }
+    ],
+    "delegue": "oui",
+    "arrete": null,
+    "insee": "08491",
+    "population": 3751,
+    "date": "2017-01-01",
+    "nom": "Vrigne-aux-Bois"
+  },
+  {
+    "cheflieu": "Les Bordes-sur-Lez",
+    "anciennes": [
+      {
+        "insee": "09062",
+        "nom": "Les Bordes-sur-Lez"
+      },
+      {
+        "insee": "09317",
+        "nom": "Uchentein"
+      }
+    ],
+    "delegue": "oui",
+    "arrete": "2016-08-04",
+    "insee": "09062",
+    "population": 188,
+    "date": "2017-01-01",
+    "nom": "Bordes-Uchentein"
+  },
+  {
+    "cheflieu": "Druelle",
+    "anciennes": [
+      {
+        "insee": "12020",
+        "nom": "Balsac"
+      },
+      {
+        "insee": "12090",
+        "nom": "Druelle"
+      }
+    ],
+    "delegue": "oui",
+    "arrete": "2016-09-06",
+    "insee": "12090",
+    "population": 2753,
+    "date": "2017-01-01",
+    "nom": "Druelle Balsac"
+  },
+  {
+    "cheflieu": "Troarn",
+    "anciennes": [
+      {
+        "insee": "14666",
+        "nom": "Sannerville"
+      },
+      {
+        "insee": "14712",
+        "nom": "Troarn"
+      }
+    ],
+    "delegue": "oui",
+    "arrete": "2016-07-29",
+    "insee": "14712",
+    "population": 5437,
+    "date": "2017-01-01",
+    "nom": "Saline"
+  },
+  {
+    "cheflieu": "Laize-la-Ville",
+    "anciennes": [
+      {
+        "insee": "14164",
+        "nom": "Clinchamps-sur-Orne"
+      },
+      {
+        "insee": "14349",
+        "nom": "Laize-la-Ville"
+      }
+    ],
+    "delegue": "oui",
+    "arrete": "2016-09-08",
+    "insee": "14349",
+    "population": 1790,
+    "date": "2017-01-01",
+    "nom": "Laize-Clinchamps"
+  },
+  {
+    "cheflieu": "Bretteville-l'Orgueilleuse",
+    "anciennes": [
+      {
+        "insee": "14098",
+        "nom": "Bretteville-l'Orgueilleuse"
+      },
+      {
+        "insee": "14109",
+        "nom": "Brouay"
+      },
+      {
+        "insee": "14157",
+        "nom": "Cheux"
+      },
+      {
+        "insee": "14423",
+        "nom": "Le Mesnil-Patry"
+      },
+      {
+        "insee": "14525",
+        "nom": "Putot-en-Bessin"
+      },
+      {
+        "insee": "14568",
+        "nom": "Sainte-Croix-Grand-Tonne"
+      }
+    ],
+    "delegue": "oui",
+    "arrete": "2016-09-08",
+    "insee": "14098",
+    "population": 5328,
+    "date": "2017-01-01",
+    "nom": "Thue et Mue"
+  },
+  {
+    "cheflieu": "Creully",
+    "anciennes": [
+      {
+        "insee": "14200",
+        "nom": "Creully"
+      },
+      {
+        "insee": "14577",
+        "nom": "Saint-Gabriel-Brécy"
+      },
+      {
+        "insee": "14757",
+        "nom": "Villiers-le-Sec"
+      }
+    ],
+    "delegue": "oui",
+    "arrete": "2016-09-08",
+    "insee": "14200",
+    "population": 2389,
+    "date": "2017-01-01",
+    "nom": "Creully sur Seulles"
+  },
+  {
+    "cheflieu": "Lantheuil",
+    "anciennes": [
+      {
+        "insee": "14008",
+        "nom": "Amblie"
+      },
+      {
+        "insee": "14355",
+        "nom": "Lantheuil"
+      },
+      {
+        "insee": "14690",
+        "nom": "Tierceville"
+      }
+    ],
+    "delegue": "oui",
+    "arrete": "2016-09-08",
+    "insee": "14355",
+    "population": 1095,
+    "date": "2017-01-01",
+    "nom": "Ponts sur Seulles"
+  },
+  {
+    "cheflieu": "Martragny",
+    "anciennes": [
+      {
+        "insee": "14186",
+        "nom": "Coulombs"
+      },
+      {
+        "insee": "14212",
+        "nom": "Cully"
+      },
+      {
+        "insee": "14406",
+        "nom": "Martragny"
+      },
+      {
+        "insee": "14548",
+        "nom": "Rucqueville"
+      }
+    ],
+    "delegue": "oui",
+    "arrete": "2016-09-08",
+    "insee": "14406",
+    "population": 1113,
+    "date": "2017-01-01",
+    "nom": "Moulins en Bessin"
+  },
+  {
+    "cheflieu": "Moult",
+    "anciennes": [
+      {
+        "insee": "14158",
+        "nom": "Chicheboville"
+      },
+      {
+        "insee": "14456",
+        "nom": "Moult"
+      }
+    ],
+    "delegue": "oui",
+    "arrete": "2016-09-08",
+    "insee": "14456",
+    "population": 2654,
+    "date": "2017-01-01",
+    "nom": "Moult-Chicheboville"
+  },
+  {
+    "cheflieu": "Noyers-Missy",
+    "anciennes": [
+      {
+        "insee": "14373",
+        "nom": "Le Locheur"
+      },
+      {
+        "insee": "14475",
+        "nom": "Noyers-Missy"
+      },
+      {
+        "insee": "14432",
+        "nom": "Missy"
+      },
+      {
+        "insee": "14475",
+        "nom": "Noyers-Bocage"
+      },
+      {
+        "insee": "14702",
+        "nom": "Tournay-sur-Odon"
+      }
+    ],
+    "delegue": "oui",
+    "arrete": "2016-09-08",
+    "insee": "14475",
+    "population": 2278,
+    "date": "2017-01-01",
+    "nom": "Val d'Arry"
+  },
+  {
+    "cheflieu": "Airan",
+    "anciennes": [
+      {
+        "insee": "14005",
+        "nom": "Airan"
+      },
+      {
+        "insee": "14074",
+        "nom": "Billy"
+      },
+      {
+        "insee": "14176",
+        "nom": "Conteville"
+      },
+      {
+        "insee": "14268",
+        "nom": "Fierville-Bray"
+      },
+      {
+        "insee": "14517",
+        "nom": "Poussy-la-Campagne"
+      }
+    ],
+    "delegue": "oui",
+    "arrete": "2016-09-08",
+    "insee": "14005",
+    "population": 1778,
+    "date": "2017-01-01",
+    "nom": "Valambray"
+  },
+  {
+    "cheflieu": "Isigny-sur-Mer",
+    "anciennes": [
+      {
+        "insee": "14142",
+        "nom": "Castilly"
+      },
+      {
+        "insee": "14342",
+        "nom": "Isigny-sur-Mer"
+      },
+      {
+        "insee": "14462",
+        "nom": "Neuilly-la-Forêt"
+      },
+      {
+        "insee": "14481",
+        "nom": "Les Oubeaux"
+      },
+      {
+        "insee": "14763",
+        "nom": "Vouilly"
+      }
+    ],
+    "delegue": "oui",
+    "arrete": "2016-09-08",
+    "insee": "14342",
+    "population": 3834,
+    "date": "2017-01-01",
+    "nom": "Isigny-sur-Mer"
+  },
+  {
+    "cheflieu": "Formigny",
+    "anciennes": [
+      {
+        "insee": "14004",
+        "nom": "Aignerville"
+      },
+      {
+        "insee": "14235",
+        "nom": "Ecrammeville"
+      },
+      {
+        "insee": "14281",
+        "nom": "Formigny"
+      },
+      {
+        "insee": "14382",
+        "nom": "Louvières"
+      }
+    ],
+    "delegue": "oui",
+    "arrete": "2016-09-08",
+    "insee": "14281",
+    "population": 715,
+    "date": "2017-01-01",
+    "nom": "Formigny La Bataille"
+  },
+  {
+    "cheflieu": "Anctoville",
+    "anciennes": [
+      {
+        "insee": "14011",
+        "nom": "Anctoville"
+      },
+      {
+        "insee": "14267",
+        "nom": "Feuguerolles-sur-Seulles"
+      },
+      {
+        "insee": "14479",
+        "nom": "Orbois"
+      },
+      {
+        "insee": "14673",
+        "nom": "Sermentot"
+      },
+      {
+        "insee": "14376",
+        "nom": "Longraye"
+      },
+      {
+        "insee": "14581",
+        "nom": "Saint-Germain-d'Ectot"
+      },
+      {
+        "insee": "14695",
+        "nom": "Torteval-Quesnay"
+      }
+    ],
+    "delegue": "oui",
+    "arrete": "2016-09-08",
+    "insee": "14011",
+    "population": 1944,
+    "date": "2017-01-01",
+    "nom": "Aurseulles"
+  },
+  {
+    "cheflieu": "Caumont-l'Éventé",
+    "anciennes": [
+      {
+        "insee": "14143",
+        "nom": "Caumont-l'Éventé"
+      },
+      {
+        "insee": "14372",
+        "nom": "Livry"
+      },
+      {
+        "insee": "14722",
+        "nom": "La Vacquerie"
+      }
+    ],
+    "delegue": "oui",
+    "arrete": "2016-09-08",
+    "insee": "14143",
+    "population": 2434,
+    "date": "2017-01-01",
+    "nom": "Caumont-sur-Aure"
+  },
+  {
+    "cheflieu": "Méry-Corbon",
+    "anciennes": [
+      {
+        "insee": "14075",
+        "nom": "Bissières"
+      },
+      {
+        "insee": "14410",
+        "nom": "Méry-Corbon"
+      }
+    ],
+    "delegue": "oui",
+    "arrete": "2016-09-08",
+    "insee": "14410",
+    "population": 1206,
+    "date": "2017-01-01",
+    "nom": "Méry-Bissières-en-Auge"
+  },
+  {
+    "cheflieu": "Biéville-Quétiéville",
+    "anciennes": [
+      {
+        "insee": "14527",
+        "nom": "Biéville-Quétiéville"
+      },
+      {
+        "insee": "14608",
+        "nom": "Saint-Loup-de-Fribois"
+      }
+    ],
+    "delegue": "oui",
+    "arrete": "2016-09-08",
+    "insee": "14527",
+    "population": 509,
+    "date": "2017-01-01",
+    "nom": "Belle Vie en Auge"
+  },
+  {
+    "cheflieu": "Mézidon-Canon",
+    "anciennes": [
+      {
+        "insee": "14031",
+        "nom": "Les Authieux-Papion"
+      },
+      {
+        "insee": "14189",
+        "nom": "Coupesarte"
+      },
+      {
+        "insee": "14201",
+        "nom": "Crèvecœur-en-Auge"
+      },
+      {
+        "insee": "14208",
+        "nom": "Croissanville"
+      },
+      {
+        "insee": "14313",
+        "nom": "Grandchamp-le-Château"
+      },
+      {
+        "insee": "14359",
+        "nom": "Lécaude"
+      },
+      {
+        "insee": "14386",
+        "nom": "Magny-la-Campagne"
+      },
+      {
+        "insee": "14387",
+        "nom": "Magny-le-Freule"
+      },
+      {
+        "insee": "14422",
+        "nom": "Le Mesnil-Mauger"
+      },
+      {
+        "insee": "14431",
+        "nom": "Mézidon-Canon"
+      },
+      {
+        "insee": "14444",
+        "nom": "Monteille"
+      },
+      {
+        "insee": "14493",
+        "nom": "Percy-en-Auge"
+      },
+      {
+        "insee": "14600",
+        "nom": "Saint-Julien-le-Faucon"
+      },
+      {
+        "insee": "14749",
+        "nom": "Vieux-Fumé"
+      }
+    ],
+    "delegue": "oui",
+    "arrete": "2016-09-08",
+    "insee": "14431",
+    "population": 9819,
+    "date": "2017-01-01",
+    "nom": "Mézidon Vallée d'Auge"
+  },
+  {
+    "cheflieu": "Saint-Pierre-sur-Dives",
+    "anciennes": [
+      {
+        "insee": "14081",
+        "nom": "Boissey"
+      },
+      {
+        "insee": "14099",
+        "nom": "Bretteville-sur-Dives"
+      },
+      {
+        "insee": "14331",
+        "nom": "Hiéville"
+      },
+      {
+        "insee": "14433",
+        "nom": "Mittois"
+      },
+      {
+        "insee": "14450",
+        "nom": "Montviette"
+      },
+      {
+        "insee": "14472",
+        "nom": "L'Oudon"
+      },
+      {
+        "insee": "14489",
+        "nom": "Ouville-la-Bien-Tournée"
+      },
+      {
+        "insee": "14616",
+        "nom": "Sainte-Marguerite-de-Viette"
+      },
+      {
+        "insee": "14580",
+        "nom": "Saint-Georges-en-Auge"
+      },
+      {
+        "insee": "14654",
+        "nom": "Saint-Pierre-sur-Dives"
+      },
+      {
+        "insee": "14688",
+        "nom": "Thiéville"
+      },
+      {
+        "insee": "14729",
+        "nom": "Vaudeloges"
+      },
+      {
+        "insee": "14750",
+        "nom": "Vieux-Pont-en-Auge"
+      }
+    ],
+    "delegue": "oui",
+    "arrete": "2016-09-08",
+    "insee": "14654",
+    "population": 7863,
+    "date": "2017-01-01",
+    "nom": "Saint-Pierre-en-Auge"
+  },
+  {
+    "cheflieu": "Sept-Vents",
+    "anciennes": [
+      {
+        "insee": "14217",
+        "nom": "Dampierre"
+      },
+      {
+        "insee": "14350",
+        "nom": "La Lande-sur-Drôme"
+      },
+      {
+        "insee": "14596",
+        "nom": "Saint-Jean-des-Essartiers"
+      },
+      {
+        "insee": "14672",
+        "nom": "Sept-Vents"
+      }
+    ],
+    "delegue": "oui",
+    "arrete": "2016-09-26",
+    "insee": "14672",
+    "population": 820,
+    "date": "2017-01-01",
+    "nom": "Val de Drôme"
+  },
+  {
+    "cheflieu": "Jurques",
+    "anciennes": [
+      {
+        "insee": "14347",
+        "nom": "Jurques"
+      },
+      {
+        "insee": "14413",
+        "nom": "Le Mesnil-Auzouf"
+      }
+    ],
+    "delegue": "oui",
+    "arrete": "2016-09-26",
+    "insee": "14347",
+    "population": 1069,
+    "date": "2017-01-01",
+    "nom": "Dialan sur Chaîne"
+  },
+  {
+    "cheflieu": "Aunay-sur-Odon",
+    "anciennes": [
+      {
+        "insee": "14027",
+        "nom": "Aunay-sur-Odon"
+      },
+      {
+        "insee": "14056",
+        "nom": "Bauquay"
+      },
+      {
+        "insee": "14128",
+        "nom": "Campandré-Valcongrain"
+      },
+      {
+        "insee": "14219",
+        "nom": "Danvou-la-Ferrière"
+      },
+      {
+        "insee": "14477",
+        "nom": "Ondefontaine"
+      },
+      {
+        "insee": "14508",
+        "nom": "Le Plessis-Grimoult"
+      },
+      {
+        "insee": "14544",
+        "nom": "Roucamps"
+      }
+    ],
+    "delegue": "oui",
+    "arrete": "2016-09-26",
+    "insee": "14027",
+    "population": 4761,
+    "date": "2017-01-01",
+    "nom": "Les Monts d'Aunay"
+  },
+  {
+    "cheflieu": "Seulline",
+    "anciennes": [
+      {
+        "insee": "14073",
+        "nom": "La Bigne"
+      },
+      {
+        "insee": "14579",
+        "nom": "Seulline"
+      },
+      {
+        "insee": "14188",
+        "nom": "Coulvain"
+      },
+      {
+        "insee": "14579",
+        "nom": "Saint-Georges-d'Aunay"
+      }
+    ],
+    "delegue": "oui",
+    "arrete": "2016-09-26",
+    "insee": "14579",
+    "population": 1307,
+    "date": "2017-01-01",
+    "nom": "Seulline"
+  },
+  {
+    "cheflieu": "Lassy",
+    "anciennes": [
+      {
+        "insee": "14357",
+        "nom": "Lassy"
+      },
+      {
+        "insee": "14597",
+        "nom": "Saint-Jean-le-Blanc"
+      },
+      {
+        "insee": "14662",
+        "nom": "Saint-Vigor-des-Mézerets"
+      }
+    ],
+    "delegue": "oui",
+    "arrete": null,
+    "insee": "14357",
+    "population": 939,
+    "date": "2017-01-01",
+    "nom": "Terres de Druance"
+  },
+  {
+    "cheflieu": "Saint-Sever-Calvados",
+    "anciennes": [
+      {
+        "insee": "14151",
+        "nom": "Champ-du-Boult"
+      },
+      {
+        "insee": "14192",
+        "nom": "Courson"
+      },
+      {
+        "insee": "14279",
+        "nom": "Fontenermont"
+      },
+      {
+        "insee": "14296",
+        "nom": "Le Gast"
+      },
+      {
+        "insee": "14415",
+        "nom": "Le Mesnil-Benoist"
+      },
+      {
+        "insee": "14416",
+        "nom": "Le Mesnil-Caussois"
+      },
+      {
+        "insee": "14417",
+        "nom": "Mesnil-Clinchamps"
+      },
+      {
+        "insee": "14611",
+        "nom": "Saint-Manvieu-Bocage"
+      },
+      {
+        "insee": "14658",
+        "nom": "Saint-Sever-Calvados"
+      },
+      {
+        "insee": "14671",
+        "nom": "Sept-Frères"
+      }
+    ],
+    "delegue": "oui",
+    "arrete": null,
+    "insee": "14658",
+    "population": 4492,
+    "date": "2017-01-01",
+    "nom": "Noues de Sienne"
+  },
+  {
+    "cheflieu": "Sainte-Honorine-des-Pertes",
+    "anciennes": [
+      {
+        "insee": "14551",
+        "nom": "Russy"
+      },
+      {
+        "insee": "14591",
+        "nom": "Sainte-Honorine-des-Pertes"
+      }
+    ],
+    "delegue": "oui",
+    "arrete": null,
+    "insee": "14591",
+    "population": 755,
+    "date": "2017-01-01",
+    "nom": "Aure sur Mer"
+  },
+  {
+    "cheflieu": "Neuvéglise",
+    "anciennes": [
+      {
+        "insee": "15099",
+        "nom": "Lavastrie"
+      },
+      {
+        "insee": "15142",
+        "nom": "Neuvéglise"
+      },
+      {
+        "insee": "15145",
+        "nom": "Oradour"
+      },
+      {
+        "insee": "15227",
+        "nom": "Sériers"
+      }
+    ],
+    "delegue": "oui",
+    "arrete": null,
+    "insee": "15142",
+    "population": 1750,
+    "date": "2017-01-01",
+    "nom": "Neuvéglise-sur-Truyère"
+  },
+  {
+    "cheflieu": "Murat",
+    "anciennes": [
+      {
+        "insee": "15138",
+        "nom": "Murat"
+      },
+      {
+        "insee": "15044",
+        "nom": "Chastel-sur-Murat"
+      }
+    ],
+    "delegue": "oui",
+    "arrete": null,
+    "insee": "15138",
+    "population": 2015,
+    "date": "2017-01-01",
+    "nom": "Murat"
+  },
+  {
+    "cheflieu": "Montmoreau-Saint-Cybard",
+    "anciennes": [
+      {
+        "insee": "16004",
+        "nom": "Aignes-et-Puypéroux"
+      },
+      {
+        "insee": "16230",
+        "nom": "Montmoreau-Saint-Cybard"
+      },
+      {
+        "insee": "16294",
+        "nom": "Saint-Amant-de-Montmoreau"
+      },
+      {
+        "insee": "16314",
+        "nom": "Saint-Eutrope"
+      },
+      {
+        "insee": "16328",
+        "nom": "Saint-Laurent-de-Belzagot"
+      }
+    ],
+    "delegue": null,
+    "arrete": "2016-06-29",
+    "insee": "16230",
+    "population": 2608,
+    "date": "2017-01-01",
+    "nom": "Montmoreau"
+  },
+  {
+    "cheflieu": "Malaville",
+    "anciennes": [
+      {
+        "insee": "16129",
+        "nom": "Éraville"
+      },
+      {
+        "insee": "16204",
+        "nom": "Malaville"
+      },
+      {
+        "insee": "16247",
+        "nom": "Nonaville"
+      },
+      {
+        "insee": "16386",
+        "nom": "Touzac"
+      },
+      {
+        "insee": "16417",
+        "nom": "Viville"
+      }
+    ],
+    "delegue": null,
+    "arrete": "2016-06-22",
+    "insee": "16204",
+    "population": 1385,
+    "date": "2017-01-01",
+    "nom": "Bellevigne"
+  },
+  {
+    "cheflieu": "Aunac",
+    "anciennes": [
+      {
+        "insee": "16023",
+        "nom": "Aunac"
+      },
+      {
+        "insee": "16033",
+        "nom": "Bayers"
+      },
+      {
+        "insee": "16094",
+        "nom": "Chenommet"
+      }
+    ],
+    "delegue": null,
+    "arrete": "2016-06-09",
+    "insee": "16023",
+    "population": 623,
+    "date": "2017-01-01",
+    "nom": "Aunac-sur-Charente"
+  },
+  {
+    "cheflieu": "Blanzac-Porcheresse",
+    "anciennes": [
+      {
+        "insee": "16046",
+        "nom": "Blanzac-Porcheresse"
+      },
+      {
+        "insee": "16115",
+        "nom": "Cressac-Saint-Genis"
+      }
+    ],
+    "delegue": null,
+    "arrete": null,
+    "insee": "16046",
+    "population": 949,
+    "date": "2017-01-01",
+    "nom": "Coteaux du Blanzacais"
+  },
+  {
+    "cheflieu": "Sarroux",
+    "anciennes": [
+      {
+        "insee": "19218",
+        "nom": "Saint-Julien-près-Bort"
+      },
+      {
+        "insee": "19252",
+        "nom": "Sarroux"
+      }
+    ],
+    "delegue": "oui",
+    "arrete": "2016-06-22",
+    "insee": "19252",
+    "population": 863,
+    "date": "2017-01-01",
+    "nom": "Sarroux-Saint Julien"
+  },
+  {
+    "cheflieu": "Argentat",
+    "anciennes": [
+      {
+        "insee": "19010",
+        "nom": "Argentat"
+      },
+      {
+        "insee": "19183",
+        "nom": "Saint-Bazile-de-la-Roche"
+      }
+    ],
+    "delegue": "oui",
+    "arrete": "2016-06-28",
+    "insee": "19010",
+    "population": 3116,
+    "date": "2017-01-01",
+    "nom": "Argentat-sur-Dordogne"
+  },
+  {
+    "cheflieu": "Cormot-le-Grand",
+    "anciennes": [
+      {
+        "insee": "21195",
+        "nom": "Cormot-le-Grand"
+      },
+      {
+        "insee": "21658",
+        "nom": "Vauchignon"
+      }
+    ],
+    "delegue": "non",
+    "arrete": "2016-12-02",
+    "insee": "21195",
+    "population": 191,
+    "date": "2017-01-01",
+    "nom": "Cormot-Vauchignon"
+  },
+  {
+    "cheflieu": "Mûr-de-Bretagne",
+    "anciennes": [
+      {
+        "insee": "22158",
+        "nom": "Mûr-de-Bretagne"
+      },
+      {
+        "insee": "22298",
+        "nom": "Saint-Guen"
+      }
+    ],
+    "delegue": "oui",
+    "arrete": "2016-08-30",
+    "insee": "22158",
+    "population": 2532,
+    "date": "2017-01-01",
+    "nom": "Guerlédan"
+  },
+  {
+    "cheflieu": "Laniscat",
+    "anciennes": [
+      {
+        "insee": "22107",
+        "nom": "Laniscat"
+      },
+      {
+        "insee": "22167",
+        "nom": "Perret"
+      },
+      {
+        "insee": "22290",
+        "nom": "Saint-Gelven"
+      }
+    ],
+    "delegue": "oui",
+    "arrete": "2016-08-30",
+    "insee": "22107",
+    "population": 1282,
+    "date": "2017-01-01",
+    "nom": "Bon Repos sur Blavet"
+  },
+  {
+    "cheflieu": "Ploubalay",
+    "anciennes": [
+      {
+        "insee": "22192",
+        "nom": "Plessix-Balisson"
+      },
+      {
+        "insee": "22209",
+        "nom": "Ploubalay"
+      },
+      {
+        "insee": "22357",
+        "nom": "Trégon"
+      }
+    ],
+    "delegue": "oui",
+    "arrete": "2016-08-30",
+    "insee": "22209",
+    "population": 3352,
+    "date": "2017-01-01",
+    "nom": "Beaussais-sur-Mer"
+  },
+  {
+    "cheflieu": "Saint-Étienne-de-Fursac",
+    "anciennes": [
+      {
+        "insee": "23192",
+        "nom": "Saint-Étienne-de-Fursac"
+      },
+      {
+        "insee": "23231",
+        "nom": "Saint-Pierre-de-Fursac"
+      }
+    ],
+    "delegue": "oui",
+    "arrete": "2016-09-29",
+    "insee": "23192",
+    "population": 1561,
+    "date": "2017-01-01",
+    "nom": "Fursac"
+  },
+  {
+    "cheflieu": "Bassillac",
+    "anciennes": [
+      {
+        "insee": "24026",
+        "nom": "Bassillac"
+      },
+      {
+        "insee": "24044",
+        "nom": "Blis-et-Born"
+      },
+      {
+        "insee": "24103",
+        "nom": "Le Change"
+      },
+      {
+        "insee": "24166",
+        "nom": "Eyliac"
+      },
+      {
+        "insee": "24270",
+        "nom": "Milhac-d'Auberoche"
+      },
+      {
+        "insee": "24369",
+        "nom": "Saint-Antoine-d'Auberoche"
+      }
+    ],
+    "delegue": "oui",
+    "arrete": "2016-06-29",
+    "insee": "24026",
+    "population": 4407,
+    "date": "2017-01-01",
+    "nom": "Bassillac et Auberoche"
+  },
+  {
+    "cheflieu": "Castels",
+    "anciennes": [
+      {
+        "insee": "24041",
+        "nom": "Bézenac"
+      },
+      {
+        "insee": "24087",
+        "nom": "Castels"
+      }
+    ],
+    "delegue": "oui",
+    "arrete": "2016-06-29",
+    "insee": "24087",
+    "population": 784,
+    "date": "2017-01-01",
+    "nom": "Castels et Bézenac"
+  },
+  {
+    "cheflieu": "Chavagnac",
+    "anciennes": [
+      {
+        "insee": "24117",
+        "nom": "Chavagnac"
+      },
+      {
+        "insee": "24204",
+        "nom": "Grèzes"
+      }
+    ],
+    "delegue": "oui",
+    "arrete": "2016-06-29",
+    "insee": "24117",
+    "population": 563,
+    "date": "2017-01-01",
+    "nom": "Les Coteaux Périgourdins"
+  },
+  {
+    "cheflieu": "Boulazac",
+    "anciennes": [
+      {
+        "insee": "24053",
+        "nom": "Boulazac Isle Manoire"
+      },
+      {
+        "insee": "24447",
+        "nom": "Sainte-Marie-de-Chignac"
+      }
+    ],
+    "delegue": "oui",
+    "arrete": null,
+    "insee": "24053",
+    "population": 10282,
+    "date": "2017-01-01",
+    "nom": "Boulazac Isle Manoire"
+  },
+  {
+    "cheflieu": "Cubjac",
+    "anciennes": [
+      {
+        "insee": "24147",
+        "nom": "Cubjac"
+      },
+      {
+        "insee": "24047",
+        "nom": "La Boissière-d'Ans"
+      },
+      {
+        "insee": "24475",
+        "nom": "Saint-Pantaly-d'Ans"
+      }
+    ],
+    "delegue": "oui",
+    "arrete": null,
+    "insee": "24147",
+    "population": 1104,
+    "date": "2017-01-01",
+    "nom": "Cubjac-Auvézère-Val d'Ans"
+  },
+  {
+    "cheflieu": "La Tour-Blanche",
+    "anciennes": [
+      {
+        "insee": "24554",
+        "nom": "La Tour-Blanche"
+      },
+      {
+        "insee": "24093",
+        "nom": "Cercles"
+      }
+    ],
+    "delegue": "oui",
+    "arrete": null,
+    "insee": "24554",
+    "population": 625,
+    "date": "2017-01-01",
+    "nom": "La Tour-Blanche-Cercles"
+  },
+  {
+    "cheflieu": "Mareuil",
+    "anciennes": [
+      {
+        "insee": "24033",
+        "nom": "Beaussac"
+      },
+      {
+        "insee": "24099",
+        "nom": "Champeaux-et-la-Chapelle-Pommier"
+      },
+      {
+        "insee": "24203",
+        "nom": "Les Graulges"
+      },
+      {
+        "insee": "24235",
+        "nom": "Léguillac-de-Cercles"
+      },
+      {
+        "insee": "24253",
+        "nom": "Mareuil"
+      },
+      {
+        "insee": "24283",
+        "nom": "Monsec"
+      },
+      {
+        "insee": "24344",
+        "nom": "Puyrenier"
+      },
+      {
+        "insee": "24503",
+        "nom": "Saint-Sulpice-de-Mareuil"
+      },
+      {
+        "insee": "24579",
+        "nom": "Vieux-Mareuil"
+      }
+    ],
+    "delegue": "oui",
+    "arrete": null,
+    "insee": "24253",
+    "population": 2533,
+    "date": "2017-01-01",
+    "nom": "Mareuil en Périgord"
+  },
+  {
+    "cheflieu": "Notre-Dame-de-Sanilhac",
+    "anciennes": [
+      {
+        "insee": "24065",
+        "nom": "Breuilh"
+      },
+      {
+        "insee": "24258",
+        "nom": "Marsaneix"
+      },
+      {
+        "insee": "24312",
+        "nom": "Notre-Dame-de-Sanilhac"
+      }
+    ],
+    "delegue": "oui",
+    "arrete": null,
+    "insee": "24312",
+    "population": 4416,
+    "date": "2017-01-01",
+    "nom": "Sanilhac"
+  },
+  {
+    "cheflieu": "Saint-Privat-des-Prés",
+    "anciennes": [
+      {
+        "insee": "24178",
+        "nom": "Festalemps"
+      },
+      {
+        "insee": "24368",
+        "nom": "Saint-Antoine-Cumond"
+      },
+      {
+        "insee": "24490",
+        "nom": "Saint-Privat-des-Prés"
+      }
+    ],
+    "delegue": "oui",
+    "arrete": null,
+    "insee": "24490",
+    "population": 1236,
+    "date": "2017-01-01",
+    "nom": "Saint Privat en Périgord"
+  },
+  {
+    "cheflieu": "Sainte-Alvère",
+    "anciennes": [
+      {
+        "insee": "24362",
+        "nom": "Sainte-Alvère-Saint-Laurent Les Bâtons"
+      },
+      {
+        "insee": "24092",
+        "nom": "Cendrieux"
+      }
+    ],
+    "delegue": "oui",
+    "arrete": null,
+    "insee": "24362",
+    "population": 1643,
+    "date": "2017-01-01",
+    "nom": "Val de Louyre et Caudeau"
+  },
+  {
+    "cheflieu": "La Jemaye",
+    "anciennes": [
+      {
+        "insee": "24216",
+        "nom": "La Jemaye"
+      },
+      {
+        "insee": "24333",
+        "nom": "Ponteyraud"
+      }
+    ],
+    "delegue": "oui",
+    "arrete": null,
+    "insee": "24216",
+    "population": 158,
+    "date": "2017-01-01",
+    "nom": "La Jemaye-Ponteyraud"
+  },
+  {
+    "cheflieu": "Chemaudin",
+    "anciennes": [
+      {
+        "insee": "25147",
+        "nom": "Chemaudin"
+      },
+      {
+        "insee": "25593",
+        "nom": "Vaux-les-Prés"
+      }
+    ],
+    "delegue": "non",
+    "arrete": "2016-08-12",
+    "insee": "25147",
+    "population": 1863,
+    "date": "2017-01-01",
+    "nom": "Chemaudin et Vaux"
+  },
+  {
+    "cheflieu": "Étalans",
+    "anciennes": [
+      {
+        "insee": "25123",
+        "nom": "Charbonnières-les-Sapins"
+      },
+      {
+        "insee": "25222",
+        "nom": "Étalans"
+      },
+      {
+        "insee": "25610",
+        "nom": "Verrières-du-Grosbois"
+      }
+    ],
+    "delegue": "non",
+    "arrete": "2016-08-12",
+    "insee": "25222",
+    "population": 1446,
+    "date": "2017-01-01",
+    "nom": "Étalans"
+  },
+  {
+    "cheflieu": "Clerval",
+    "anciennes": [
+      {
+        "insee": "25156",
+        "nom": "Clerval"
+      },
+      {
+        "insee": "25531",
+        "nom": "Santoche"
+      }
+    ],
+    "delegue": "non",
+    "arrete": "2016-08-09",
+    "insee": "25156",
+    "population": 1119,
+    "date": "2017-01-01",
+    "nom": "Pays de Clerval"
+  },
+  {
+    "cheflieu": "Levier",
+    "anciennes": [
+      {
+        "insee": "25319",
+        "nom": "Labergement-du-Navois"
+      },
+      {
+        "insee": "25334",
+        "nom": "Levier"
+      }
+    ],
+    "delegue": "non",
+    "arrete": null,
+    "insee": "25334",
+    "population": 2121,
+    "date": "2017-01-01",
+    "nom": "Levier"
+  },
+  {
+    "cheflieu": "Pointvillers",
+    "anciennes": [
+      {
+        "insee": "25399",
+        "nom": "Montfort"
+      },
+      {
+        "insee": "25460",
+        "nom": "Pointvillers"
+      }
+    ],
+    "delegue": "non",
+    "arrete": null,
+    "insee": "25460",
+    "population": 238,
+    "date": "2017-01-01",
+    "nom": "Le Val"
+  },
+  {
+    "cheflieu": "Le Bosc-Roger-en-Roumois",
+    "anciennes": [
+      {
+        "insee": "27090",
+        "nom": "Le Bosc-Roger-en-Roumois"
+      },
+      {
+        "insee": "27093",
+        "nom": "Bosnormand"
+      }
+    ],
+    "delegue": "oui",
+    "arrete": "2016-08-03",
+    "insee": "27090",
+    "population": 3466,
+    "date": "2017-01-01",
+    "nom": "Bosroumois"
+  },
+  {
+    "cheflieu": "Saint-Just",
+    "anciennes": [
+      {
+        "insee": "27150",
+        "nom": "La Chapelle-Réanville"
+      },
+      {
+        "insee": "27554",
+        "nom": "Saint-Just"
+      },
+      {
+        "insee": "27588",
+        "nom": "Saint-Pierre-d'Autils"
+      }
+    ],
+    "delegue": "oui",
+    "arrete": "2016-08-03",
+    "insee": "27554",
+    "population": 3414,
+    "date": "2017-01-01",
+    "nom": "La Chapelle-Longueville"
+  },
+  {
+    "cheflieu": "Berville-en-Roumois",
+    "anciennes": [
+      {
+        "insee": "27062",
+        "nom": "Berville-en-Roumois"
+      },
+      {
+        "insee": "27092",
+        "nom": "Bosguérard-de-Marcouville"
+      },
+      {
+        "insee": "27344",
+        "nom": "Houlbec-près-le-Gros-Theil"
+      }
+    ],
+    "delegue": "oui",
+    "arrete": "2016-08-03",
+    "insee": "27062",
+    "population": 1548,
+    "date": "2017-01-01",
+    "nom": "Les Monts du Roumois"
+  },
+  {
+    "cheflieu": "Venables",
+    "anciennes": [
+      {
+        "insee": "27058",
+        "nom": "Bernières-sur-Seine"
+      },
+      {
+        "insee": "27647",
+        "nom": "Tosny"
+      },
+      {
+        "insee": "27676",
+        "nom": "Venables"
+      }
+    ],
+    "delegue": "oui",
+    "arrete": "2016-08-03",
+    "insee": "27676",
+    "population": 1788,
+    "date": "2017-01-01",
+    "nom": "Les Trois Lacs"
+  },
+  {
+    "cheflieu": "Nassandres",
+    "anciennes": [
+      {
+        "insee": "27131",
+        "nom": "Carsix"
+      },
+      {
+        "insee": "27253",
+        "nom": "Fontaine-la-Soret"
+      },
+      {
+        "insee": "27425",
+        "nom": "Nassandres"
+      },
+      {
+        "insee": "27452",
+        "nom": "Perriers-la-Campagne"
+      }
+    ],
+    "delegue": "oui",
+    "arrete": "2016-08-03",
+    "insee": "27425",
+    "population": 2395,
+    "date": "2017-01-01",
+    "nom": "Nassandres sur Risle"
+  },
+  {
+    "cheflieu": "Pacy-sur-Eure",
+    "anciennes": [
+      {
+        "insee": "27448",
+        "nom": "Pacy-sur-Eure"
+      },
+      {
+        "insee": "27510",
+        "nom": "Saint-Aquilin-de-Pacy"
+      }
+    ],
+    "delegue": "oui",
+    "arrete": "2016-08-03",
+    "insee": "27448",
+    "population": 5129,
+    "date": "2017-01-01",
+    "nom": "Pacy-sur-Eure"
+  },
+  {
+    "cheflieu": "Bosc-Renoult-en-Roumois",
+    "anciennes": [
+      {
+        "insee": "27089",
+        "nom": "Bosc-Renoult-en-Roumois"
+      },
+      {
+        "insee": "27626",
+        "nom": "Theillement"
+      }
+    ],
+    "delegue": "oui",
+    "arrete": "2016-08-03",
+    "insee": "27089",
+    "population": 840,
+    "date": "2017-01-01",
+    "nom": "Thenouville"
+  },
+  {
+    "cheflieu": "Grainville",
+    "anciennes": [
+      {
+        "insee": "27274",
+        "nom": "Gaillardbois-Cressenville"
+      },
+      {
+        "insee": "27294",
+        "nom": "Grainville"
+      }
+    ],
+    "delegue": "oui",
+    "arrete": "2016-08-03",
+    "insee": "27294",
+    "population": 996,
+    "date": "2017-01-01",
+    "nom": "Val d'Orger"
+  },
+  {
+    "cheflieu": "Verneuil-sur-Avre",
+    "anciennes": [
+      {
+        "insee": "27265",
+        "nom": "Francheville"
+      },
+      {
+        "insee": "27679",
+        "nom": "Verneuil-sur-Avre"
+      }
+    ],
+    "delegue": "oui",
+    "arrete": "2016-08-03",
+    "insee": "27679",
+    "population": 7731,
+    "date": "2017-01-01",
+    "nom": "Verneuil d'Avre et d'Iton"
+  },
+  {
+    "cheflieu": "Montaure",
+    "anciennes": [
+      {
+        "insee": "27412",
+        "nom": "Montaure"
+      },
+      {
+        "insee": "27648",
+        "nom": "Tostes"
+      }
+    ],
+    "delegue": "oui",
+    "arrete": null,
+    "insee": "27412",
+    "population": 1511,
+    "date": "2017-01-01",
+    "nom": "Terres de Bord"
+  },
+  {
+    "cheflieu": "Arrou",
+    "anciennes": [
+      {
+        "insee": "28012",
+        "nom": "Arrou"
+      },
+      {
+        "insee": "28044",
+        "nom": "Boisgasson"
+      },
+      {
+        "insee": "28093",
+        "nom": "Châtillon-en-Dunois"
+      },
+      {
+        "insee": "28115",
+        "nom": "Courtalain"
+      },
+      {
+        "insee": "28204",
+        "nom": "Langey"
+      },
+      {
+        "insee": "28356",
+        "nom": "Saint-Pellerin"
+      }
+    ],
+    "delegue": "oui",
+    "arrete": "2016-05-25",
+    "insee": "28012",
+    "population": 3885,
+    "date": "2017-01-01",
+    "nom": "Arrou"
+  },
+  {
+    "cheflieu": "Cloyes-sur-le-Loir",
+    "anciennes": [
+      {
+        "insee": "28017",
+        "nom": "Autheuil"
+      },
+      {
+        "insee": "28083",
+        "nom": "Charray"
+      },
+      {
+        "insee": "28103",
+        "nom": "Cloyes-sur-le-Loir"
+      },
+      {
+        "insee": "28133",
+        "nom": "Douy"
+      },
+      {
+        "insee": "28150",
+        "nom": "La Ferté-Villeneuil"
+      },
+      {
+        "insee": "28241",
+        "nom": "Le Mée"
+      },
+      {
+        "insee": "28262",
+        "nom": "Montigny-le-Gannelon"
+      },
+      {
+        "insee": "28318",
+        "nom": "Romilly-sur-Aigre"
+      },
+      {
+        "insee": "28340",
+        "nom": "Saint-Hilaire-sur-Yerre"
+      }
+    ],
+    "delegue": "oui",
+    "arrete": "2016-05-25",
+    "insee": "28103",
+    "population": 5773,
+    "date": "2017-01-01",
+    "nom": "Cloyes les Trois Rivières"
+  },
+  {
+    "cheflieu": "Saint-Cloud-en-Dunois",
+    "anciennes": [
+      {
+        "insee": "28101",
+        "nom": "Civry"
+      },
+      {
+        "insee": "28224",
+        "nom": "Lutz-en-Dunois"
+      },
+      {
+        "insee": "28295",
+        "nom": "Ozoir-le-Breuil"
+      },
+      {
+        "insee": "28330",
+        "nom": "Saint-Cloud-en-Dunois"
+      }
+    ],
+    "delegue": "oui",
+    "arrete": "2016-09-09",
+    "insee": "28330",
+    "population": 1500,
+    "date": "2017-01-01",
+    "nom": "Villemaury"
+  },
+  {
+    "cheflieu": "Guipronvel",
+    "anciennes": [
+      {
+        "insee": "29076",
+        "nom": "Guipronvel"
+      },
+      {
+        "insee": "29149",
+        "nom": "Milizac"
+      }
+    ],
+    "delegue": "oui",
+    "arrete": "2016-06-29",
+    "insee": "29076",
+    "population": 4213,
+    "date": "2017-01-01",
+    "nom": "Milizac-Guipronvel"
+  },
+  {
+    "cheflieu": "Brignogan-Plages",
+    "anciennes": [
+      {
+        "insee": "29021",
+        "nom": "Brignogan-Plages"
+      },
+      {
+        "insee": "29203",
+        "nom": "Plounéour-Trez"
+      }
+    ],
+    "delegue": "oui",
+    "arrete": "2016-06-29",
+    "insee": "29021",
+    "population": 2036,
+    "date": "2017-01-01",
+    "nom": "Plounéour-Brignogan-Plages"
+  },
+  {
+    "cheflieu": "Péguilhan",
+    "anciennes": [
+      {
+        "insee": "31307",
+        "nom": "Lunax"
+      },
+      {
+        "insee": "31412",
+        "nom": "Péguilhan"
+      }
+    ],
+    "delegue": "oui",
+    "arrete": null,
+    "insee": "31412",
+    "population": 296,
+    "date": "2017-01-01",
+    "nom": "Péguilhan"
+  },
+  {
+    "cheflieu": "Castets-en-Dorthe",
+    "anciennes": [
+      {
+        "insee": "33106",
+        "nom": "Castets-en-Dorthe"
+      },
+      {
+        "insee": "33107",
+        "nom": "Castillon-de-Castets"
+      }
+    ],
+    "delegue": "oui",
+    "arrete": "2016-08-01",
+    "insee": "33106",
+    "population": 1492,
+    "date": "2017-01-01",
+    "nom": "Castets et Castillon"
+  },
+  {
+    "cheflieu": "Margaux",
+    "anciennes": [
+      {
+        "insee": "33268",
+        "nom": "Margaux"
+      },
+      {
+        "insee": "33091",
+        "nom": "Cantenac"
+      }
+    ],
+    "delegue": "oui (Cantenac)",
+    "arrete": null,
+    "insee": "33268",
+    "population": 2954,
+    "date": "2017-01-01",
+    "nom": "Margaux-Cantenac"
+  },
+  {
+    "cheflieu": "Châteaugiron",
+    "anciennes": [
+      {
+        "insee": "35069",
+        "nom": "Châteaugiron"
+      },
+      {
+        "insee": "35209",
+        "nom": "Ossé"
+      },
+      {
+        "insee": "35254",
+        "nom": "Saint-Aubin-du-Pavail"
+      }
+    ],
+    "delegue": "oui",
+    "arrete": "2016-06-13",
+    "insee": "35069",
+    "population": 9182,
+    "date": "2017-01-01",
+    "nom": "Châteaugiron"
+  },
+  {
+    "cheflieu": "Maure-de-Bretagne",
+    "anciennes": [
+      {
+        "insee": "35048",
+        "nom": "Campel"
+      },
+      {
+        "insee": "35168",
+        "nom": "Maure-de-Bretagne"
+      }
+    ],
+    "delegue": "oui",
+    "arrete": "2016-08-29",
+    "insee": "35168",
+    "population": 3813,
+    "date": "2017-01-01",
+    "nom": "Val d'Anast"
+  },
+  {
+    "cheflieu": "Saint-Brice-en-Coglès",
+    "anciennes": [
+      {
+        "insee": "35257",
+        "nom": "Saint-Brice-en-Coglès"
+      },
+      {
+        "insee": "35267",
+        "nom": "Saint-Étienne-en-Coglès"
+      }
+    ],
+    "delegue": "oui",
+    "arrete": "2016-08-29",
+    "insee": "35257",
+    "population": 4777,
+    "date": "2017-01-01",
+    "nom": "Maen-Roch"
+  },
+  {
+    "cheflieu": "Montours",
+    "anciennes": [
+      {
+        "insee": "35083",
+        "nom": "Coglès"
+      },
+      {
+        "insee": "35323",
+        "nom": "La Selle-en-Coglès"
+      },
+      {
+        "insee": "35191",
+        "nom": "Montours"
+      }
+    ],
+    "delegue": "oui",
+    "arrete": "2016-09-30",
+    "insee": "35191",
+    "population": 2339,
+    "date": "2017-01-01",
+    "nom": "Les Portes du Coglais"
+  },
+  {
+    "cheflieu": "Saint-Patrice",
+    "anciennes": [
+      {
+        "insee": "37120",
+        "nom": "Ingrandes-de-Touraine"
+      },
+      {
+        "insee": "37227",
+        "nom": "Saint-Michel-sur-Loire"
+      },
+      {
+        "insee": "37232",
+        "nom": "Saint-Patrice"
+      }
+    ],
+    "delegue": "oui",
+    "arrete": "2016-09-30",
+    "insee": "37232",
+    "population": 1870,
+    "date": "2017-01-01",
+    "nom": "Coteaux sur Loire"
+  },
+  {
+    "cheflieu": "Langeais",
+    "anciennes": [
+      {
+        "insee": "37123",
+        "nom": "Langeais"
+      },
+      {
+        "insee": "37102",
+        "nom": "Les Essards"
+      }
+    ],
+    "delegue": "oui (Les Essards)",
+    "arrete": "2016-09-30",
+    "insee": "37123",
+    "population": 4400,
+    "date": "2017-01-01",
+    "nom": "Langeais"
+  },
+  {
+    "cheflieu": "Beaumont-la-Ronce",
+    "anciennes": [
+      {
+        "insee": "37021",
+        "nom": "Beaumont-la-Ronce"
+      },
+      {
+        "insee": "37135",
+        "nom": "Louestault"
+      }
+    ],
+    "delegue": null,
+    "arrete": null,
+    "insee": "37021",
+    "population": 1598,
+    "date": "2017-01-01",
+    "nom": "Beaumont-Louestault"
+  },
+  {
+    "cheflieu": "Passins",
+    "anciennes": [
+      {
+        "insee": "38014",
+        "nom": "Arandon"
+      },
+      {
+        "insee": "38297",
+        "nom": "Passins"
+      }
+    ],
+    "delegue": "oui",
+    "arrete": "2016-07-29",
+    "insee": "38297",
+    "population": 1753,
+    "date": "2017-01-01",
+    "nom": "Arandon-Passins"
+  },
+  {
+    "cheflieu": "Paladru",
+    "anciennes": [
+      {
+        "insee": "38292",
+        "nom": "Paladru"
+      },
+      {
+        "insee": "38305",
+        "nom": "Le Pin"
+      }
+    ],
+    "delegue": "oui",
+    "arrete": "2016-07-29",
+    "insee": "38292",
+    "population": 2373,
+    "date": "2017-01-01",
+    "nom": "Villages du Lac de Paladru"
+  },
+  {
+    "cheflieu": "Saint-Julien-de-Ratz",
+    "anciennes": [
+      {
+        "insee": "38312",
+        "nom": "Pommiers-la-Placette"
+      },
+      {
+        "insee": "38407",
+        "nom": "Saint-Julien-de-Ratz"
+      }
+    ],
+    "delegue": "non",
+    "arrete": "2016-09-02",
+    "insee": "38407",
+    "population": 983,
+    "date": "2017-01-01",
+    "nom": "La Sure en Chartreuse"
+  },
+  {
+    "cheflieu": "Mont-de-Lans",
+    "anciennes": [
+      {
+        "insee": "38253",
+        "nom": "Mont-de-Lans"
+      },
+      {
+        "insee": "38534",
+        "nom": "Vénosc"
+      }
+    ],
+    "delegue": "oui",
+    "arrete": "2016-09-28",
+    "insee": "38253",
+    "population": 1981,
+    "date": "2017-01-01",
+    "nom": "Les Deux Alpes"
+  },
+  {
+    "cheflieu": "Saint-Sébastien",
+    "anciennes": [
+      {
+        "insee": "38125",
+        "nom": "Cordéac"
+      },
+      {
+        "insee": "38456",
+        "nom": "Saint-Sébastien"
+      }
+    ],
+    "delegue": "oui",
+    "arrete": null,
+    "insee": "38456",
+    "population": 474,
+    "date": "2017-01-01",
+    "nom": "Châtel-en-Trièves"
+  },
+  {
+    "cheflieu": "Lains",
+    "anciennes": [
+      {
+        "insee": "39195",
+        "nom": "Dessia"
+      },
+      {
+        "insee": "39273",
+        "nom": "Lains"
+      },
+      {
+        "insee": "39347",
+        "nom": "Montagna-le-Templier"
+      }
+    ],
+    "delegue": "oui",
+    "arrete": "2016-05-27",
+    "insee": "39273",
+    "population": 245,
+    "date": "2017-01-01",
+    "nom": "Montlainsia"
+  },
+  {
+    "cheflieu": "Trenal",
+    "anciennes": [
+      {
+        "insee": "39309",
+        "nom": "Mallerey"
+      },
+      {
+        "insee": "39537",
+        "nom": "Trenal"
+      }
+    ],
+    "delegue": "oui",
+    "arrete": "2016-06-08",
+    "insee": "39537",
+    "population": 436,
+    "date": "2017-01-01",
+    "nom": "Trenal"
+  },
+  {
+    "cheflieu": "Saint-Lupicin",
+    "anciennes": [
+      {
+        "insee": "39186",
+        "nom": "Cuttura"
+      },
+      {
+        "insee": "39491",
+        "nom": "Saint-Lupicin"
+      }
+    ],
+    "delegue": "oui",
+    "arrete": "2016-07-04",
+    "insee": "39491",
+    "population": 2420,
+    "date": "2017-01-01",
+    "nom": "Coteaux du Lizon"
+  },
+  {
+    "cheflieu": "Légna",
+    "anciennes": [
+      {
+        "insee": "39123",
+        "nom": "Chatonnay"
+      },
+      {
+        "insee": "39224",
+        "nom": "Fétigny"
+      },
+      {
+        "insee": "39290",
+        "nom": "Légna"
+      },
+      {
+        "insee": "39506",
+        "nom": "Savigna"
+      }
+    ],
+    "delegue": "non",
+    "arrete": "2016-07-04",
+    "insee": "39290",
+    "population": 479,
+    "date": "2017-01-01",
+    "nom": "Valzin en Petite Montagne"
+  },
+  {
+    "cheflieu": "Vincelles",
+    "anciennes": [
+      {
+        "insee": "39064",
+        "nom": "Bonnaud"
+      },
+      {
+        "insee": "39264",
+        "nom": "Grusse"
+      },
+      {
+        "insee": "39549",
+        "nom": "Vercia"
+      },
+      {
+        "insee": "39576",
+        "nom": "Vincelles"
+      }
+    ],
+    "delegue": "oui",
+    "arrete": "2016-07-04",
+    "insee": "39576",
+    "population": 938,
+    "date": "2017-01-01",
+    "nom": "Val-Sonnette"
+  },
+  {
+    "cheflieu": "Saint-Julien",
+    "anciennes": [
+      {
+        "insee": "39069",
+        "nom": "Bourcia"
+      },
+      {
+        "insee": "39303",
+        "nom": "Louvenne"
+      },
+      {
+        "insee": "39485",
+        "nom": "Saint-Julien"
+      },
+      {
+        "insee": "39564",
+        "nom": "Villechantria"
+      }
+    ],
+    "delegue": "oui",
+    "arrete": null,
+    "insee": "39485",
+    "population": 831,
+    "date": "2017-01-01",
+    "nom": "Val Suran"
+  },
+  {
+    "cheflieu": "Septmoncel",
+    "anciennes": [
+      {
+        "insee": "39510",
+        "nom": "Septmoncel"
+      },
+      {
+        "insee": "39341",
+        "nom": "Les Molunes"
+      }
+    ],
+    "delegue": "oui",
+    "arrete": null,
+    "insee": "39510",
+    "population": 831,
+    "date": "2017-01-01",
+    "nom": "Septmoncel Les Molunes"
+  },
+  {
+    "cheflieu": "Aromas",
+    "anciennes": [
+      {
+        "insee": "39018",
+        "nom": "Aromas"
+      },
+      {
+        "insee": "39566",
+        "nom": "Villeneuve-lès-Charnod"
+      }
+    ],
+    "delegue": "non",
+    "arrete": null,
+    "insee": "39018",
+    "population": 634,
+    "date": "2017-01-01",
+    "nom": "Aromas"
+  },
+  {
+    "cheflieu": "Thoirette",
+    "anciennes": [
+      {
+        "insee": "39530",
+        "nom": "Thoirette"
+      },
+      {
+        "insee": "39158",
+        "nom": "Coisia"
+      }
+    ],
+    "delegue": "oui",
+    "arrete": null,
+    "insee": "39530",
+    "population": null,
+    "date": "2017-01-01",
+    "nom": "Thoirette-Coisia"
+  },
+  {
+    "cheflieu": "Rion-des-Landes",
+    "anciennes": [
+      {
+        "insee": "40048",
+        "nom": "Boos"
+      },
+      {
+        "insee": "40243",
+        "nom": "Rion-des-Landes"
+      }
+    ],
+    "delegue": "oui",
+    "arrete": null,
+    "insee": "40243",
+    "population": 2978,
+    "date": "2017-01-01",
+    "nom": "Rion-des-Landes"
+  },
+  {
+    "cheflieu": "Chouzy-sur-Cisse",
+    "anciennes": [
+      {
+        "insee": "41055",
+        "nom": "Chouzy-sur-Cisse"
+      },
+      {
+        "insee": "41064",
+        "nom": "Coulanges"
+      },
+      {
+        "insee": "41240",
+        "nom": "Seillac"
+      }
+    ],
+    "delegue": "oui",
+    "arrete": "2016-06-04",
+    "insee": "41055",
+    "population": 2378,
+    "date": "2017-01-01",
+    "nom": "Valloire-sur-Cisse"
+  },
+  {
+    "cheflieu": "Valencisse",
+    "anciennes": [
+      {
+        "insee": "41033",
+        "nom": "Chambon-sur-Cisse"
+      },
+      {
+        "insee": "41142",
+        "nom": "Valencisse"
+      },
+      {
+        "insee": "41142",
+        "nom": "Molineuf"
+      },
+      {
+        "insee": "41169",
+        "nom": "Orchaise"
+      }
+    ],
+    "delegue": "oui",
+    "arrete": "2016-07-27",
+    "insee": "41142",
+    "population": 2416,
+    "date": "2017-01-01",
+    "nom": "Valencisse"
+  },
+  {
+    "cheflieu": "Onzain",
+    "anciennes": [
+      {
+        "insee": "41167",
+        "nom": "Onzain"
+      },
+      {
+        "insee": "41272",
+        "nom": "Veuves"
+      }
+    ],
+    "delegue": "oui",
+    "arrete": null,
+    "insee": "41167",
+    "population": 3861,
+    "date": "2017-01-01",
+    "nom": "Veuzain-sur-Loire"
+  },
+  {
+    "cheflieu": "Oucques",
+    "anciennes": [
+      {
+        "insee": "41011",
+        "nom": "Baigneaux"
+      },
+      {
+        "insee": "41015",
+        "nom": "Beauvilliers"
+      },
+      {
+        "insee": "41171",
+        "nom": "Oucques"
+      },
+      {
+        "insee": "41210",
+        "nom": "Sainte-Gemmes"
+      }
+    ],
+    "delegue": "oui",
+    "arrete": null,
+    "insee": "41171",
+    "population": 1723,
+    "date": "2017-01-01",
+    "nom": "Oucques la Nouvelle"
+  },
+  {
+    "cheflieu": "Saint-Privat-d'Allier",
+    "anciennes": [
+      {
+        "insee": "43176",
+        "nom": "Saint-Didier-d'Allier"
+      },
+      {
+        "insee": "43221",
+        "nom": "Saint-Privat-d'Allier"
+      }
+    ],
+    "delegue": null,
+    "arrete": "2016-09-27",
+    "insee": "43221",
+    "population": 419,
+    "date": "2017-01-01",
+    "nom": "Saint-Privat-d'Allier"
+  },
+  {
+    "cheflieu": "Bray-en-Val",
+    "anciennes": [
+      {
+        "insee": "45051",
+        "nom": "Bray-en-Val"
+      },
+      {
+        "insee": "45267",
+        "nom": "Saint-Aignan-des-Gués"
+      }
+    ],
+    "delegue": "oui",
+    "arrete": "2016-07-25",
+    "insee": "45051",
+    "population": 1734,
+    "date": "2017-01-01",
+    "nom": "Bray-Saint Aignan"
+  },
+  {
+    "cheflieu": "Castelnau-Montratier",
+    "anciennes": [
+      {
+        "insee": "46063",
+        "nom": "Castelnau-Montratier"
+      },
+      {
+        "insee": "46248",
+        "nom": "Sainte-Alauzie"
+      }
+    ],
+    "delegue": "oui",
+    "arrete": "2016-08-03",
+    "insee": "46063",
+    "population": 1960,
+    "date": "2017-01-01",
+    "nom": "Castelnau-Montratier-Sainte-Alauzie"
+  },
+  {
+    "cheflieu": "Saint-Géry",
+    "anciennes": [
+      {
+        "insee": "46268",
+        "nom": "Saint-Géry"
+      },
+      {
+        "insee": "46331",
+        "nom": "Vers"
+      }
+    ],
+    "delegue": "oui",
+    "arrete": null,
+    "insee": "46268",
+    "population": 860,
+    "date": "2017-01-01",
+    "nom": "Saint Géry-Vers"
+  },
+  {
+    "cheflieu": "Laroque-des-Arcs",
+    "anciennes": [
+      {
+        "insee": "46077",
+        "nom": "Cours"
+      },
+      {
+        "insee": "46156",
+        "nom": "Laroque-des-Arcs"
+      },
+      {
+        "insee": "46327",
+        "nom": "Valroufié"
+      }
+    ],
+    "delegue": "oui",
+    "arrete": null,
+    "insee": "46156",
+    "population": 1248,
+    "date": "2017-01-01",
+    "nom": "Bellefont-La Rauze"
+  },
+  {
+    "cheflieu": "Le Bleymard",
+    "anciennes": [
+      {
+        "insee": "48014",
+        "nom": "Bagnols-les-Bains"
+      },
+      {
+        "insee": "48023",
+        "nom": "Belvezet"
+      },
+      {
+        "insee": "48027",
+        "nom": "Le Bleymard"
+      },
+      {
+        "insee": "48040",
+        "nom": "Chasseradès"
+      },
+      {
+        "insee": "48093",
+        "nom": "Mas-d'Orcières"
+      },
+      {
+        "insee": "48164",
+        "nom": "Saint-Julien-du-Tournel"
+      }
+    ],
+    "delegue": "oui",
+    "arrete": "2016-05-23",
+    "insee": "48027",
+    "population": 1070,
+    "date": "2017-01-01",
+    "nom": "Mont Lozère et Goulet"
+  },
+  {
+    "cheflieu": "Sainte-Enimie",
+    "anciennes": [
+      {
+        "insee": "48101",
+        "nom": "Montbrun"
+      },
+      {
+        "insee": "48122",
+        "nom": "Quézac"
+      },
+      {
+        "insee": "48146",
+        "nom": "Sainte-Enimie"
+      }
+    ],
+    "delegue": "oui",
+    "arrete": "2016-07-04",
+    "insee": "48146",
+    "population": 967,
+    "date": "2017-01-01",
+    "nom": "Gorges du Tarn Causses"
+  },
+  {
+    "cheflieu": "Malbouzon",
+    "anciennes": [
+      {
+        "insee": "48087",
+        "nom": "Malbouzon"
+      },
+      {
+        "insee": "48120",
+        "nom": "Prinsuéjols"
+      }
+    ],
+    "delegue": "oui",
+    "arrete": "2016-08-03",
+    "insee": "48087",
+    "population": 293,
+    "date": "2017-01-01",
+    "nom": "Prinsuéjols-Malbouzon"
+  },
+  {
+    "cheflieu": "Saint-Bonnet-de-Montauroux",
+    "anciennes": [
+      {
+        "insee": "48139",
+        "nom": "Saint-Bonnet-de-Montauroux"
+      },
+      {
+        "insee": "48084",
+        "nom": "Laval-Atger"
+      }
+    ],
+    "delegue": "oui",
+    "arrete": null,
+    "insee": "48139",
+    "population": 274,
+    "date": "2017-01-01",
+    "nom": "Saint-Bonnet-Laval"
+  },
+  {
+    "cheflieu": "Aumont-Aubrac",
+    "anciennes": [
+      {
+        "insee": "48009",
+        "nom": "Aumont-Aubrac"
+      },
+      {
+        "insee": "48047",
+        "nom": "La Chaze-de-Peyre"
+      },
+      {
+        "insee": "48060",
+        "nom": "Fau-de-Peyre"
+      },
+      {
+        "insee": "48076",
+        "nom": "Javols"
+      },
+      {
+        "insee": "48142",
+        "nom": "Sainte-Colombe-de-Peyre"
+      },
+      {
+        "insee": "48183",
+        "nom": "Saint-Sauveur-de-Peyre"
+      }
+    ],
+    "delegue": "oui",
+    "arrete": null,
+    "insee": "48009",
+    "population": 2390,
+    "date": "2017-01-01",
+    "nom": "Peyre-en-Aubrac"
+  },
+  {
+    "cheflieu": "Le Massegros",
+    "anciennes": [
+      {
+        "insee": "48094",
+        "nom": "Le Massegros"
+      },
+      {
+        "insee": "48154",
+        "nom": "Saint-Georges-de-Lévéjac"
+      },
+      {
+        "insee": "48125",
+        "nom": "Le Recoux"
+      },
+      {
+        "insee": "48195",
+        "nom": "Les Vignes"
+      },
+      {
+        "insee": "48180",
+        "nom": "Saint-Rome-de-Dolan"
+      }
+    ],
+    "delegue": "oui",
+    "arrete": null,
+    "insee": "48094",
+    "population": 948,
+    "date": "2017-01-01",
+    "nom": "Massegros-Causses-Gorges"
+  },
+  {
+    "cheflieu": "Morannes-sur-Sarthe",
+    "anciennes": [
+      {
+        "insee": "49119",
+        "nom": "Daumeray"
+      },
+      {
+        "insee": "49220",
+        "nom": "Morannes-sur-Sarthe"
+      },
+      {
+        "insee": "49093",
+        "nom": "Chemiré-sur-Sarthe"
+      },
+      {
+        "insee": "49220",
+        "nom": "Morannes"
+      }
+    ],
+    "delegue": null,
+    "arrete": "2016-09-06",
+    "insee": "49220",
+    "population": 3586,
+    "date": "2017-01-01",
+    "nom": "Morannes sur Sarthe-Daumeray"
+  },
+  {
+    "cheflieu": "Chavagnes",
+    "anciennes": [
+      {
+        "insee": "49086",
+        "nom": "Chavagnes"
+      },
+      {
+        "insee": "49227",
+        "nom": "Notre-Dame-d'Allençon"
+      },
+      {
+        "insee": "49191",
+        "nom": "Martigné-Briand"
+      }
+    ],
+    "delegue": "oui",
+    "arrete": null,
+    "insee": "49086",
+    "population": 3764,
+    "date": "2017-01-01",
+    "nom": "Terranjou"
+  },
+  {
+    "cheflieu": "Picauville",
+    "anciennes": [
+      {
+        "insee": "50333",
+        "nom": "Les Moitiers-en-Bauptois"
+      },
+      {
+        "insee": "50400",
+        "nom": "Picauville"
+      },
+      {
+        "insee": "50005",
+        "nom": "Amfreville"
+      },
+      {
+        "insee": "50153",
+        "nom": "Cretteville"
+      },
+      {
+        "insee": "50212",
+        "nom": "Gourbesville"
+      },
+      {
+        "insee": "50250",
+        "nom": "Houtteville"
+      },
+      {
+        "insee": "50400",
+        "nom": "Picauville"
+      },
+      {
+        "insee": "50642",
+        "nom": "Vindefontaine"
+      }
+    ],
+    "delegue": "oui",
+    "arrete": "2016-07-04",
+    "insee": "50400",
+    "population": 3401,
+    "date": "2017-01-01",
+    "nom": "Picauville"
+  },
+  {
+    "cheflieu": "Saint-James",
+    "anciennes": [
+      {
+        "insee": "50018",
+        "nom": "Argouges"
+      },
+      {
+        "insee": "50100",
+        "nom": "Carnet"
+      },
+      {
+        "insee": "50154",
+        "nom": "La Croix-Avranchin"
+      },
+      {
+        "insee": "50337",
+        "nom": "Montanel"
+      },
+      {
+        "insee": "50487",
+        "nom": "Saint-James"
+      },
+      {
+        "insee": "50627",
+        "nom": "Vergoncey"
+      },
+      {
+        "insee": "50640",
+        "nom": "Villiers-le-Pré"
+      }
+    ],
+    "delegue": "oui",
+    "arrete": "2016-07-08",
+    "insee": "50487",
+    "population": 5041,
+    "date": "2017-01-01",
+    "nom": "Saint-James"
+  },
+  {
+    "cheflieu": "Juvigny-le-Tertre",
+    "anciennes": [
+      {
+        "insee": "50037",
+        "nom": "La Bazoge"
+      },
+      {
+        "insee": "50043",
+        "nom": "Bellefontaine"
+      },
+      {
+        "insee": "50125",
+        "nom": "Chasseguey"
+      },
+      {
+        "insee": "50131",
+        "nom": "Chérencé-le-Roussel"
+      },
+      {
+        "insee": "50260",
+        "nom": "Juvigny-le-Tertre"
+      },
+      {
+        "insee": "50318",
+        "nom": "Le Mesnil-Rainfray"
+      },
+      {
+        "insee": "50323",
+        "nom": "Le Mesnil-Tôve"
+      }
+    ],
+    "delegue": "oui",
+    "arrete": "2016-07-08",
+    "insee": "50260",
+    "population": 1742,
+    "date": "2017-01-01",
+    "nom": "Juvigny les Vallées"
+  },
+  {
+    "cheflieu": "Saint-Amand",
+    "anciennes": [
+      {
+        "insee": "50404",
+        "nom": "Placy-Montaigu"
+      },
+      {
+        "insee": "50444",
+        "nom": "Saint-Amand"
+      }
+    ],
+    "delegue": "oui",
+    "arrete": "2016-07-21",
+    "insee": "50444",
+    "population": 2590,
+    "date": "2017-01-01",
+    "nom": "Saint-Amand-Villages"
+  },
+  {
+    "cheflieu": "Condé-sur-Vire",
+    "anciennes": [
+      {
+        "insee": "50139",
+        "nom": "Condé-sur-Vire"
+      },
+      {
+        "insee": "50139",
+        "nom": "Condé-sur-Vire"
+      },
+      {
+        "insee": "50319",
+        "nom": "Le Mesnil-Raoult"
+      },
+      {
+        "insee": "50608",
+        "nom": "Troisgots"
+      }
+    ],
+    "delegue": "oui",
+    "arrete": "2016-07-22",
+    "insee": "50139",
+    "population": 4088,
+    "date": "2017-01-01",
+    "nom": "Condé-sur-Vire"
+  },
+  {
+    "cheflieu": "Carentan les Marais",
+    "anciennes": [
+      {
+        "insee": "50080",
+        "nom": "Brévands"
+      },
+      {
+        "insee": "50099",
+        "nom": "Carentan les Marais"
+      },
+      {
+        "insee": "50010",
+        "nom": "Angoville-au-Plain"
+      },
+      {
+        "insee": "50099",
+        "nom": "Carentan"
+      },
+      {
+        "insee": "50249",
+        "nom": "Houesville"
+      },
+      {
+        "insee": "50458",
+        "nom": "Saint-Côme-du-Mont"
+      },
+      {
+        "insee": "50534",
+        "nom": "Saint-Pellerin"
+      },
+      {
+        "insee": "50631",
+        "nom": "Les Veys"
+      }
+    ],
+    "delegue": "oui",
+    "arrete": "2016-07-22",
+    "insee": "50099",
+    "population": 7887,
+    "date": "2017-01-01",
+    "nom": "Carentan les Marais"
+  },
+  {
+    "cheflieu": "Canisy",
+    "anciennes": [
+      {
+        "insee": "50095",
+        "nom": "Canisy"
+      },
+      {
+        "insee": "50465",
+        "nom": "Saint-Ébremond-de-Bonfossé"
+      }
+    ],
+    "delegue": "oui",
+    "arrete": "2016-07-22",
+    "insee": "50095",
+    "population": 1799,
+    "date": "2017-01-01",
+    "nom": "Canisy"
+  },
+  {
+    "cheflieu": "Remilly-sur-Lozon",
+    "anciennes": [
+      {
+        "insee": "50119",
+        "nom": "Les Champs-de-Losque"
+      },
+      {
+        "insee": "50325",
+        "nom": "Le Mesnil-Vigot"
+      },
+      {
+        "insee": "50431",
+        "nom": "Remilly-sur-Lozon"
+      }
+    ],
+    "delegue": "oui",
+    "arrete": "2016-08-05",
+    "insee": "50431",
+    "population": 1092,
+    "date": "2017-01-01",
+    "nom": "Remilly-les-Marais"
+  },
+  {
+    "cheflieu": "Beaumont-Hague",
+    "anciennes": [
+      {
+        "insee": "50001",
+        "nom": "Acqueville"
+      },
+      {
+        "insee": "50020",
+        "nom": "Auderville"
+      },
+      {
+        "insee": "50041",
+        "nom": "Beaumont-Hague"
+      },
+      {
+        "insee": "50057",
+        "nom": "Biville"
+      },
+      {
+        "insee": "50073",
+        "nom": "Branville-Hague"
+      },
+      {
+        "insee": "50163",
+        "nom": "Digulleville"
+      },
+      {
+        "insee": "50171",
+        "nom": "Éculleville"
+      },
+      {
+        "insee": "50187",
+        "nom": "Flottemanville-Hague"
+      },
+      {
+        "insee": "50220",
+        "nom": "Gréville-Hague"
+      },
+      {
+        "insee": "50242",
+        "nom": "Herqueville"
+      },
+      {
+        "insee": "50257",
+        "nom": "Jobourg"
+      },
+      {
+        "insee": "50385",
+        "nom": "Omonville-la-Petite"
+      },
+      {
+        "insee": "50386",
+        "nom": "Omonville-la-Rogue"
+      },
+      {
+        "insee": "50460",
+        "nom": "Sainte-Croix-Hague"
+      },
+      {
+        "insee": "50477",
+        "nom": "Saint-Germain-des-Vaux"
+      },
+      {
+        "insee": "50600",
+        "nom": "Tonneville"
+      },
+      {
+        "insee": "50611",
+        "nom": "Urville-Nacqueville"
+      },
+      {
+        "insee": "50620",
+        "nom": "Vasteville"
+      },
+      {
+        "insee": "50623",
+        "nom": "Vauville"
+      }
+    ],
+    "delegue": "oui",
+    "arrete": "2016-09-27",
+    "insee": "50041",
+    "population": 11886,
+    "date": "2017-01-01",
+    "nom": "La Hague"
+  },
+  {
+    "cheflieu": "Bourgogne",
+    "anciennes": [
+      {
+        "insee": "51075",
+        "nom": "Bourgogne"
+      },
+      {
+        "insee": "51261",
+        "nom": "Fresne-lès-Reims"
+      }
+    ],
+    "delegue": "oui",
+    "arrete": "2016-06-27",
+    "insee": "51075",
+    "population": 1478,
+    "date": "2017-01-01",
+    "nom": "Bourgogne-Fresne"
+  },
+  {
+    "cheflieu": "Cormicy",
+    "anciennes": [
+      {
+        "insee": "51171",
+        "nom": "Cormicy"
+      },
+      {
+        "insee": "02344",
+        "nom": "Gernicourt"
+      }
+    ],
+    "delegue": "oui",
+    "arrete": "2016-12-31",
+    "insee": "51171",
+    "population": 1478,
+    "date": "2017-01-01",
+    "nom": "Cormicy"
+  },
+  {
+    "cheflieu": "Colombey-les-Deux-Églises",
+    "anciennes": [
+      {
+        "insee": "52140",
+        "nom": "Colombey-les-Deux-Églises"
+      },
+      {
+        "insee": "52262",
+        "nom": "Lamothe-en-Blaisy"
+      }
+    ],
+    "delegue": "oui",
+    "arrete": null,
+    "insee": "52140",
+    "population": 766,
+    "date": "2017-01-01",
+    "nom": "Colombey-les-Deux-Églises"
+  },
+  {
+    "cheflieu": "Saint-Jean-sur-Erve",
+    "anciennes": [
+      {
+        "insee": "53032",
+        "nom": "Blandouet"
+      },
+      {
+        "insee": "53228",
+        "nom": "Saint-Jean-sur-Erve"
+      }
+    ],
+    "delegue": "oui",
+    "arrete": "2016-06-02",
+    "insee": "53228",
+    "population": 640,
+    "date": "2017-01-01",
+    "nom": "Blandouet-Saint Jean"
+  },
+  {
+    "cheflieu": "Ballée",
+    "anciennes": [
+      {
+        "insee": "53017",
+        "nom": "Ballée"
+      },
+      {
+        "insee": "53095",
+        "nom": "Épineux-le-Seguin"
+      }
+    ],
+    "delegue": "oui",
+    "arrete": "2016-07-22",
+    "insee": "53017",
+    "population": 938,
+    "date": "2017-01-01",
+    "nom": "Val-du-Maine"
+  },
+  {
+    "cheflieu": "Montsûrs",
+    "anciennes": [
+      {
+        "insee": "53161",
+        "nom": "Montsûrs"
+      },
+      {
+        "insee": "53205",
+        "nom": "Saint-Céneré"
+      }
+    ],
+    "delegue": "oui",
+    "arrete": null,
+    "insee": "53161",
+    "population": 2516,
+    "date": "2017-01-01",
+    "nom": "Montsûrs-Saint Céneré"
+  },
+  {
+    "cheflieu": "Briey",
+    "anciennes": [
+      {
+        "insee": "54099",
+        "nom": "Briey"
+      },
+      {
+        "insee": "54341",
+        "nom": "Mance"
+      },
+      {
+        "insee": "54342",
+        "nom": "Mancieulles"
+      }
+    ],
+    "delegue": "oui",
+    "arrete": "2016-08-23",
+    "insee": "54099",
+    "population": 8175,
+    "date": "2017-01-01",
+    "nom": "Val de Briey"
+  },
+  {
+    "cheflieu": "La Gacilly",
+    "anciennes": [
+      {
+        "insee": "56038",
+        "nom": "La Chapelle-Gaceline"
+      },
+      {
+        "insee": "56061",
+        "nom": "La Gacilly"
+      },
+      {
+        "insee": "56064",
+        "nom": "Glénac"
+      }
+    ],
+    "delegue": "oui",
+    "arrete": "2016-07-13",
+    "insee": "56061",
+    "population": 3883,
+    "date": "2017-01-01",
+    "nom": "La Gacilly"
+  },
+  {
+    "cheflieu": "Carentoir",
+    "anciennes": [
+      {
+        "insee": "56033",
+        "nom": "Carentoir"
+      },
+      {
+        "insee": "56183",
+        "nom": "Quelneuc"
+      }
+    ],
+    "delegue": "oui (Quelneuc)",
+    "arrete": null,
+    "insee": "56033",
+    "population": 3271,
+    "date": "2017-01-01",
+    "nom": "Carentoir"
+  },
+  {
+    "cheflieu": "Montoy-Flanville",
+    "anciennes": [
+      {
+        "insee": "57482",
+        "nom": "Montoy-Flanville"
+      },
+      {
+        "insee": "57523",
+        "nom": "Ogy"
+      }
+    ],
+    "delegue": "oui",
+    "arrete": null,
+    "insee": "57482",
+    "population": 1651,
+    "date": "2017-01-01",
+    "nom": "Ogy-Montoy-Flanville"
+  },
+  {
+    "cheflieu": "Ourouër",
+    "anciennes": [
+      {
+        "insee": "58022",
+        "nom": "Balleray"
+      },
+      {
+        "insee": "58204",
+        "nom": "Ourouër"
+      }
+    ],
+    "delegue": "oui",
+    "arrete": "2016-07-06",
+    "insee": "58204",
+    "population": 558,
+    "date": "2017-01-01",
+    "nom": "Vaux d'Amognes"
+  },
+  {
+    "cheflieu": "Le Déluge",
+    "anciennes": [
+      {
+        "insee": "60196",
+        "nom": "Le Déluge"
+      },
+      {
+        "insee": "60453",
+        "nom": "La Neuville-d'Aumont"
+      },
+      {
+        "insee": "60532",
+        "nom": "Ressons-l'Abbaye"
+      }
+    ],
+    "delegue": null,
+    "arrete": "2016-05-27",
+    "insee": "60196",
+    "population": 926,
+    "date": "2017-01-01",
+    "nom": "La Drenne"
+  },
+  {
+    "cheflieu": "Le Gué-de-la-Chaîne",
+    "anciennes": [
+      {
+        "insee": "61154",
+        "nom": "Eperrais"
+      },
+      {
+        "insee": "61196",
+        "nom": "Le Gué-de-la-Chaîne"
+      },
+      {
+        "insee": "61318",
+        "nom": "Origny-le-Butin"
+      },
+      {
+        "insee": "61325",
+        "nom": "La Perrière"
+      },
+      {
+        "insee": "61437",
+        "nom": "Saint-Ouen-de-la-Cour"
+      },
+      {
+        "insee": "61471",
+        "nom": "Sérigny"
+      }
+    ],
+    "delegue": "oui",
+    "arrete": "2016-08-08",
+    "insee": "61196",
+    "population": 1675,
+    "date": "2017-01-01",
+    "nom": "Belforêt-en-Perche"
+  },
+  {
+    "cheflieu": "Silly-en-Gouffern",
+    "anciennes": [
+      {
+        "insee": "61009",
+        "nom": "Aubry-en-Exmes"
+      },
+      {
+        "insee": "61019",
+        "nom": "Avernes-sous-Exmes"
+      },
+      {
+        "insee": "61057",
+        "nom": "Le Bourg-Saint-Léonard"
+      },
+      {
+        "insee": "61083",
+        "nom": "Chambois"
+      },
+      {
+        "insee": "61110",
+        "nom": "La Cochère"
+      },
+      {
+        "insee": "61131",
+        "nom": "Courménil"
+      },
+      {
+        "insee": "61157",
+        "nom": "Exmes"
+      },
+      {
+        "insee": "61161",
+        "nom": "Fel"
+      },
+      {
+        "insee": "61315",
+        "nom": "Omméel"
+      },
+      {
+        "insee": "61449",
+        "nom": "Saint-Pierre-la-Rivière"
+      },
+      {
+        "insee": "61474",
+        "nom": "Silly-en-Gouffern"
+      },
+      {
+        "insee": "61477",
+        "nom": "Survie"
+      },
+      {
+        "insee": "61496",
+        "nom": "Urou-et-Crennes"
+      },
+      {
+        "insee": "61504",
+        "nom": "Villebadin"
+      }
+    ],
+    "delegue": "oui",
+    "arrete": null,
+    "insee": "61474",
+    "population": 3829,
+    "date": "2017-01-01",
+    "nom": "Gouffern en Auge"
+  },
+  {
+    "cheflieu": "Enguinegatte",
+    "anciennes": [
+      {
+        "insee": "62294",
+        "nom": "Enguinegatte"
+      },
+      {
+        "insee": "62295",
+        "nom": "Enquin-les-Mines"
+      }
+    ],
+    "delegue": null,
+    "arrete": "2016-06-30",
+    "insee": "62294",
+    "population": 1606,
+    "date": "2017-01-01",
+    "nom": "Enquin-lez-Guinegatte"
+  },
+  {
+    "cheflieu": "Féas",
+    "anciennes": [
+      {
+        "insee": "64020",
+        "nom": "Ance"
+      },
+      {
+        "insee": "64225",
+        "nom": "Féas"
+      }
+    ],
+    "delegue": "oui",
+    "arrete": "2016-07-19",
+    "insee": "64225",
+    "population": 642,
+    "date": "2017-01-01",
+    "nom": "Ance Féas"
+  },
+  {
+    "cheflieu": "Benqué",
+    "anciennes": [
+      {
+        "insee": "65081",
+        "nom": "Benqué"
+      },
+      {
+        "insee": "65312",
+        "nom": "Molère"
+      }
+    ],
+    "delegue": "non",
+    "arrete": "2016-07-21",
+    "insee": "65081",
+    "population": 121,
+    "date": "2017-01-01",
+    "nom": "Benqué-Molère"
+  },
+  {
+    "cheflieu": "Saligos",
+    "anciennes": [
+      {
+        "insee": "65399",
+        "nom": "Saligos"
+      },
+      {
+        "insee": "65480",
+        "nom": "Vizos"
+      }
+    ],
+    "delegue": "non",
+    "arrete": "2016-09-14",
+    "insee": "65399",
+    "population": 128,
+    "date": "2017-01-01",
+    "nom": "Saligos"
+  },
+  {
+    "cheflieu": "Hochfelden",
+    "anciennes": [
+      {
+        "insee": "67202",
+        "nom": "Hochfelden"
+      },
+      {
+        "insee": "67439",
+        "nom": "Schaffhouse-sur-Zorn"
+      }
+    ],
+    "delegue": null,
+    "arrete": "2016-06-30",
+    "insee": "67202",
+    "population": 3921,
+    "date": "2017-01-01",
+    "nom": "Hochfelden"
+  },
+  {
+    "cheflieu": "Pouilly-le-Monial",
+    "anciennes": [
+      {
+        "insee": "69114",
+        "nom": "Liergues"
+      },
+      {
+        "insee": "69159",
+        "nom": "Pouilly-le-Monial"
+      }
+    ],
+    "delegue": "oui",
+    "arrete": null,
+    "insee": "69159",
+    "population": 2906,
+    "date": "2017-01-01",
+    "nom": "Porte des Pierres Dorées"
+  },
+  {
+    "cheflieu": "Le Bois-d'Oingt",
+    "anciennes": [
+      {
+        "insee": "69146",
+        "nom": "Oingt"
+      },
+      {
+        "insee": "69024",
+        "nom": "Le Bois-d'Oingt"
+      },
+      {
+        "insee": "69222",
+        "nom": "Saint-Laurent-d'Oingt"
+      }
+    ],
+    "delegue": "oui",
+    "arrete": null,
+    "insee": "69024",
+    "population": 3815,
+    "date": "2017-01-01",
+    "nom": "Val d'Oingt"
+  },
+  {
+    "cheflieu": "Saint-Maurice-sur-Dargoire",
+    "anciennes": [
+      {
+        "insee": "69237",
+        "nom": "Saint-Sorlin"
+      },
+      {
+        "insee": "69228",
+        "nom": "Saint-Maurice-sur-Dargoire"
+      },
+      {
+        "insee": "69195",
+        "nom": "Saint-Didier-sous-Riverie"
+      }
+    ],
+    "delegue": "oui",
+    "arrete": null,
+    "insee": "69228",
+    "population": 4047,
+    "date": "2017-01-01",
+    "nom": "Chabanière"
+  },
+  {
+    "cheflieu": "Servance",
+    "anciennes": [
+      {
+        "insee": "70489",
+        "nom": "Servance"
+      },
+      {
+        "insee": "70345",
+        "nom": "Miellin"
+      }
+    ],
+    "delegue": "oui",
+    "arrete": "2016-09-26",
+    "insee": "70489",
+    "population": 867,
+    "date": "2017-01-01",
+    "nom": "Servance-Miellin"
+  },
+  {
+    "cheflieu": "La Vineuse",
+    "anciennes": [
+      {
+        "insee": "71180",
+        "nom": "Donzy-le-National"
+      },
+      {
+        "insee": "71288",
+        "nom": "Massy"
+      },
+      {
+        "insee": "71582",
+        "nom": "La Vineuse"
+      },
+      {
+        "insee": "71587",
+        "nom": "Vitry-lès-Cluny"
+      }
+    ],
+    "delegue": "oui",
+    "arrete": "2016-07-28",
+    "insee": "71582",
+    "population": 627,
+    "date": "2017-01-01",
+    "nom": "La Vineuse sur Fregande"
+  },
+  {
+    "cheflieu": "Saint-Paterne",
+    "anciennes": [
+      {
+        "insee": "72308",
+        "nom": "Saint-Paterne"
+      },
+      {
+        "insee": "72082",
+        "nom": "Le Chevain"
+      }
+    ],
+    "delegue": "oui",
+    "arrete": null,
+    "insee": "72308",
+    "population": 2180,
+    "date": "2017-01-01",
+    "nom": "Saint Paterne - Le Chevain"
+  },
+  {
+    "cheflieu": "Bazouges-sur-le-Loir",
+    "anciennes": [
+      {
+        "insee": "72025",
+        "nom": "Bazouges-sur-le-Loir"
+      },
+      {
+        "insee": "72108",
+        "nom": "Cré-sur-Loir"
+      }
+    ],
+    "delegue": "oui",
+    "arrete": null,
+    "insee": "72025",
+    "population": 2057,
+    "date": "2017-01-01",
+    "nom": "Bazouges Cré sur Loir"
+  },
+  {
+    "cheflieu": "Ruillé-sur-Loir",
+    "anciennes": [
+      {
+        "insee": "72159",
+        "nom": "Lavenay"
+      },
+      {
+        "insee": "72063",
+        "nom": "La Chapelle-Gaugain"
+      },
+      {
+        "insee": "72240",
+        "nom": "Poncé-sur-le-Loir"
+      },
+      {
+        "insee": "72262",
+        "nom": "Ruillé-sur-Loir"
+      }
+    ],
+    "delegue": "oui",
+    "arrete": null,
+    "insee": "72262",
+    "population": 2223,
+    "date": "2017-01-01",
+    "nom": "Loir en Vallée"
+  },
+  {
+    "cheflieu": "Termignon",
+    "anciennes": [
+      {
+        "insee": "73056",
+        "nom": "Bramans"
+      },
+      {
+        "insee": "73143",
+        "nom": "Lanslebourg-Mont-Cenis"
+      },
+      {
+        "insee": "73144",
+        "nom": "Lanslevillard"
+      },
+      {
+        "insee": "73287",
+        "nom": "Sollières-Sardières"
+      },
+      {
+        "insee": "73290",
+        "nom": "Termignon"
+      }
+    ],
+    "delegue": "oui",
+    "arrete": "2016-08-08",
+    "insee": "73290",
+    "population": 2123,
+    "date": "2017-01-01",
+    "nom": "Val-Cenis"
+  },
+  {
+    "cheflieu": "Saint-Bon-Tarentaise",
+    "anciennes": [
+      {
+        "insee": "73198",
+        "nom": "La Perrière"
+      },
+      {
+        "insee": "73227",
+        "nom": "Saint-Bon-Tarentaise"
+      }
+    ],
+    "delegue": "oui",
+    "arrete": "2016-08-08",
+    "insee": "73227",
+    "population": 2376,
+    "date": "2017-01-01",
+    "nom": "Courchevel"
+  },
+  {
+    "cheflieu": "Saint-François-Longchamp",
+    "anciennes": [
+      {
+        "insee": "73163",
+        "nom": "Montaimont"
+      },
+      {
+        "insee": "73167",
+        "nom": "Montgellafrey"
+      },
+      {
+        "insee": "73235",
+        "nom": "Saint-François-Longchamp"
+      }
+    ],
+    "delegue": "oui",
+    "arrete": null,
+    "insee": "73235",
+    "population": 467,
+    "date": "2017-01-01",
+    "nom": "Saint-François-Longchamp"
+  },
+  {
+    "cheflieu": "Thorens-Glières",
+    "anciennes": [
+      {
+        "insee": "74022",
+        "nom": "Aviernoz"
+      },
+      {
+        "insee": "74120",
+        "nom": "Évires"
+      },
+      {
+        "insee": "74204",
+        "nom": "Les Ollières"
+      },
+      {
+        "insee": "74245",
+        "nom": "Saint-Martin-Bellevue"
+      },
+      {
+        "insee": "74282",
+        "nom": "Thorens-Glières"
+      }
+    ],
+    "delegue": "oui",
+    "arrete": "2016-05-27",
+    "insee": "74282",
+    "population": 8796,
+    "date": "2017-01-01",
+    "nom": "Fillière"
+  },
+  {
+    "cheflieu": "Annecy",
+    "anciennes": [
+      {
+        "insee": "74010",
+        "nom": "Annecy"
+      },
+      {
+        "insee": "74011",
+        "nom": "Annecy-le-Vieux"
+      },
+      {
+        "insee": "74093",
+        "nom": "Cran-Gevrier"
+      },
+      {
+        "insee": "74182",
+        "nom": "Meythet"
+      },
+      {
+        "insee": "74217",
+        "nom": "Pringy"
+      },
+      {
+        "insee": "74268",
+        "nom": "Seynod"
+      }
+    ],
+    "delegue": "oui",
+    "arrete": "2016-07-14",
+    "insee": "74010",
+    "population": 121809,
+    "date": "2017-01-01",
+    "nom": "Annecy"
+  },
+  {
+    "cheflieu": "Fauville-en-Caux",
+    "anciennes": [
+      {
+        "insee": "76044",
+        "nom": "Auzouville-Auberbosc"
+      },
+      {
+        "insee": "76078",
+        "nom": "Bennetot"
+      },
+      {
+        "insee": "76080",
+        "nom": "Bermonville"
+      },
+      {
+        "insee": "76258",
+        "nom": "Fauville-en-Caux"
+      },
+      {
+        "insee": "76525",
+        "nom": "Ricarville"
+      },
+      {
+        "insee": "76639",
+        "nom": "Saint-Pierre-Lavis"
+      },
+      {
+        "insee": "76607",
+        "nom": "Sainte-Marguerite-sur-Fauville"
+      }
+    ],
+    "delegue": "oui",
+    "arrete": "2016-09-12",
+    "insee": "76258",
+    "population": 4129,
+    "date": "2017-01-01",
+    "nom": "Terres-de-Caux"
+  },
+  {
+    "cheflieu": "Buchy",
+    "anciennes": [
+      {
+        "insee": "76127",
+        "nom": "Bosc-Roger-sur-Buchy"
+      },
+      {
+        "insee": "76146",
+        "nom": "Buchy"
+      },
+      {
+        "insee": "76248",
+        "nom": "Estouteville-Écalles"
+      }
+    ],
+    "delegue": "oui",
+    "arrete": null,
+    "insee": "76146",
+    "population": 2782,
+    "date": "2017-01-01",
+    "nom": "Buchy"
+  },
+  {
+    "cheflieu": "Moret Loing et Orvanne",
+    "anciennes": [
+      {
+        "insee": "77316",
+        "nom": "Moret Loing et Orvanne"
+      },
+      {
+        "insee": "77491",
+        "nom": "Veneux-les-Sablons"
+      }
+    ],
+    "delegue": "oui (5 communes déléguées)",
+    "arrete": null,
+    "insee": "77316",
+    "population": 12715,
+    "date": "2017-01-01",
+    "nom": "Moret Loing et Orvanne"
+  },
+  {
+    "cheflieu": "Gournay-Loizé",
+    "anciennes": [
+      {
+        "insee": "79006",
+        "nom": "Les Alleuds"
+      },
+      {
+        "insee": "79136",
+        "nom": "Gournay-Loizé"
+      }
+    ],
+    "delegue": "oui",
+    "arrete": "2016-04-18",
+    "insee": "79136",
+    "population": 878,
+    "date": "2017-01-01",
+    "nom": "Alloinay"
+  },
+  {
+    "cheflieu": "Cersay",
+    "anciennes": [
+      {
+        "insee": "79044",
+        "nom": "Bouillé-Saint-Paul"
+      },
+      {
+        "insee": "79063",
+        "nom": "Cersay"
+      },
+      {
+        "insee": "79168",
+        "nom": "Massais"
+      }
+    ],
+    "delegue": "oui",
+    "arrete": null,
+    "insee": "79063",
+    "population": 2022,
+    "date": "2017-01-01",
+    "nom": "Val en Vignes"
+  },
+  {
+    "cheflieu": "Mougon",
+    "anciennes": [
+      {
+        "insee": "79185",
+        "nom": "Mougon"
+      },
+      {
+        "insee": "79327",
+        "nom": "Thorigné"
+      }
+    ],
+    "delegue": "oui",
+    "arrete": null,
+    "insee": "79185",
+    "population": 3390,
+    "date": "2017-01-01",
+    "nom": "Mougon-Thorigné"
+  },
+  {
+    "cheflieu": "Pertain",
+    "anciennes": [
+      {
+        "insee": "80447",
+        "nom": "Hyencourt-le-Grand"
+      },
+      {
+        "insee": "80608",
+        "nom": "Omiécourt"
+      },
+      {
+        "insee": "80621",
+        "nom": "Pertain"
+      }
+    ],
+    "delegue": "oui",
+    "arrete": "2016-05-25",
+    "insee": "80621",
+    "population": 705,
+    "date": "2017-01-01",
+    "nom": "Hypercourt"
+  },
+  {
+    "cheflieu": "Étinehem",
+    "anciennes": [
+      {
+        "insee": "80295",
+        "nom": "Étinehem"
+      },
+      {
+        "insee": "80532",
+        "nom": "Méricourt-sur-Somme"
+      }
+    ],
+    "delegue": "oui",
+    "arrete": "2016-07-11",
+    "insee": "80295",
+    "population": 589,
+    "date": "2017-01-01",
+    "nom": "Étinehem-Méricourt"
+  },
+  {
+    "cheflieu": "Puygouzon",
+    "anciennes": [
+      {
+        "insee": "81113",
+        "nom": "Labastide-Dénat"
+      },
+      {
+        "insee": "81218",
+        "nom": "Puygouzon"
+      }
+    ],
+    "delegue": null,
+    "arrete": "2016-07-11",
+    "insee": "81218",
+    "population": 3331,
+    "date": "2017-01-01",
+    "nom": "Puygouzon"
+  },
+  {
+    "cheflieu": "Auzay",
+    "anciennes": [
+      {
+        "insee": "85009",
+        "nom": "Auzay"
+      },
+      {
+        "insee": "85044",
+        "nom": "Chaix"
+      }
+    ],
+    "delegue": "oui",
+    "arrete": "2016-08-04",
+    "insee": "85009",
+    "population": 1090,
+    "date": "2017-01-01",
+    "nom": "Auchay-sur-Vendée"
+  },
+  {
+    "cheflieu": "La Mothe-Achard",
+    "anciennes": [
+      {
+        "insee": "85052",
+        "nom": "La Chapelle-Achard"
+      },
+      {
+        "insee": "85152",
+        "nom": "La Mothe-Achard"
+      }
+    ],
+    "delegue": "oui",
+    "arrete": "2016-09-30",
+    "insee": "85152",
+    "population": 4782,
+    "date": "2017-01-01",
+    "nom": "Les Achards"
+  },
+  {
+    "cheflieu": "Beaumont",
+    "anciennes": [
+      {
+        "insee": "86019",
+        "nom": "Beaumont"
+      },
+      {
+        "insee": "86219",
+        "nom": "Saint-Cyr"
+      }
+    ],
+    "delegue": "oui",
+    "arrete": "2016-07-08",
+    "insee": "86019",
+    "population": 2968,
+    "date": "2017-01-01",
+    "nom": "Beaumont Saint-Cyr"
+  },
+  {
+    "cheflieu": "Jaunay-Clan",
+    "anciennes": [
+      {
+        "insee": "86115",
+        "nom": "Jaunay-Clan"
+      },
+      {
+        "insee": "86146",
+        "nom": "Marigny-Brizay"
+      }
+    ],
+    "delegue": "oui",
+    "arrete": "2016-07-19",
+    "insee": "86115",
+    "population": 7233,
+    "date": "2017-01-01",
+    "nom": "Jaunay-Marigny"
+  },
+  {
+    "cheflieu": "Vendeuvre-du-Poitou",
+    "anciennes": [
+      {
+        "insee": "86030",
+        "nom": "Blaslay"
+      },
+      {
+        "insee": "86060",
+        "nom": "Charrais"
+      },
+      {
+        "insee": "86071",
+        "nom": "Cheneché"
+      },
+      {
+        "insee": "86281",
+        "nom": "Vendeuvre-du-Poitou"
+      }
+    ],
+    "delegue": "oui",
+    "arrete": "2016-07-19",
+    "insee": "86281",
+    "population": 5109,
+    "date": "2017-01-01",
+    "nom": "Saint Martin la Pallu"
+  },
+  {
+    "cheflieu": "Champigny-le-Sec",
+    "anciennes": [
+      {
+        "insee": "86053",
+        "nom": "Champigny-le-Sec"
+      },
+      {
+        "insee": "86208",
+        "nom": "Le Rochereau"
+      }
+    ],
+    "delegue": "oui",
+    "arrete": "2016-07-19",
+    "insee": "86053",
+    "population": 1862,
+    "date": "2017-01-01",
+    "nom": "Champigny en Rochereau"
+  },
+  {
+    "cheflieu": "Tollaincourt",
+    "anciennes": [
+      {
+        "insee": "88475",
+        "nom": "Tollaincourt"
+      },
+      {
+        "insee": "88392",
+        "nom": "Rocourt"
+      }
+    ],
+    "delegue": "non",
+    "arrete": "2016-09-19",
+    "insee": "88475",
+    "population": 127,
+    "date": "2017-01-01",
+    "nom": "Tollaincourt"
+  },
+  {
+    "cheflieu": "Bains-les-Bains",
+    "anciennes": [
+      {
+        "insee": "88029",
+        "nom": "Bains-les-Bains"
+      },
+      {
+        "insee": "88234",
+        "nom": "Harsault"
+      },
+      {
+        "insee": "88235",
+        "nom": "Hautmougey"
+      }
+    ],
+    "delegue": "oui",
+    "arrete": null,
+    "insee": "88029",
+    "population": 1734,
+    "date": "2017-01-01",
+    "nom": "La Vôge-les-Bains"
+  },
+  {
+    "cheflieu": "Aillant-sur-Tholon",
+    "anciennes": [
+      {
+        "insee": "89003",
+        "nom": "Aillant-sur-Tholon"
+      },
+      {
+        "insee": "89078",
+        "nom": "Champvallon"
+      },
+      {
+        "insee": "89473",
+        "nom": "Villiers-sur-Tholon"
+      },
+      {
+        "insee": "89484",
+        "nom": "Volgré"
+      }
+    ],
+    "delegue": "oui",
+    "arrete": "2016-04-01",
+    "insee": "89003",
+    "population": 2913,
+    "date": "2017-01-01",
+    "nom": "Montholon"
+  },
+  {
+    "cheflieu": "Cravant",
+    "anciennes": [
+      {
+        "insee": "89001",
+        "nom": "Accolay"
+      },
+      {
+        "insee": "89130",
+        "nom": "Cravant"
+      }
+    ],
+    "delegue": "oui",
+    "arrete": "2016-04-26",
+    "insee": "89130",
+    "population": 1259,
+    "date": "2017-01-01",
+    "nom": "Deux Rivières"
+  },
+  {
+    "cheflieu": "Taingy",
+    "anciennes": [
+      {
+        "insee": "89174",
+        "nom": "Fontenailles"
+      },
+      {
+        "insee": "89260",
+        "nom": "Molesmes"
+      },
+      {
+        "insee": "89405",
+        "nom": "Taingy"
+      }
+    ],
+    "delegue": "oui",
+    "arrete": "2016-08-16",
+    "insee": "89405",
+    "population": 539,
+    "date": "2017-01-01",
+    "nom": "Les Hauts de Forterre"
+  }
+]
