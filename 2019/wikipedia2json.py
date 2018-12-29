@@ -1,0 +1,78 @@
+#!/usr/bin/python3
+import requests
+import json
+import urllib
+import sys
+from bs4 import BeautifulSoup
+import re
+
+debug = True
+
+# récupère le code INSEE d'une commune à partir de son URL wikipédia
+def get_insee(link):
+    chfl = requests.get(link).text
+    for ctr in BeautifulSoup(chfl,'lxml').find(class_="infobox_v2").find_all("tr"):
+        if ctr.th is not None:
+            if ctr.th.a is not None and ctr.th.a.string == 'Code commune':
+                return ctr.td.string.replace('\n', '')
+            elif ctr.th.string == 'Code commune':
+                return ctr.td.string.replace('\n', '')
+
+
+# récupération de l'article wikipédia
+html = requests.get('https://fr.wikipedia.org/wiki/Liste_des_communes_nouvelles_cr%C3%A9%C3%A9es_en_2019').text
+# parsing HTML et extraction de la table utile (la première triable)
+rows = BeautifulSoup(html,'lxml').find(class_="sortable").find_all("tr")
+final = []
+for row in rows[2:]:
+    c = row.find_all("td")
+
+    # première ligne d'un département, on supprime les deux premières colonnes
+    if len(c) == 11:
+        c = c[2:]
+
+    # lignes suivantes (2 premières colonnes en moins)
+    com = dict(nom=c[0].a.string,
+               insee=c[1].string.replace('\n', ''),
+               cheflieu=c[2].a.string,
+               population=c[3].string.replace('\n',''),
+               anciennes=c[5],
+               delegue=c[6].string,
+               arrete=c[7],
+               date=c[8].span)
+
+    # mise au propre du nom (curly quotes)
+    if com['nom'] != None:
+        com['nom'] = com['nom'].replace("’","'")
+
+    # mise au propre de la population en integer
+    if com['population'] != None:
+        com['population'] = int(re.sub('[^0-9]','',com['population']))
+
+    # mise au propre de la date, ex: 2017-01-01
+    if com['date'] != None:
+        com['date'] = re.sub('[^0-9]','',com['date']['data-sort-value'])
+        com['date'] = com['date'][0:4]+'-'+com['date'][4:6]+'-'+com['date'][6:8]
+
+    # extraction date textuelle de l'arrêté (12 novembre 2017)
+    if com['arrete'] != None:
+        try:
+            com['arrete'] = list(com['arrete'].strings)[1]
+        except:
+            com['arrete'] = None
+            pass
+
+    # code INSEE manquant, on récupère celui du cheflieu
+    if com['insee'] == None:
+        com['insee'] = get_insee('https://fr.wikipedia.org'+c[2].a['href'])
+
+
+    # anciennes communes
+    communes = []
+    for anc in com['anciennes'].find_all("a"):
+        ancienne = dict(nom=anc.string,insee=get_insee('https://fr.wikipedia.org'+anc['href']))
+        communes.append(ancienne)
+    com['anciennes'] = communes
+    final.append(com)
+
+print(json.dumps(final))
