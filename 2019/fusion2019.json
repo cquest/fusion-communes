@@ -1,0 +1,5190 @@
+[
+  {
+    "nom": "Arvière-en-Valromey",
+    "insee": "01453",
+    "cheflieu": "Virieu-le-Petit",
+    "population": 715,
+    "anciennes": [
+      {
+        "nom": "Brénaz",
+        "insee": "01059"
+      },
+      {
+        "nom": "Chavornay",
+        "insee": "01097"
+      },
+      {
+        "nom": "Lochieu",
+        "insee": "01218"
+      },
+      {
+        "nom": "Virieu-le-Petit",
+        "insee": "01453"
+      }
+    ],
+    "delegue": "oui\n",
+    "arrete": "17 décembre 2018",
+    "date": "2019-01-01"
+  },
+  {
+    "nom": "Bresse Vallons",
+    "insee": "01130",
+    "cheflieu": "Cras-sur-Reyssouze",
+    "population": 2251,
+    "anciennes": [
+      {
+        "nom": "Cras-sur-Reyssouze",
+        "insee": "01130"
+      },
+      {
+        "nom": "Étrez",
+        "insee": "01154"
+      }
+    ],
+    "delegue": "oui\n",
+    "arrete": "21 décembre 2018",
+    "date": "2019-01-01"
+  },
+  {
+    "nom": "Magnieu",
+    "insee": "01227",
+    "cheflieu": "Magnieu",
+    "population": 635,
+    "anciennes": [
+      {
+        "nom": "Magnieu",
+        "insee": "01227"
+      },
+      {
+        "nom": "Saint-Champ",
+        "insee": "01341"
+      }
+    ],
+    "delegue": "oui\n",
+    "arrete": "23 novembre 2018",
+    "date": "2019-01-01"
+  },
+  {
+    "nom": "Plateau d'Hauteville",
+    "insee": "01185",
+    "cheflieu": "Hauteville-Lompnes",
+    "population": 4929,
+    "anciennes": [
+      {
+        "nom": "Cormaranche-en-Bugey",
+        "insee": "01122"
+      },
+      {
+        "nom": "Hauteville-Lompnes",
+        "insee": "01185"
+      },
+      {
+        "nom": "Hostiaz",
+        "insee": "01186"
+      },
+      {
+        "nom": "Thézillieu",
+        "insee": "01417"
+      }
+    ],
+    "delegue": "oui\n",
+    "arrete": "12 décembre 2018",
+    "date": "2019-01-01"
+  },
+  {
+    "nom": "Surjoux-Lhopital",
+    "insee": "01215",
+    "cheflieu": "Lhôpital",
+    "population": 119,
+    "anciennes": [
+      {
+        "nom": "Surjoux",
+        "insee": "01413"
+      },
+      {
+        "nom": "Lhôpital",
+        "insee": "01215"
+      }
+    ],
+    "delegue": "oui\n",
+    "arrete": "3 décembre 2018",
+    "date": "2019-01-01"
+  },
+  {
+    "nom": "Valromey-sur-Séran",
+    "insee": "01036",
+    "cheflieu": "Belmont-Luthézieu",
+    "population": 1275,
+    "anciennes": [
+      {
+        "nom": "Belmont-Luthézieu",
+        "insee": "01036"
+      },
+      {
+        "nom": "Lompnieu",
+        "insee": "01221"
+      },
+      {
+        "nom": "Sutrieu",
+        "insee": "01414"
+      },
+      {
+        "nom": "Vieu",
+        "insee": "01442"
+      }
+    ],
+    "delegue": "oui\n",
+    "arrete": "17 décembre 2018",
+    "date": "2019-01-01"
+  },
+  {
+    "nom": "Valserhône",
+    "insee": "01033",
+    "cheflieu": "Bellegarde-sur-Valserine",
+    "population": 16303,
+    "anciennes": [
+      {
+        "nom": "Bellegarde-sur-Valserine",
+        "insee": "01033"
+      },
+      {
+        "nom": "Châtillon-en-Michaille",
+        "insee": "01091"
+      },
+      {
+        "nom": "Lancrans",
+        "insee": "01205"
+      }
+    ],
+    "delegue": "oui\n",
+    "arrete": "22 octobre 2018",
+    "date": "2019-01-01"
+  },
+  {
+    "nom": "Anizy-le-Grand",
+    "insee": "02018",
+    "cheflieu": "Anizy-le-Château",
+    "population": 2579,
+    "anciennes": [
+      {
+        "nom": "Anizy-le-Château",
+        "insee": "02018"
+      },
+      {
+        "nom": "Faucoucourt",
+        "insee": "02301"
+      },
+      {
+        "nom": "Lizy",
+        "insee": "02434"
+      }
+    ],
+    "delegue": "oui\n",
+    "arrete": "22 octobre 2018",
+    "date": "2019-01-01"
+  },
+  {
+    "nom": "Cessières-Suzy",
+    "insee": "02153",
+    "cheflieu": "Cessières",
+    "population": 781,
+    "anciennes": [
+      {
+        "nom": "Cessières",
+        "insee": "02153"
+      },
+      {
+        "nom": "Suzy",
+        "insee": "02733"
+      }
+    ],
+    "delegue": "oui\n",
+    "arrete": "11 décembre 2018",
+    "date": "2019-01-01"
+  },
+  {
+    "nom": "Villeneuve-sur-Aisne",
+    "insee": "02360",
+    "cheflieu": "Guignicourt",
+    "population": 2642,
+    "anciennes": [
+      {
+        "nom": "Guignicourt",
+        "insee": "02360"
+      },
+      {
+        "nom": "Menneville",
+        "insee": "02475"
+      }
+    ],
+    "delegue": "oui\n",
+    "arrete": "29 novembre 2018",
+    "date": "2019-01-01"
+  },
+  {
+    "nom": "Abriès-Ristolas",
+    "insee": "05001",
+    "cheflieu": "Abriès",
+    "population": 379,
+    "anciennes": [
+      {
+        "nom": "Abriès",
+        "insee": "05001"
+      },
+      {
+        "nom": "Ristolas",
+        "insee": "05120"
+      }
+    ],
+    "delegue": "oui\n",
+    "arrete": "19 octobre 2018",
+    "date": "2019-01-01"
+  },
+  {
+    "nom": "Belsentes",
+    "insee": "07165",
+    "cheflieu": "Nonières",
+    "population": 548,
+    "anciennes": [
+      {
+        "nom": "Nonières",
+        "insee": "07165"
+      },
+      {
+        "nom": "Saint-Julien-Labrousse",
+        "insee": "07256"
+      }
+    ],
+    "delegue": "oui\n",
+    "arrete": "12 décembre 2018",
+    "date": "2019-01-01"
+  },
+  {
+    "nom": "Saint-Julien-d'Intres",
+    "insee": "07103",
+    "cheflieu": "Intres",
+    "population": 358,
+    "anciennes": [
+      {
+        "nom": "Intres",
+        "insee": "07103"
+      },
+      {
+        "nom": "Saint-Julien-Boutières",
+        "insee": "07252"
+      }
+    ],
+    "delegue": "non\n",
+    "arrete": "12 décembre 2018",
+    "date": "2019-01-01"
+  },
+  {
+    "nom": "Saint-Laurent-les-Bains-Laval-d'Aurelle",
+    "insee": "07262",
+    "cheflieu": "Saint-Laurent-les-Bains",
+    "population": 183,
+    "anciennes": [
+      {
+        "nom": "Saint-Laurent-les-Bains",
+        "insee": "07262"
+      },
+      {
+        "nom": "Laval-d'Aurelle",
+        "insee": "07135"
+      }
+    ],
+    "delegue": "oui\n",
+    "arrete": "29 octobre 2018",
+    "date": "2019-01-01"
+  },
+  {
+    "nom": "Vallées-d'Antraigues-Asperjoc",
+    "insee": "07011",
+    "cheflieu": "Antraigues-sur-Volane",
+    "population": 969,
+    "anciennes": [
+      {
+        "nom": "Antraigues-sur-Volane",
+        "insee": "07011"
+      },
+      {
+        "nom": "Asperjoc",
+        "insee": "07016"
+      }
+    ],
+    "delegue": "oui\n",
+    "arrete": "29 octobre 2018",
+    "date": "2019-01-01"
+  },
+  {
+    "nom": "Flize",
+    "insee": "08173",
+    "cheflieu": "Flize",
+    "population": 1717,
+    "anciennes": [
+      {
+        "nom": "Balaives-et-Butz",
+        "insee": "08042"
+      },
+      {
+        "nom": "Boutancourt",
+        "insee": "08079"
+      },
+      {
+        "nom": "Elan",
+        "insee": "08152"
+      },
+      {
+        "nom": "Flize",
+        "insee": "08173"
+      }
+    ],
+    "delegue": "oui\n",
+    "arrete": "23 novembre 2018",
+    "date": "2019-01-01"
+  },
+  {
+    "nom": "Aulos-Sinsat",
+    "insee": "09296",
+    "cheflieu": "Sinsat",
+    "population": 172,
+    "anciennes": [
+      {
+        "nom": "Aulos",
+        "insee": "09028"
+      },
+      {
+        "nom": "Sinsat",
+        "insee": "09296"
+      }
+    ],
+    "delegue": "oui\n",
+    "arrete": "27 septembre 2018",
+    "date": "2019-01-01"
+  },
+  {
+    "nom": "Val-de-Sos",
+    "insee": "09334",
+    "cheflieu": "Vicdessos",
+    "population": 656,
+    "anciennes": [
+      {
+        "nom": "Goulier",
+        "insee": "09135"
+      },
+      {
+        "nom": "Sem",
+        "insee": "09286"
+      },
+      {
+        "nom": "Suc-et-Sentenac",
+        "insee": "09302"
+      },
+      {
+        "nom": "Vicdessos",
+        "insee": "09334"
+      }
+    ],
+    "delegue": "oui\n",
+    "arrete": "27 juillet 2018",
+    "date": "2019-01-01"
+  },
+  {
+    "nom": "Val-de-Dagne",
+    "insee": "11251",
+    "cheflieu": "Montlaur",
+    "population": 711,
+    "anciennes": [
+      {
+        "nom": "Montlaur",
+        "insee": "11251"
+      },
+      {
+        "nom": "Pradelles-en-Val",
+        "insee": "11298"
+      }
+    ],
+    "delegue": "oui\n",
+    "arrete": "5 décembre 2018",
+    "date": "2019-01-01"
+  },
+  {
+    "nom": "Val-du-Faby",
+    "insee": "11131",
+    "cheflieu": "Fa",
+    "population": 569,
+    "anciennes": [
+      {
+        "nom": "Fa",
+        "insee": "11131"
+      },
+      {
+        "nom": "Rouvenac",
+        "insee": "11329"
+      }
+    ],
+    "delegue": "oui\n",
+    "arrete": "5 décembre 2018",
+    "date": "2019-01-01"
+  },
+  {
+    "nom": "Roquetaillade-et-Conilhac",
+    "insee": "11323",
+    "cheflieu": "Roquetaillade",
+    "population": 276,
+    "anciennes": [
+      {
+        "nom": "Conilhac-de-la-Montagne",
+        "insee": "11097"
+      },
+      {
+        "nom": "Roquetaillade",
+        "insee": "11323"
+      }
+    ],
+    "delegue": "oui\n",
+    "arrete": "5 décembre 2018",
+    "date": "2019-01-01"
+  },
+  {
+    "nom": "Cambremer",
+    "insee": "14126",
+    "cheflieu": "Cambremer",
+    "population": 1386,
+    "anciennes": [
+      {
+        "nom": "Cambremer",
+        "insee": "14126"
+      },
+      {
+        "nom": "Saint-Laurent-du-Mont",
+        "insee": "14604"
+      }
+    ],
+    "delegue": "non\n",
+    "arrete": "24 septembre 2018",
+    "date": "2019-01-01"
+  },
+  {
+    "nom": "Le Castelet",
+    "insee": "14554",
+    "cheflieu": "Saint-Aignan-de-Cramesnil",
+    "population": 1404,
+    "anciennes": [
+      {
+        "nom": "Garcelles-Secqueville",
+        "insee": "14294"
+      },
+      {
+        "nom": "Saint-Aignan-de-Cramesnil",
+        "insee": "14554"
+      }
+    ],
+    "delegue": "oui\n",
+    "arrete": "24 septembre 2018",
+    "date": "2019-01-01"
+  },
+  {
+    "nom": "Castine-en-Plaine",
+    "insee": "14538",
+    "cheflieu": "Rocquancourt",
+    "population": 1394,
+    "anciennes": [
+      {
+        "nom": "Hubert-Folie",
+        "insee": "14339"
+      },
+      {
+        "nom": "Rocquancourt",
+        "insee": "14538"
+      },
+      {
+        "nom": "Tilly-la-Campagne",
+        "insee": "14691"
+      }
+    ],
+    "delegue": "oui\n",
+    "arrete": "19 décembre 2018",
+    "date": "2019-01-01"
+  },
+  {
+    "nom": "Cesny-les-Sources",
+    "insee": "14150",
+    "cheflieu": "Cesny-Bois-Halbout",
+    "population": 1355,
+    "anciennes": [
+      {
+        "nom": "Acqueville",
+        "insee": "14002"
+      },
+      {
+        "nom": "Angoville",
+        "insee": "14013"
+      },
+      {
+        "nom": "Cesny-Bois-Halbout",
+        "insee": "14150"
+      },
+      {
+        "nom": "Placy",
+        "insee": "14505"
+      },
+      {
+        "nom": "Tournebu",
+        "insee": "14703"
+      }
+    ],
+    "delegue": "oui\n",
+    "arrete": "24 septembre 2018",
+    "date": "2019-01-01"
+  },
+  {
+    "nom": "Montillières-sur-Orne",
+    "insee": "14713",
+    "cheflieu": "Trois-Monts",
+    "population": 596,
+    "anciennes": [
+      {
+        "nom": "Goupillières",
+        "insee": "14307"
+      },
+      {
+        "nom": "Trois-Monts",
+        "insee": "14713"
+      }
+    ],
+    "delegue": "non\n",
+    "arrete": "28 septembre 2018",
+    "date": "2019-01-01"
+  },
+  {
+    "nom": "Pont-l'Évêque",
+    "insee": "14514",
+    "cheflieu": "Pont-l’Évêque",
+    "population": 4819,
+    "anciennes": [
+      {
+        "nom": "Coudray-Rabut",
+        "insee": "14185"
+      },
+      {
+        "nom": "Pont-l’Évêque",
+        "insee": "14514"
+      }
+    ],
+    "delegue": "non\n",
+    "arrete": "17 décembre 2018",
+    "date": "2019-01-01"
+  },
+  {
+    "nom": "Puycapel",
+    "insee": "15027",
+    "cheflieu": "Calvinet",
+    "population": 840,
+    "anciennes": [
+      {
+        "nom": "Calvinet",
+        "insee": "15027"
+      },
+      {
+        "nom": "Mourjou",
+        "insee": "15136"
+      }
+    ],
+    "delegue": "oui\n",
+    "arrete": "12 décembre 2018",
+    "date": "2019-01-01"
+  },
+  {
+    "nom": "Aigre",
+    "insee": "16005",
+    "cheflieu": "Aigre",
+    "population": 1626,
+    "anciennes": [
+      {
+        "nom": "Aigre",
+        "insee": "16005"
+      },
+      {
+        "nom": "Villejésus",
+        "insee": "16411"
+      }
+    ],
+    "delegue": "oui\n",
+    "arrete": "28 septembre 2018",
+    "date": "2019-01-01"
+  },
+  {
+    "nom": "Coteaux-du-Blanzacais",
+    "insee": "16046",
+    "cheflieu": "Blanzac-Porcheresse",
+    "population": 1053,
+    "anciennes": [
+      {
+        "nom": "Coteaux-du-Blanzacais",
+        "insee": "16046"
+      },
+      {
+        "nom": "Blanzac-Porcheresse",
+        "insee": "16046"
+      },
+      {
+        "nom": "Cressac-Saint-Genis",
+        "insee": "16115"
+      },
+      {
+        "nom": "Saint-Léger",
+        "insee": "16332"
+      }
+    ],
+    "delegue": "oui (3)\n",
+    "arrete": "28 septembre 2018",
+    "date": "2019-01-01"
+  },
+  {
+    "nom": "Courcôme",
+    "insee": "16110",
+    "cheflieu": "Courcôme",
+    "population": 819,
+    "anciennes": [
+      {
+        "nom": "Courcôme",
+        "insee": "16110"
+      },
+      {
+        "nom": "Tuzie",
+        "insee": "16391"
+      },
+      {
+        "nom": "Villegats",
+        "insee": "16410"
+      }
+    ],
+    "delegue": "oui\n",
+    "arrete": "19 décembre 2018",
+    "date": "2019-01-01"
+  },
+  {
+    "nom": "Mainxe-Gondeville",
+    "insee": "16153",
+    "cheflieu": "Gondeville",
+    "population": 1200,
+    "anciennes": [
+      {
+        "nom": "Mainxe",
+        "insee": "16202"
+      },
+      {
+        "nom": "Gondeville",
+        "insee": "16153"
+      }
+    ],
+    "delegue": "non\n",
+    "arrete": "28 septembre 2018",
+    "date": "2019-01-01"
+  },
+  {
+    "nom": "Moulins-sur-Tardoire",
+    "insee": "16406",
+    "cheflieu": "Vilhonneur",
+    "population": 771,
+    "anciennes": [
+      {
+        "nom": "Rancogne",
+        "insee": "16274"
+      },
+      {
+        "nom": "Vilhonneur",
+        "insee": "16406"
+      }
+    ],
+    "delegue": "oui\n",
+    "arrete": "28 septembre 2018",
+    "date": "2019-01-01"
+  },
+  {
+    "nom": "La Rochefoucauld-en-Angoumois",
+    "insee": "16281",
+    "cheflieu": "La Rochefoucauld",
+    "population": 4026,
+    "anciennes": [
+      {
+        "nom": "La Rochefoucauld",
+        "insee": "16281"
+      },
+      {
+        "nom": "Saint-Projet-Saint-Constant",
+        "insee": "16344"
+      }
+    ],
+    "delegue": "oui\n",
+    "arrete": "28 septembre 2018",
+    "date": "2019-01-01"
+  },
+  {
+    "nom": "Rouillac",
+    "insee": "16286",
+    "cheflieu": "Rouillac",
+    "population": 2965,
+    "anciennes": [
+      {
+        "nom": "Rouillac",
+        "insee": "16286"
+      },
+      {
+        "nom": "Plaizac",
+        "insee": "16262"
+      },
+      {
+        "nom": "Rouillac",
+        "insee": "16P06"
+      },
+      {
+        "nom": "Sonneville",
+        "insee": "16371"
+      },
+      {
+        "nom": "Gourville",
+        "insee": "16156"
+      }
+    ],
+    "delegue": "oui (4)\n",
+    "arrete": "29 novembre 2018",
+    "date": "2019-01-01"
+  },
+  {
+    "nom": "Terres-de-Haute-Charente",
+    "insee": "16192",
+    "cheflieu": "Roumazières-Loubert",
+    "population": 3969,
+    "anciennes": [
+      {
+        "nom": "Genouillac",
+        "insee": "16149"
+      },
+      {
+        "nom": "Mazières",
+        "insee": "16214"
+      },
+      {
+        "nom": "La Péruse",
+        "insee": "16259"
+      },
+      {
+        "nom": "Roumazières-Loubert",
+        "insee": "16192"
+      },
+      {
+        "nom": "Suris",
+        "insee": "16376"
+      }
+    ],
+    "delegue": "oui\n",
+    "arrete": "28 septembre 2018",
+    "date": "2019-01-01"
+  },
+  {
+    "nom": "Val-d'Auge",
+    "insee": "16339",
+    "cheflieu": "Auge-Saint-Médard",
+    "population": 823,
+    "anciennes": [
+      {
+        "nom": "Anville",
+        "insee": "16017"
+      },
+      {
+        "nom": "Auge-Saint-Médard",
+        "insee": "16339"
+      },
+      {
+        "nom": "Bonneville",
+        "insee": "16051"
+      },
+      {
+        "nom": "Montigné",
+        "insee": "16228"
+      }
+    ],
+    "delegue": "oui\n",
+    "arrete": "29 novembre 2018",
+    "date": "2019-01-01"
+  },
+  {
+    "nom": "Saint-Hilaire-de-Villefranche",
+    "insee": "17344",
+    "cheflieu": "Saint-Hilaire-de-Villefranche",
+    "population": 1316,
+    "anciennes": [
+      {
+        "nom": "Saint-Hilaire-de-Villefranche",
+        "insee": "17344"
+      },
+      {
+        "nom": "La Frédière",
+        "insee": "17169"
+      }
+    ],
+    "delegue": "\n",
+    "arrete": "27 novembre 2018",
+    "date": "2019-01-01"
+  },
+  {
+    "nom": "Marennes-Hiers-Brouage",
+    "insee": "17219",
+    "cheflieu": "Marennes",
+    "population": 6424,
+    "anciennes": [
+      {
+        "nom": "Marennes",
+        "insee": "17219"
+      },
+      {
+        "nom": "Hiers-Brouage",
+        "insee": "17189"
+      }
+    ],
+    "delegue": "\n",
+    "arrete": "27 novembre 2018",
+    "date": "2019-01-01"
+  },
+  {
+    "nom": "Baugy",
+    "insee": "18023",
+    "cheflieu": "Baugy",
+    "population": 1728,
+    "anciennes": [
+      {
+        "nom": "Baugy",
+        "insee": "18023"
+      },
+      {
+        "nom": "Laverdines",
+        "insee": "18123"
+      },
+      {
+        "nom": "Saligny-le-Vif",
+        "insee": "18239"
+      }
+    ],
+    "delegue": "oui\n",
+    "arrete": "18 octobre 2018",
+    "date": "2019-01-01"
+  },
+  {
+    "nom": "Corquoy",
+    "insee": "18073",
+    "cheflieu": "Corquoy",
+    "population": 223,
+    "anciennes": [
+      {
+        "nom": "Corquoy",
+        "insee": "18073"
+      },
+      {
+        "nom": "Sainte-Lunaise",
+        "insee": "18222"
+      }
+    ],
+    "delegue": "non\n",
+    "arrete": "27 septembre 2018",
+    "date": "2019-01-01"
+  },
+  {
+    "nom": "Beaulieu-sur-Dordogne",
+    "insee": "19019",
+    "cheflieu": "Beaulieu-sur-Dordogne",
+    "population": 1342,
+    "anciennes": [
+      {
+        "nom": "Beaulieu-sur-Dordogne",
+        "insee": "19019"
+      },
+      {
+        "nom": "Brivezac",
+        "insee": "19032"
+      }
+    ],
+    "delegue": "oui\n",
+    "arrete": "28 juin 2018",
+    "date": "2019-01-01"
+  },
+  {
+    "nom": "Lagarde-Marc-la-Tour",
+    "insee": "19098",
+    "cheflieu": "Lagarde-Enval",
+    "population": 974,
+    "anciennes": [
+      {
+        "nom": "Lagarde-Enval",
+        "insee": "19098"
+      },
+      {
+        "nom": "Marc-la-Tour",
+        "insee": "19127"
+      }
+    ],
+    "delegue": "oui\n",
+    "arrete": "6 décembre 2018",
+    "date": "2019-01-01"
+  },
+  {
+    "nom": "Laguenne-sur-Avalouze",
+    "insee": "19101",
+    "cheflieu": "Laguenne",
+    "population": 1548,
+    "anciennes": [
+      {
+        "nom": "Laguenne",
+        "insee": "19101"
+      },
+      {
+        "nom": "Saint-Bonnet-Avalouze",
+        "insee": "19185"
+      }
+    ],
+    "delegue": "oui\n",
+    "arrete": "5 novembre 2018",
+    "date": "2019-01-01"
+  },
+  {
+    "nom": "Longeault-Pluvault",
+    "insee": "21352",
+    "cheflieu": "Longeault",
+    "population": 1122,
+    "anciennes": [
+      {
+        "nom": "Longeault",
+        "insee": "21352"
+      },
+      {
+        "nom": "Pluvault",
+        "insee": "21486"
+      }
+    ],
+    "delegue": "oui\n",
+    "arrete": "28 septembre 2018",
+    "date": "2019-01-01"
+  },
+  {
+    "nom": "Le Val-Larrey",
+    "insee": "21272",
+    "cheflieu": "Flée",
+    "population": 261,
+    "anciennes": [
+      {
+        "nom": "Flée",
+        "insee": "21272"
+      },
+      {
+        "nom": "Bierre-lès-Semur",
+        "insee": "21073"
+      }
+    ],
+    "delegue": "oui\n",
+    "arrete": "21 novembre 2018",
+    "date": "2019-01-01"
+  },
+  {
+    "nom": "Valforêt",
+    "insee": "21178",
+    "cheflieu": "Clémencey",
+    "population": 323,
+    "anciennes": [
+      {
+        "nom": "Clémencey",
+        "insee": "21178"
+      },
+      {
+        "nom": "Quemigny-Poisot",
+        "insee": "21513"
+      }
+    ],
+    "delegue": "oui\n",
+    "arrete": "21 novembre 2018",
+    "date": "2019-01-01"
+  },
+  {
+    "nom": "Châtelaudren-Plouagat",
+    "insee": "22206",
+    "cheflieu": "Plouagat",
+    "population": 3903,
+    "anciennes": [
+      {
+        "nom": "Châtelaudren",
+        "insee": "22038"
+      },
+      {
+        "nom": "Plouagat",
+        "insee": "22206"
+      }
+    ],
+    "delegue": "oui\n",
+    "arrete": "28 septembre 2018",
+    "date": "2019-01-01"
+  },
+  {
+    "nom": "Plouguenast-Langast",
+    "insee": "22219",
+    "cheflieu": "Plouguenast",
+    "population": 2557,
+    "anciennes": [
+      {
+        "nom": "Plouguenast",
+        "insee": "22219"
+      },
+      {
+        "nom": "Langast",
+        "insee": "22100"
+      }
+    ],
+    "delegue": "oui\n",
+    "arrete": "19 octobre 2018",
+    "date": "2019-01-01"
+  },
+  {
+    "nom": "Lamballe-Armor",
+    "insee": "22093",
+    "cheflieu": "Lamballe",
+    "population": 16647,
+    "anciennes": [
+      {
+        "nom": "Lamballe",
+        "insee": "22093"
+      },
+      {
+        "nom": "Meslin",
+        "insee": "22151"
+      },
+      {
+        "nom": "Morieux",
+        "insee": "22154"
+      },
+      {
+        "nom": "Planguenoual",
+        "insee": "22173"
+      }
+    ],
+    "delegue": "oui (4)\n",
+    "arrete": "31 octobre 2018",
+    "date": "2019-01-01"
+  },
+  {
+    "nom": "La Roche-Jaudy",
+    "insee": "22264",
+    "cheflieu": "La Roche-Derrien",
+    "population": 2687,
+    "anciennes": [
+      {
+        "nom": "Hengoat",
+        "insee": "22078"
+      },
+      {
+        "nom": "Pommerit-Jaudy",
+        "insee": "22247"
+      },
+      {
+        "nom": "Pouldouran",
+        "insee": "22253"
+      },
+      {
+        "nom": "La Roche-Derrien",
+        "insee": "22264"
+      }
+    ],
+    "delegue": "oui\n",
+    "arrete": "29 octobre 2018",
+    "date": "2019-01-01"
+  },
+  {
+    "nom": "Linard-Malval",
+    "insee": "23109",
+    "cheflieu": "Linard",
+    "population": 206,
+    "anciennes": [
+      {
+        "nom": "Linard",
+        "insee": "23109"
+      },
+      {
+        "nom": "Malval",
+        "insee": "23121"
+      }
+    ],
+    "delegue": "oui\n",
+    "arrete": "28 septembre 2018",
+    "date": "2019-01-01"
+  },
+  {
+    "nom": "Saint-Dizier-Masbaraud",
+    "insee": "23189",
+    "cheflieu": "Saint-Dizier-Leyrenne",
+    "population": 1121,
+    "anciennes": [
+      {
+        "nom": "Masbaraud-Mérignat",
+        "insee": "23126"
+      },
+      {
+        "nom": "Saint-Dizier-Leyrenne",
+        "insee": "23189"
+      }
+    ],
+    "delegue": "oui\n",
+    "arrete": "3 décembre 2018",
+    "date": "2019-01-01"
+  },
+  {
+    "nom": "Brantôme en Périgord",
+    "insee": "24064",
+    "cheflieu": "Brantôme en Périgord",
+    "population": 3778,
+    "anciennes": [
+      {
+        "nom": "Brantôme en Périgord",
+        "insee": "24064"
+      },
+      {
+        "nom": "Brantôme",
+        "insee": "24P04"
+      },
+      {
+        "nom": "Saint-Julien-de-Bourdeilles",
+        "insee": "24430"
+      },
+      {
+        "nom": "Cantillac",
+        "insee": "24079"
+      },
+      {
+        "nom": "Eyvirat",
+        "insee": "24170"
+      },
+      {
+        "nom": "La Gonterie-Boulouneix",
+        "insee": "24198"
+      },
+      {
+        "nom": "Saint-Crépin-de-Richemont",
+        "insee": "24391"
+      },
+      {
+        "nom": "Sencenac-Puy-de-Fourches",
+        "insee": "24530"
+      },
+      {
+        "nom": "Valeuil",
+        "insee": "24561"
+      }
+    ],
+    "delegue": "oui\n",
+    "arrete": "31 octobre 2018",
+    "date": "2019-01-01"
+  },
+  {
+    "nom": "Coly-Saint-Amand",
+    "insee": "24364",
+    "cheflieu": "Saint-Amand-de-Coly",
+    "population": 610,
+    "anciennes": [
+      {
+        "nom": "Coly",
+        "insee": "24127"
+      },
+      {
+        "nom": "Saint-Amand-de-Coly",
+        "insee": "24364"
+      }
+    ],
+    "delegue": "oui\n",
+    "arrete": "21 septembre 2018",
+    "date": "2019-01-01"
+  },
+  {
+    "nom": "Eyraud-Crempse-Maurens",
+    "insee": "24259",
+    "cheflieu": "Maurens",
+    "population": 1596,
+    "anciennes": [
+      {
+        "nom": "Maurens",
+        "insee": "24259"
+      },
+      {
+        "nom": "Laveyssière",
+        "insee": "24233"
+      },
+      {
+        "nom": "Saint-Jean-d'Eyraud",
+        "insee": "24427"
+      },
+      {
+        "nom": "Saint-Julien-de-Crempse",
+        "insee": "24431"
+      }
+    ],
+    "delegue": "oui\n",
+    "arrete": "21 septembre 2018",
+    "date": "2019-01-01"
+  },
+  {
+    "nom": "Les Eyzies",
+    "insee": "24172",
+    "cheflieu": "Les Eyzies-de-Tayac-Sireuil",
+    "population": 1091,
+    "anciennes": [
+      {
+        "nom": "Les Eyzies-de-Tayac-Sireuil",
+        "insee": "24172"
+      },
+      {
+        "nom": "Manaurie",
+        "insee": "24249"
+      },
+      {
+        "nom": "Saint-Cirq",
+        "insee": "24389"
+      }
+    ],
+    "delegue": "oui\n",
+    "arrete": "11 octobre 2018",
+    "date": "2019-01-01"
+  },
+  {
+    "nom": "Saint-Julien-Innocence-Eulalie",
+    "insee": "24423",
+    "cheflieu": "Sainte-Innocence",
+    "population": 289,
+    "anciennes": [
+      {
+        "nom": "Sainte-Eulalie-d'Eymet",
+        "insee": "24402"
+      },
+      {
+        "nom": "Sainte-Innocence",
+        "insee": "24423"
+      },
+      {
+        "nom": "Saint-Julien-d'Eymet",
+        "insee": "24433"
+      }
+    ],
+    "delegue": "oui\n",
+    "arrete": "21 septembre 2018",
+    "date": "2019-01-01"
+  },
+  {
+    "nom": "Sigoulès-et-Flaugeac",
+    "insee": "24534",
+    "cheflieu": "Sigoulès",
+    "population": 1277,
+    "anciennes": [
+      {
+        "nom": "Sigoulès",
+        "insee": "24534"
+      },
+      {
+        "nom": "Flaugeac",
+        "insee": "24181"
+      }
+    ],
+    "delegue": "oui\n",
+    "arrete": "6 novembre 2018",
+    "date": "2019-01-01"
+  },
+  {
+    "nom": "Fontain",
+    "insee": "25245",
+    "cheflieu": "Fontain",
+    "population": 1283,
+    "anciennes": [
+      {
+        "nom": "Fontain",
+        "insee": "25245"
+      },
+      {
+        "nom": "Arguel",
+        "insee": "25027"
+      }
+    ],
+    "delegue": "non\n",
+    "arrete": "11 décembre 2018",
+    "date": "2019-01-01"
+  },
+  {
+    "nom": "Pays-de-Clerval",
+    "insee": "25156",
+    "cheflieu": "Pays-de-Clerval",
+    "population": 1239,
+    "anciennes": [
+      {
+        "nom": "Pays-de-Clerval",
+        "insee": "25156"
+      },
+      {
+        "nom": "Chaux-lès-Clerval",
+        "insee": "25140"
+      }
+    ],
+    "delegue": "oui\n",
+    "arrete": "17 décembre 2018",
+    "date": "2019-01-01"
+  },
+  {
+    "nom": "Tarcenay-Foucherans",
+    "insee": "25558",
+    "cheflieu": "Tarcenay",
+    "population": 1480,
+    "anciennes": [
+      {
+        "nom": "Tarcenay",
+        "insee": "25558"
+      },
+      {
+        "nom": "Foucherans",
+        "insee": "25250"
+      }
+    ],
+    "delegue": "non\n",
+    "arrete": "26 septembre 2018",
+    "date": "2019-01-01"
+  },
+  {
+    "nom": "Valherbasse",
+    "insee": "26210",
+    "cheflieu": "Montrigaud",
+    "population": 997,
+    "anciennes": [
+      {
+        "nom": "Miribel",
+        "insee": "26184"
+      },
+      {
+        "nom": "Montrigaud",
+        "insee": "26210"
+      },
+      {
+        "nom": "Saint-Bonnet-de-Valclérieux",
+        "insee": "26297"
+      }
+    ],
+    "delegue": "oui\n",
+    "arrete": "28 août 2018",
+    "date": "2019-01-01"
+  },
+  {
+    "nom": "Châtillon-en-Diois",
+    "insee": "26086",
+    "cheflieu": "Châtillon-en-Diois",
+    "population": 669,
+    "anciennes": [
+      {
+        "nom": "Châtillon-en-Diois",
+        "insee": "26086"
+      },
+      {
+        "nom": "Treschenu-Creyers",
+        "insee": "26354"
+      }
+    ],
+    "delegue": "oui\n",
+    "arrete": "21 novembre 2018",
+    "date": "2019-01-01"
+  },
+  {
+    "nom": "Frenelle-en-Vexin",
+    "insee": "27070",
+    "cheflieu": "Boisemont",
+    "population": 1733,
+    "anciennes": [
+      {
+        "nom": "Boisemont",
+        "insee": "27070"
+      },
+      {
+        "nom": "Corny",
+        "insee": "27175"
+      },
+      {
+        "nom": "Fresne-l'Archevêque",
+        "insee": "27270"
+      }
+    ],
+    "delegue": "oui\n",
+    "arrete": "27 novembre 2018",
+    "date": "2019-01-01"
+  },
+  {
+    "nom": "Le Mesnil-Saint-Jean",
+    "insee": "27541",
+    "cheflieu": "Saint-Georges-du-Mesnil",
+    "population": 199,
+    "anciennes": [
+      {
+        "nom": "Saint-Georges-du-Mesnil",
+        "insee": "27541"
+      },
+      {
+        "nom": "Saint-Jean-de-la-Léqueraye",
+        "insee": "27551"
+      }
+    ],
+    "delegue": "oui\n",
+    "arrete": "25 septembre 2018",
+    "date": "2019-01-01"
+  },
+  {
+    "nom": "Mesnils-sur-Iton",
+    "insee": "27198",
+    "cheflieu": "Mesnils-sur-Iton",
+    "population": 6370,
+    "anciennes": [
+      {
+        "nom": "Mesnils-sur-Iton",
+        "insee": "27198"
+      },
+      {
+        "nom": "Buis-sur-Damville",
+        "insee": "27416"
+      },
+      {
+        "nom": "Grandvilliers",
+        "insee": "27297"
+      },
+      {
+        "nom": "Roman",
+        "insee": "27491"
+      }
+    ],
+    "delegue": "oui\n",
+    "arrete": "20 novembre 2018",
+    "date": "2019-01-01"
+  },
+  {
+    "nom": "Le Perrey",
+    "insee": "27263",
+    "cheflieu": "Fourmetot",
+    "population": 1234,
+    "anciennes": [
+      {
+        "nom": "Fourmetot",
+        "insee": "27263"
+      },
+      {
+        "nom": "Saint-Thurien",
+        "insee": "27607"
+      },
+      {
+        "nom": "Saint-Ouen-des-Champs",
+        "insee": "27581"
+      }
+    ],
+    "delegue": "oui\n",
+    "arrete": "21 décembre 2018",
+    "date": "2019-01-01"
+  },
+  {
+    "nom": "Treis-Sants-en-Ouche",
+    "insee": "27516",
+    "cheflieu": "Saint-Aubin-le-Vertueux",
+    "population": 1469,
+    "anciennes": [
+      {
+        "nom": "Saint-Aubin-le-Vertueux",
+        "insee": "27516"
+      },
+      {
+        "nom": "Saint-Clair-d'Arcey",
+        "insee": "27523"
+      },
+      {
+        "nom": "Saint-Quentin-des-Isles",
+        "insee": "27600"
+      }
+    ],
+    "delegue": "oui\n",
+    "arrete": "25 septembre 2018",
+    "date": "2019-01-01"
+  },
+  {
+    "nom": "La Vieille-Lyre",
+    "insee": "27685",
+    "cheflieu": "La Vieille-Lyre",
+    "population": 664,
+    "anciennes": [
+      {
+        "nom": "La Vieille-Lyre",
+        "insee": "27685"
+      },
+      {
+        "nom": "Champignolles",
+        "insee": "27143"
+      }
+    ],
+    "delegue": "oui\n",
+    "arrete": "7 décembre 2018",
+    "date": "2019-01-01"
+  },
+  {
+    "nom": "Arcisses",
+    "insee": "28236",
+    "cheflieu": "Margon",
+    "population": 2303,
+    "anciennes": [
+      {
+        "nom": "Brunelles",
+        "insee": "28063"
+      },
+      {
+        "nom": "Coudreceau",
+        "insee": "28112"
+      },
+      {
+        "nom": "Margon",
+        "insee": "28236"
+      }
+    ],
+    "delegue": "oui\n",
+    "arrete": "14 novembre 2018",
+    "date": "2019-01-01"
+  },
+  {
+    "nom": "Authon-du-Perche",
+    "insee": "28018",
+    "cheflieu": "Authon-du-Perche",
+    "population": 1525,
+    "anciennes": [
+      {
+        "nom": "Authon-du-Perche",
+        "insee": "28018"
+      },
+      {
+        "nom": "Soizé",
+        "insee": "28376"
+      }
+    ],
+    "delegue": "oui\n",
+    "arrete": "30 avril 2018",
+    "date": "2019-01-01"
+  },
+  {
+    "nom": "Eole-en-Beauce",
+    "insee": "28406",
+    "cheflieu": "Villeau",
+    "population": 1247,
+    "anciennes": [
+      {
+        "nom": "Eole-en-Beauce",
+        "insee": "28406"
+      },
+      {
+        "nom": "Baignolet",
+        "insee": "28020"
+      },
+      {
+        "nom": "Fains-la-Folie",
+        "insee": "28145"
+      },
+      {
+        "nom": "Germignonville",
+        "insee": "28179"
+      },
+      {
+        "nom": "Viabon",
+        "insee": "28406"
+      },
+      {
+        "nom": "Villeau",
+        "insee": "28412"
+      }
+    ],
+    "delegue": "oui (5)\n",
+    "arrete": "30 octobre 2018",
+    "date": "2019-01-01"
+  },
+  {
+    "nom": "Janville-en-Beauce",
+    "insee": "28199",
+    "cheflieu": "Janville",
+    "population": 2569,
+    "anciennes": [
+      {
+        "nom": "Allaines-Mervilliers",
+        "insee": "28002"
+      },
+      {
+        "nom": "Janville",
+        "insee": "28199"
+      },
+      {
+        "nom": "Le Puiset",
+        "insee": "28311"
+      }
+    ],
+    "delegue": "oui\n",
+    "arrete": "19 décembre 2018",
+    "date": "2019-01-01"
+  },
+  {
+    "nom": "Saint-Denis-Lanneray",
+    "insee": "28334",
+    "cheflieu": "Saint-Denis-les-Ponts",
+    "population": 2274,
+    "anciennes": [
+      {
+        "nom": "Lanneray",
+        "insee": "28205"
+      },
+      {
+        "nom": "Saint-Denis-les-Ponts",
+        "insee": "28334"
+      }
+    ],
+    "delegue": "oui\n",
+    "arrete": "31 juillet 2018",
+    "date": "2019-01-01"
+  },
+  {
+    "nom": "Saintigny",
+    "insee": "28331",
+    "cheflieu": "Saint-Denis-d'Authou",
+    "population": 998,
+    "anciennes": [
+      {
+        "nom": "Frétigny",
+        "insee": "28165"
+      },
+      {
+        "nom": "Saint-Denis-d'Authou",
+        "insee": "28331"
+      }
+    ],
+    "delegue": "oui\n",
+    "arrete": "19 décembre 2018",
+    "date": "2019-01-01"
+  },
+  {
+    "nom": "Plouigneau",
+    "insee": "29199",
+    "cheflieu": "Plouigneau",
+    "population": 5074,
+    "anciennes": [
+      {
+        "nom": "Plouigneau",
+        "insee": "29199"
+      },
+      {
+        "nom": "Le Ponthou",
+        "insee": "29219"
+      }
+    ],
+    "delegue": "oui\n",
+    "arrete": "28 août 2018",
+    "date": "2019-01-01"
+  },
+  {
+    "nom": "Poullaouen",
+    "insee": "29227",
+    "cheflieu": "Poullaouen",
+    "population": 1533,
+    "anciennes": [
+      {
+        "nom": "Poullaouen",
+        "insee": "29227"
+      },
+      {
+        "nom": "Locmaria-Berrien",
+        "insee": "29129"
+      }
+    ],
+    "delegue": "\n",
+    "arrete": "1",
+    "date": "2019-01-01"
+  },
+  {
+    "nom": "Bréau-Mars",
+    "insee": "30052",
+    "cheflieu": "Bréau-et-Salagosse",
+    "population": 599,
+    "anciennes": [
+      {
+        "nom": "Bréau-et-Salagosse",
+        "insee": "30052"
+      },
+      {
+        "nom": "Mars",
+        "insee": "30157"
+      }
+    ],
+    "delegue": "oui\n",
+    "arrete": "13 septembre 2018",
+    "date": "2019-01-01"
+  },
+  {
+    "nom": "Val-d'Aigoual",
+    "insee": "30339",
+    "cheflieu": "Valleraugue",
+    "population": 1468,
+    "anciennes": [
+      {
+        "nom": "Valleraugue",
+        "insee": "30339"
+      },
+      {
+        "nom": "Notre-Dame-de-la-Rouvière",
+        "insee": "30190"
+      }
+    ],
+    "delegue": "non\n",
+    "arrete": "26 septembre 2018",
+    "date": "2019-01-01"
+  },
+  {
+    "nom": "Saint-Béat-Lez",
+    "insee": "31471",
+    "cheflieu": "Saint-Béat",
+    "population": 436,
+    "anciennes": [
+      {
+        "nom": "Saint-Béat",
+        "insee": "31471"
+      },
+      {
+        "nom": "Lez",
+        "insee": "31298"
+      }
+    ],
+    "delegue": "oui (Lez)\n",
+    "arrete": "30 avril 2018",
+    "date": "2019-01-01"
+  },
+  {
+    "nom": "Riscle",
+    "insee": "32344",
+    "cheflieu": "Riscle",
+    "population": 1774,
+    "anciennes": [
+      {
+        "nom": "Riscle",
+        "insee": "32344"
+      },
+      {
+        "nom": "Cannet",
+        "insee": "32074"
+      }
+    ],
+    "delegue": "oui\n",
+    "arrete": "21 décembre 2018",
+    "date": "2019-01-01"
+  },
+  {
+    "nom": "Blaignan-Prignac",
+    "insee": "33055",
+    "cheflieu": "Blaignan",
+    "population": 467,
+    "anciennes": [
+      {
+        "nom": "Blaignan",
+        "insee": "33055"
+      },
+      {
+        "nom": "Prignac-en-Médoc",
+        "insee": "33338"
+      }
+    ],
+    "delegue": "oui (Blaignan)\n",
+    "arrete": "1",
+    "date": "2019-01-01"
+  },
+  {
+    "nom": "Porte-de-Benauge",
+    "insee": "33008",
+    "cheflieu": "Arbis",
+    "population": 513,
+    "anciennes": [
+      {
+        "nom": "Arbis",
+        "insee": "33008"
+      },
+      {
+        "nom": "Cantois",
+        "insee": "33092"
+      }
+    ],
+    "delegue": "non\n",
+    "arrete": "28 septembre 2018",
+    "date": "2019-01-01"
+  },
+  {
+    "nom": "Val-de-Livenne",
+    "insee": "33380",
+    "cheflieu": "Saint-Caprais-de-Blaye",
+    "population": 1733,
+    "anciennes": [
+      {
+        "nom": "Marcillac",
+        "insee": "33267"
+      },
+      {
+        "nom": "Saint-Caprais-de-Blaye",
+        "insee": "33380"
+      }
+    ],
+    "delegue": "oui\n",
+    "arrete": "1",
+    "date": "2019-01-01"
+  },
+  {
+    "nom": "Entre-Vignes",
+    "insee": "34246",
+    "cheflieu": "Saint-Christol",
+    "population": 2117,
+    "anciennes": [
+      {
+        "nom": "Saint-Christol",
+        "insee": "34246"
+      },
+      {
+        "nom": "Vérargues",
+        "insee": "34330"
+      }
+    ],
+    "delegue": "oui\n",
+    "arrete": "13 décembre 2018",
+    "date": "2019-01-01"
+  },
+  {
+    "nom": "Luitré-Dompierre",
+    "insee": "35163",
+    "cheflieu": "Luitré",
+    "population": 1880,
+    "anciennes": [
+      {
+        "nom": "Dompierre-du-Chemin",
+        "insee": "35100"
+      },
+      {
+        "nom": "Luitré",
+        "insee": "35163"
+      }
+    ],
+    "delegue": "oui\n",
+    "arrete": "17 octobre 2018",
+    "date": "2019-01-01"
+  },
+  {
+    "nom": "Mesnil-Roc'h",
+    "insee": "35308",
+    "cheflieu": "Saint-Pierre-de-Plesguen",
+    "population": 4241,
+    "anciennes": [
+      {
+        "nom": "Lanhélin",
+        "insee": "35147"
+      },
+      {
+        "nom": "Saint-Pierre-de-Plesguen",
+        "insee": "35308"
+      },
+      {
+        "nom": "Tressé",
+        "insee": "35344"
+      }
+    ],
+    "delegue": "oui\n",
+    "arrete": "11 décembre 2018",
+    "date": "2019-01-01"
+  },
+  {
+    "nom": "Montauban-de-Bretagne",
+    "insee": "35184",
+    "cheflieu": "Montauban-de-Bretagne",
+    "population": 5652,
+    "anciennes": [
+      {
+        "nom": "Montauban-de-Bretagne",
+        "insee": "35184"
+      },
+      {
+        "nom": "Saint-M'Hervon",
+        "insee": "35301"
+      }
+    ],
+    "delegue": "oui\n",
+    "arrete": "11 décembre 2018",
+    "date": "2019-01-01"
+  },
+  {
+    "nom": "Piré-Chancé",
+    "insee": "35220",
+    "cheflieu": "Piré-sur-Seiche",
+    "population": 2825,
+    "anciennes": [
+      {
+        "nom": "Chancé",
+        "insee": "35053"
+      },
+      {
+        "nom": "Piré-sur-Seiche",
+        "insee": "35220"
+      }
+    ],
+    "delegue": "oui\n",
+    "arrete": "11 décembre 2018",
+    "date": "2019-01-01"
+  },
+  {
+    "nom": "Rives-du-Couesnon",
+    "insee": "35282",
+    "cheflieu": "Saint-Jean-sur-Couesnon",
+    "population": 2812,
+    "anciennes": [
+      {
+        "nom": "Saint-Georges-de-Chesné",
+        "insee": "35269"
+      },
+      {
+        "nom": "Saint-Jean-sur-Couesnon",
+        "insee": "35282"
+      },
+      {
+        "nom": "Saint-Marc-sur-Couesnon",
+        "insee": "35293"
+      },
+      {
+        "nom": "Vendel",
+        "insee": "35348"
+      }
+    ],
+    "delegue": "oui\n",
+    "arrete": "17 octobre 2018",
+    "date": "2019-01-01"
+  },
+  {
+    "nom": "Saint-Marc-le-Blanc",
+    "insee": "35292",
+    "cheflieu": "Saint-Marc-le-Blanc",
+    "population": 1673,
+    "anciennes": [
+      {
+        "nom": "Baillé",
+        "insee": "35011"
+      },
+      {
+        "nom": "Saint-Marc-le-Blanc",
+        "insee": "35292"
+      }
+    ],
+    "delegue": "oui\n",
+    "arrete": "17 octobre 2018",
+    "date": "2019-01-01"
+  },
+  {
+    "nom": "Val-Couesnon",
+    "insee": "35004",
+    "cheflieu": "Antrain",
+    "population": 4246,
+    "anciennes": [
+      {
+        "nom": "Antrain",
+        "insee": "35004"
+      },
+      {
+        "nom": "La Fontenelle",
+        "insee": "35113"
+      },
+      {
+        "nom": "Saint-Ouen-la-Rouërie",
+        "insee": "35303"
+      },
+      {
+        "nom": "Tremblay",
+        "insee": "35341"
+      }
+    ],
+    "delegue": "oui\n",
+    "arrete": "28 septembre 2018",
+    "date": "2019-01-01"
+  },
+  {
+    "nom": "Levroux",
+    "insee": "36093",
+    "cheflieu": "Levroux",
+    "population": 3017,
+    "anciennes": [
+      {
+        "nom": "Levroux",
+        "insee": "36093"
+      },
+      {
+        "nom": "Levroux",
+        "insee": "36P01"
+      },
+      {
+        "nom": "Saint-Martin-de-Lamps",
+        "insee": "36201"
+      },
+      {
+        "nom": "Saint-Pierre-de-Lamps",
+        "insee": "36206"
+      }
+    ],
+    "delegue": "oui (3)\n",
+    "arrete": "24 août 2018",
+    "date": "2019-01-01"
+  },
+  {
+    "nom": "Villentrois-Faverolles-en-Berry",
+    "insee": "36244",
+    "cheflieu": "Villentrois",
+    "population": 940,
+    "anciennes": [
+      {
+        "nom": "Faverolles-en-Berry",
+        "insee": "36072"
+      },
+      {
+        "nom": "Villentrois",
+        "insee": "36244"
+      }
+    ],
+    "delegue": "oui\n",
+    "arrete": "7 décembre 2018",
+    "date": "2019-01-01"
+  },
+  {
+    "nom": "Chantepérier",
+    "insee": "38073",
+    "cheflieu": "Chantelouve",
+    "population": 217,
+    "anciennes": [
+      {
+        "nom": "Chantelouve",
+        "insee": "38073"
+      },
+      {
+        "nom": "Le Périer",
+        "insee": "38302"
+      }
+    ],
+    "delegue": "oui\n",
+    "arrete": "18 décembre 2018",
+    "date": "2019-01-01"
+  },
+  {
+    "nom": "Le Haut-Bréda",
+    "insee": "38163",
+    "cheflieu": "La Ferrière",
+    "population": 409,
+    "anciennes": [
+      {
+        "nom": "La Ferrière",
+        "insee": "38163"
+      },
+      {
+        "nom": "Pinsot",
+        "insee": "38306"
+      }
+    ],
+    "delegue": "oui\n",
+    "arrete": "18 décembre 2018",
+    "date": "2019-01-01"
+  },
+  {
+    "nom": "Ornacieux-Balbins",
+    "insee": "38284",
+    "cheflieu": "Ornacieux",
+    "population": 848,
+    "anciennes": [
+      {
+        "nom": "Ornacieux",
+        "insee": "38284"
+      },
+      {
+        "nom": "Balbins",
+        "insee": "38025"
+      }
+    ],
+    "delegue": "oui\n",
+    "arrete": "26 septembre 2018",
+    "date": "2019-01-01"
+  },
+  {
+    "nom": "Plateau-des-Petites-Roches",
+    "insee": "38395",
+    "cheflieu": "Saint-Hilaire",
+    "population": 2413,
+    "anciennes": [
+      {
+        "nom": "Saint-Bernard",
+        "insee": "38367"
+      },
+      {
+        "nom": "Saint-Hilaire",
+        "insee": "38395"
+      },
+      {
+        "nom": "Saint-Pancrasse",
+        "insee": "38435"
+      }
+    ],
+    "delegue": "oui\n",
+    "arrete": "18 décembre 2018",
+    "date": "2019-01-01"
+  },
+  {
+    "nom": "Porte des Bonnevaux",
+    "insee": "38260",
+    "cheflieu": "Semons",
+    "population": 1979,
+    "anciennes": [
+      {
+        "nom": "Arzay",
+        "insee": "38016"
+      },
+      {
+        "nom": "Commelle",
+        "insee": "38121"
+      },
+      {
+        "nom": "Nantoin",
+        "insee": "38274"
+      },
+      {
+        "nom": "Semons",
+        "insee": "38479"
+      }
+    ],
+    "delegue": "oui\n",
+    "arrete": "12 novembre 2018",
+    "date": "2019-01-01"
+  },
+  {
+    "nom": "Val-de-Virieu",
+    "insee": "38560",
+    "cheflieu": "Virieu",
+    "population": 1558,
+    "anciennes": [
+      {
+        "nom": "Panissage",
+        "insee": "38293"
+      },
+      {
+        "nom": "Virieu",
+        "insee": "38560"
+      }
+    ],
+    "delegue": "oui\n",
+    "arrete": "11 octobre 2018",
+    "date": "2019-01-01"
+  },
+  {
+    "nom": "Beaufort-Orbagna",
+    "insee": "39043",
+    "cheflieu": "Beaufort",
+    "population": 1342,
+    "anciennes": [
+      {
+        "nom": "Beaufort",
+        "insee": "39043"
+      },
+      {
+        "nom": "Orbagna",
+        "insee": "39395"
+      }
+    ],
+    "delegue": "oui\n",
+    "arrete": "14 décembre 2018",
+    "date": "2019-01-01"
+  },
+  {
+    "nom": "Chassal-Molinges",
+    "insee": "39339",
+    "cheflieu": "Molinges",
+    "population": 1127,
+    "anciennes": [
+      {
+        "nom": "Chassal",
+        "insee": "39113"
+      },
+      {
+        "nom": "Molinges",
+        "insee": "39339"
+      }
+    ],
+    "delegue": "oui\n",
+    "arrete": "11 décembre 2018",
+    "date": "2019-01-01"
+  },
+  {
+    "nom": "Dampierre",
+    "insee": "39190",
+    "cheflieu": "Dampierre",
+    "population": 1255,
+    "anciennes": [
+      {
+        "nom": "Dampierre",
+        "insee": "39190"
+      },
+      {
+        "nom": "Le Petit-Mercey",
+        "insee": "39414"
+      }
+    ],
+    "delegue": "oui\n",
+    "arrete": "20 décembre 2018",
+    "date": "2019-01-01"
+  },
+  {
+    "nom": "Domblans",
+    "insee": "39199",
+    "cheflieu": "Domblans",
+    "population": 1192,
+    "anciennes": [
+      {
+        "nom": "Bréry",
+        "insee": "39075"
+      },
+      {
+        "nom": "Domblans",
+        "insee": "39199"
+      }
+    ],
+    "delegue": "oui (Bréry)\n",
+    "arrete": "12 décembre 2018",
+    "date": "2019-01-01"
+  },
+  {
+    "nom": "Grande-Rivière Château",
+    "insee": "39258",
+    "cheflieu": "Grande-Rivière",
+    "population": 634,
+    "anciennes": [
+      {
+        "nom": "Château-des-Prés",
+        "insee": "39115"
+      },
+      {
+        "nom": "Grande-Rivière",
+        "insee": "39258"
+      }
+    ],
+    "delegue": "oui\n",
+    "arrete": "13 décembre 2018",
+    "date": "2019-01-01"
+  },
+  {
+    "nom": "Lavans-lès-Saint-Claude",
+    "insee": "39286",
+    "cheflieu": "Lavans-lès-Saint-Claude",
+    "population": 2540,
+    "anciennes": [
+      {
+        "nom": "Lavans-lès-Saint-Claude",
+        "insee": "39286"
+      },
+      {
+        "nom": "Lavans-lès-Saint-Claude",
+        "insee": "39286"
+      },
+      {
+        "nom": "Ponthoux",
+        "insee": "39438"
+      },
+      {
+        "nom": "Pratz",
+        "insee": "39440"
+      }
+    ],
+    "delegue": "oui (3)\n",
+    "arrete": "16 octobre 2018",
+    "date": "2019-01-01"
+  },
+  {
+    "nom": "Les Trois Châteaux",
+    "insee": "39378",
+    "cheflieu": "Les Trois Châteaux",
+    "population": 772,
+    "anciennes": [
+      {
+        "nom": "Les Trois Châteaux",
+        "insee": "39378"
+      },
+      {
+        "nom": "Saint-Jean-d'Étreux",
+        "insee": "39484"
+      }
+    ],
+    "delegue": "oui (4)\n",
+    "arrete": "22 novembre 2018",
+    "date": "2019-01-01"
+  },
+  {
+    "nom": "Nanchez",
+    "insee": "39130",
+    "cheflieu": "Nanchez",
+    "population": 794,
+    "anciennes": [
+      {
+        "nom": "Nanchez",
+        "insee": "39130"
+      },
+      {
+        "nom": "Chaux-des-Prés",
+        "insee": "39130"
+      },
+      {
+        "nom": "Prénovel",
+        "insee": "39442"
+      },
+      {
+        "nom": "Villard-sur-Bienne",
+        "insee": "39562"
+      },
+      {
+        "nom": "Les Piards",
+        "insee": "39417"
+      }
+    ],
+    "delegue": "oui (3)\n",
+    "arrete": "27 décembre 2018",
+    "date": "2019-01-01"
+  },
+  {
+    "nom": "Saint-Hymetière-sur-Valouse",
+    "insee": "39483",
+    "cheflieu": "Chemilla",
+    "population": 433,
+    "anciennes": [
+      {
+        "nom": "Cézia",
+        "insee": "39089"
+      },
+      {
+        "nom": "Chemilla",
+        "insee": "39137"
+      },
+      {
+        "nom": "Lavans-sur-Valouse",
+        "insee": "39287"
+      },
+      {
+        "nom": "Saint-Hymetière",
+        "insee": "39483"
+      }
+    ],
+    "delegue": "non\n",
+    "arrete": "11 décembre 2018",
+    "date": "2019-01-01"
+  },
+  {
+    "nom": "Morcenx-la-Nouvelle",
+    "insee": "40197",
+    "cheflieu": "Morcenx",
+    "population": 5106,
+    "anciennes": [
+      {
+        "nom": "Morcenx",
+        "insee": "40197"
+      },
+      {
+        "nom": "Arjuzanx",
+        "insee": "40009"
+      },
+      {
+        "nom": "Garrosse",
+        "insee": "40107"
+      },
+      {
+        "nom": "Sindères",
+        "insee": "40302"
+      }
+    ],
+    "delegue": "oui (3)\n",
+    "arrete": "16 novembre 2018",
+    "date": "2019-01-01"
+  },
+  {
+    "nom": "Le Controis-en-Sologne",
+    "insee": "41059",
+    "cheflieu": "Contres",
+    "population": 6930,
+    "anciennes": [
+      {
+        "nom": "Contres",
+        "insee": "41059"
+      },
+      {
+        "nom": "Feings",
+        "insee": "41082"
+      },
+      {
+        "nom": "Fougères-sur-Bièvre",
+        "insee": "41092"
+      },
+      {
+        "nom": "Ouchamps",
+        "insee": "41170"
+      },
+      {
+        "nom": "Thenay",
+        "insee": "41257"
+      }
+    ],
+    "delegue": "oui\n",
+    "arrete": "26 novembre 2018",
+    "date": "2019-01-01"
+  },
+  {
+    "nom": "Vallée-de-Ronsard",
+    "insee": "41070",
+    "cheflieu": "Couture-sur-Loir",
+    "population": 526,
+    "anciennes": [
+      {
+        "nom": "Couture-sur-Loir",
+        "insee": "41070"
+      },
+      {
+        "nom": "Tréhet",
+        "insee": "41263"
+      }
+    ],
+    "delegue": "oui\n",
+    "arrete": "29 novembre 2018",
+    "date": "2019-01-01"
+  },
+  {
+    "nom": "Vêtre-sur-Anzon",
+    "insee": "42245",
+    "cheflieu": "Saint-Julien-la-Vêtre",
+    "population": 547,
+    "anciennes": [
+      {
+        "nom": "Saint-Thurin",
+        "insee": "42291"
+      },
+      {
+        "nom": "Saint-Julien-la-Vêtre",
+        "insee": "42245"
+      }
+    ],
+    "delegue": "oui\n",
+    "arrete": "23 octobre 2018",
+    "date": "2019-01-01"
+  },
+  {
+    "nom": "Vézelin-sur-Loire",
+    "insee": "42268",
+    "cheflieu": "Saint-Paul-de-Vézelin",
+    "population": 774,
+    "anciennes": [
+      {
+        "nom": "Amions",
+        "insee": "42004"
+      },
+      {
+        "nom": "Dancé",
+        "insee": "42082"
+      },
+      {
+        "nom": "Saint-Paul-de-Vézelin",
+        "insee": "42268"
+      }
+    ],
+    "delegue": "oui\n",
+    "arrete": "20 juin 2018",
+    "date": "2019-01-01"
+  },
+  {
+    "nom": "Ancenis-Saint-Géréon",
+    "insee": "44003",
+    "cheflieu": "Ancenis",
+    "population": 10884,
+    "anciennes": [
+      {
+        "nom": "Ancenis",
+        "insee": "44003"
+      },
+      {
+        "nom": "Saint-Géréon",
+        "insee": "44160"
+      }
+    ],
+    "delegue": "non\n",
+    "arrete": "26 septembre 2018",
+    "date": "2019-01-01"
+  },
+  {
+    "nom": "Barguelonne-en-Quercy",
+    "insee": "46263",
+    "cheflieu": "Saint-Daunès",
+    "population": 682,
+    "anciennes": [
+      {
+        "nom": "Bagat-en-Quercy",
+        "insee": "46014"
+      },
+      {
+        "nom": "Saint-Daunès",
+        "insee": "46263"
+      },
+      {
+        "nom": "Saint-Pantaléon",
+        "insee": "46285"
+      }
+    ],
+    "delegue": "oui\n",
+    "arrete": "28 septembre 2018",
+    "date": "2019-01-01"
+  },
+  {
+    "nom": "Cressensac-Sarrazac",
+    "insee": "46083",
+    "cheflieu": "Cressensac",
+    "population": 1144,
+    "anciennes": [
+      {
+        "nom": "Cressensac",
+        "insee": "46083"
+      },
+      {
+        "nom": "Sarrazac",
+        "insee": "46298"
+      }
+    ],
+    "delegue": "oui\n",
+    "arrete": "31 juillet 2018",
+    "date": "2019-01-01"
+  },
+  {
+    "nom": "Le Vignon-en-Quercy",
+    "insee": "46232",
+    "cheflieu": "Les Quatre-Routes-du-Lot",
+    "population": 1039,
+    "anciennes": [
+      {
+        "nom": "Cazillac",
+        "insee": "46067"
+      },
+      {
+        "nom": "Les Quatre-Routes-du-Lot",
+        "insee": "46232"
+      }
+    ],
+    "delegue": "\n",
+    "arrete": "14 décembre 2018",
+    "date": "2019-01-01"
+  },
+  {
+    "nom": "Porte-du-Quercy",
+    "insee": "46033",
+    "cheflieu": "Le Boulvé",
+    "population": 584,
+    "anciennes": [
+      {
+        "nom": "Fargues",
+        "insee": "46099"
+      },
+      {
+        "nom": "Le Boulvé",
+        "insee": "46033"
+      },
+      {
+        "nom": "Saint-Matré",
+        "insee": "46278"
+      },
+      {
+        "nom": "Saux",
+        "insee": "46300"
+      }
+    ],
+    "delegue": "oui\n",
+    "arrete": "28 septembre 2018",
+    "date": "2019-01-01"
+  },
+  {
+    "nom": "Bel-Air-Val-d'Ance",
+    "insee": "48038",
+    "cheflieu": "Chambon-le-Château",
+    "population": 518,
+    "anciennes": [
+      {
+        "nom": "Chambon-le-Château",
+        "insee": "48038"
+      },
+      {
+        "nom": "Saint-Symphorien",
+        "insee": "48184"
+      }
+    ],
+    "delegue": "oui\n",
+    "arrete": "28 septembre 2018",
+    "date": "2019-01-01"
+  },
+  {
+    "nom": "Lachamp-Ribennes",
+    "insee": "48126",
+    "cheflieu": "Ribennes",
+    "population": 338,
+    "anciennes": [
+      {
+        "nom": "Lachamp",
+        "insee": "48078"
+      },
+      {
+        "nom": "Ribennes",
+        "insee": "48126"
+      }
+    ],
+    "delegue": "oui\n",
+    "arrete": "28 septembre 2018",
+    "date": "2019-01-01"
+  },
+  {
+    "nom": "Monts-de-Randon",
+    "insee": "48127",
+    "cheflieu": "Rieutort-de-Randon",
+    "population": 1307,
+    "anciennes": [
+      {
+        "nom": "Estables",
+        "insee": "48057"
+      },
+      {
+        "nom": "Rieutort-de-Randon",
+        "insee": "48127"
+      },
+      {
+        "nom": "Saint-Amans",
+        "insee": "48133"
+      },
+      {
+        "nom": "La Villedieu",
+        "insee": "48197"
+      },
+      {
+        "nom": "Servières",
+        "insee": "48189"
+      }
+    ],
+    "delegue": "oui\n",
+    "arrete": "28 novembre 2018",
+    "date": "2019-01-01"
+  },
+  {
+    "nom": "Bellevigne-les-Châteaux",
+    "insee": "49060",
+    "cheflieu": "Chacé",
+    "population": 3655,
+    "anciennes": [
+      {
+        "nom": "Chacé",
+        "insee": "49060"
+      },
+      {
+        "nom": "Brézé",
+        "insee": "49046"
+      },
+      {
+        "nom": "Saint-Cyr-en-Bourg",
+        "insee": "49274"
+      }
+    ],
+    "delegue": "oui\n",
+    "arrete": "20 septembre 2018",
+    "date": "2019-01-01"
+  },
+  {
+    "nom": "Huillé-Lézigné",
+    "insee": "49174",
+    "cheflieu": "Lézigné",
+    "population": 1321,
+    "anciennes": [
+      {
+        "nom": "Huillé",
+        "insee": "49159"
+      },
+      {
+        "nom": "Lézigné",
+        "insee": "49174"
+      }
+    ],
+    "delegue": "oui\n",
+    "arrete": "5 décembre 2018",
+    "date": "2019-01-01"
+  },
+  {
+    "nom": "Les Hauts-d'Anjou",
+    "insee": "49080",
+    "cheflieu": "Châteauneuf-sur-Sarthe",
+    "population": 8703,
+    "anciennes": [
+      {
+        "nom": "Châteauneuf-sur-Sarthe",
+        "insee": "49080"
+      },
+      {
+        "nom": "Les Hauts-d'Anjou",
+        "insee": "49065"
+      }
+    ],
+    "delegue": "oui (8)\n",
+    "arrete": "23 novembre 2018",
+    "date": "2019-01-01"
+  },
+  {
+    "nom": "Rives-du-Loir-en-Anjou",
+    "insee": "49377",
+    "cheflieu": "Villevêque",
+    "population": 5451,
+    "anciennes": [
+      {
+        "nom": "Soucelles",
+        "insee": "49337"
+      },
+      {
+        "nom": "Villevêque",
+        "insee": "49377"
+      }
+    ],
+    "delegue": "oui\n",
+    "arrete": "8 novembre 2018",
+    "date": "2019-01-01"
+  },
+  {
+    "nom": "Saint-Léger-de-Linières",
+    "insee": "49298",
+    "cheflieu": "Saint-Léger-des-Bois",
+    "population": 3550,
+    "anciennes": [
+      {
+        "nom": "Saint-Jean-de-Linières",
+        "insee": "49289"
+      },
+      {
+        "nom": "Saint-Léger-des-Bois",
+        "insee": "49298"
+      }
+    ],
+    "delegue": "oui\n",
+    "arrete": "20 septembre 2018",
+    "date": "2019-01-01"
+  },
+  {
+    "nom": "Avranches",
+    "insee": "50025",
+    "cheflieu": "Avranches",
+    "population": 10191,
+    "anciennes": [
+      {
+        "nom": "Avranches",
+        "insee": "50025"
+      },
+      {
+        "nom": "Saint-Martin-des-Champs",
+        "insee": "50516"
+      }
+    ],
+    "delegue": "oui (Saint-Martin-des-Champs)\n",
+    "arrete": "19 octobre 2018",
+    "date": "2019-01-01"
+  },
+  {
+    "nom": "Bourgvallées",
+    "insee": "50546",
+    "cheflieu": "Bourgvallées",
+    "population": 3181,
+    "anciennes": [
+      {
+        "nom": "Bourgvallées",
+        "insee": "50546"
+      },
+      {
+        "nom": "Gourfaleur",
+        "insee": "50213"
+      },
+      {
+        "nom": "La Mancellière-sur-Vire",
+        "insee": "50287"
+      },
+      {
+        "nom": "Saint-Romphaire",
+        "insee": "50545"
+      },
+      {
+        "nom": "Saint-Samson-de-Bonfossé",
+        "insee": "50546"
+      },
+      {
+        "nom": "Le Mesnil-Herman",
+        "insee": "50313"
+      },
+      {
+        "nom": "Soulles",
+        "insee": "50581"
+      }
+    ],
+    "delegue": "oui (6)\n",
+    "arrete": "14 décembre 2018",
+    "date": "2019-01-01"
+  },
+  {
+    "nom": "Carentan-les-Marais",
+    "insee": "50099",
+    "cheflieu": "Carentan",
+    "population": 10217,
+    "anciennes": [
+      {
+        "nom": "Brucheville",
+        "insee": "50089"
+      },
+      {
+        "nom": "Carentan les Marais",
+        "insee": "50099"
+      },
+      {
+        "nom": "Carentan",
+        "insee": "50099"
+      },
+      {
+        "nom": "Houesville",
+        "insee": "50249"
+      },
+      {
+        "nom": "Saint-Côme-du-Mont",
+        "insee": "50458"
+      },
+      {
+        "nom": "Angoville-au-Plain",
+        "insee": "50010"
+      },
+      {
+        "nom": "Carentan les Marais",
+        "insee": "50099"
+      },
+      {
+        "nom": "Brévands",
+        "insee": "50080"
+      },
+      {
+        "nom": "Veys",
+        "insee": "50631"
+      },
+      {
+        "nom": "Saint-Pellerin",
+        "insee": "50534"
+      },
+      {
+        "nom": "Catz",
+        "insee": "50107"
+      },
+      {
+        "nom": "Montmartin-en-Graignes",
+        "insee": "50348"
+      },
+      {
+        "nom": "Saint-Hilaire-Petitville",
+        "insee": "50485"
+      },
+      {
+        "nom": "Vierville",
+        "insee": "50636"
+      }
+    ],
+    "delegue": "oui (12)\n",
+    "arrete": "6 décembre 2018",
+    "date": "2019-01-01"
+  },
+  {
+    "nom": "Gavray-sur-Sienne",
+    "insee": "50197",
+    "cheflieu": "Gavray",
+    "population": 1993,
+    "anciennes": [
+      {
+        "nom": "Gavray",
+        "insee": "50197"
+      },
+      {
+        "nom": "Le Mesnil-Amand",
+        "insee": "50301"
+      },
+      {
+        "nom": "Le Mesnil-Rogues",
+        "insee": "50320"
+      },
+      {
+        "nom": "Sourdeval-les-Bois",
+        "insee": "50583"
+      }
+    ],
+    "delegue": "oui\n",
+    "arrete": "12 décembre 2018",
+    "date": "2019-01-01"
+  },
+  {
+    "nom": "Gouville-sur-Mer",
+    "insee": "50215",
+    "cheflieu": "Gouville-sur-Mer",
+    "population": 3113,
+    "anciennes": [
+      {
+        "nom": "Anneville-sur-Mer",
+        "insee": "50014"
+      },
+      {
+        "nom": "Gouville-sur-Mer",
+        "insee": "50215"
+      },
+      {
+        "nom": "Boisroger",
+        "insee": "50061"
+      },
+      {
+        "nom": "Gouville-sur-Mer",
+        "insee": "50P09"
+      },
+      {
+        "nom": "Montsurvent",
+        "insee": "50354"
+      },
+      {
+        "nom": "Servigny",
+        "insee": "50573"
+      }
+    ],
+    "delegue": "oui (5)\n",
+    "arrete": "3 décembre 2018",
+    "date": "2019-01-01"
+  },
+  {
+    "nom": "Port-Bail-sur-Mer",
+    "insee": "50412",
+    "cheflieu": "Portbail",
+    "population": 2689,
+    "anciennes": [
+      {
+        "nom": "Denneville",
+        "insee": "50160"
+      },
+      {
+        "nom": "Portbail",
+        "insee": "50412"
+      },
+      {
+        "nom": "Saint-Lô-d'Ourville",
+        "insee": "50503"
+      }
+    ],
+    "delegue": "oui\n",
+    "arrete": "20 décembre 2018",
+    "date": "2019-01-01"
+  },
+  {
+    "nom": "Quettehou",
+    "insee": "50417",
+    "cheflieu": "Quettehou",
+    "population": 1785,
+    "anciennes": [
+      {
+        "nom": "Morsalines",
+        "insee": "50358"
+      },
+      {
+        "nom": "Quettehou",
+        "insee": "50417"
+      }
+    ],
+    "delegue": "oui\n",
+    "arrete": "20 décembre 2018",
+    "date": "2019-01-01"
+  },
+  {
+    "nom": "Quettreville-sur-Sienne",
+    "insee": "50419",
+    "cheflieu": "Quettreville-sur-Sienne",
+    "population": 3199,
+    "anciennes": [
+      {
+        "nom": "Contrières",
+        "insee": "50140"
+      },
+      {
+        "nom": "Guéhébert",
+        "insee": "50223"
+      },
+      {
+        "nom": "Hérenguerville",
+        "insee": "50244"
+      },
+      {
+        "nom": "Quettreville-sur-Sienne",
+        "insee": "50419"
+      },
+      {
+        "nom": "Quettreville-sur-Sienne",
+        "insee": "50P22"
+      },
+      {
+        "nom": "Hyenville",
+        "insee": "50255"
+      },
+      {
+        "nom": "Trelly",
+        "insee": "50605"
+      }
+    ],
+    "delegue": "oui (6)\n",
+    "arrete": "11 septembre 2018",
+    "date": "2019-01-01"
+  },
+  {
+    "nom": "Saint-Sauveur-Villages",
+    "insee": "50550",
+    "cheflieu": "Saint-Sauveur-Lendelin",
+    "population": 3529,
+    "anciennes": [
+      {
+        "nom": "Ancteville",
+        "insee": "50007"
+      },
+      {
+        "nom": "La Ronde-Haye",
+        "insee": "50438"
+      },
+      {
+        "nom": "Le Mesnilbus",
+        "insee": "50308"
+      },
+      {
+        "nom": "Saint-Aubin-du-Perron",
+        "insee": "50449"
+      },
+      {
+        "nom": "Saint-Michel-de-la-Pierre",
+        "insee": "50524"
+      },
+      {
+        "nom": "Saint-Sauveur-Lendelin",
+        "insee": "50550"
+      },
+      {
+        "nom": "Vaudrimesnil",
+        "insee": "50622"
+      }
+    ],
+    "delegue": "oui\n",
+    "arrete": "26 décembre 2018",
+    "date": "2019-01-01"
+  },
+  {
+    "nom": "Sainte-Mère-Église",
+    "insee": "50523",
+    "cheflieu": "Sainte-Mère-Église (commune déléguée)",
+    "population": 3141,
+    "anciennes": [
+      {
+        "nom": "Carquebut",
+        "insee": "50103"
+      },
+      {
+        "nom": "Ravenoville",
+        "insee": "50427"
+      },
+      {
+        "nom": "Sainte-Mère-Église",
+        "insee": "50523"
+      },
+      {
+        "nom": "Beuzeville-au-Plain",
+        "insee": "50051"
+      },
+      {
+        "nom": "Chef-du-Pont",
+        "insee": "50127"
+      },
+      {
+        "nom": "Écoquenéauville",
+        "insee": "50170"
+      },
+      {
+        "nom": "Foucarville",
+        "insee": "50191"
+      },
+      {
+        "nom": "Sainte-Mère-Église (commune déléguée)",
+        "insee": "50P26"
+      }
+    ],
+    "delegue": "oui (7)\n",
+    "arrete": "27 décembre 2018",
+    "date": "2019-01-01"
+  },
+  {
+    "nom": "Tirepied-sur-Sée",
+    "insee": "50597",
+    "cheflieu": "Tirepied",
+    "population": 920,
+    "anciennes": [
+      {
+        "nom": "La Gohannière",
+        "insee": "50206"
+      },
+      {
+        "nom": "Tirepied",
+        "insee": "50597"
+      }
+    ],
+    "delegue": "non\n",
+    "arrete": "27 septembre 2018",
+    "date": "2019-01-01"
+  },
+  {
+    "nom": "Bourmont-entre-Meuse-et-Mouzon",
+    "insee": "52064",
+    "cheflieu": "Bourmont",
+    "population": 857,
+    "anciennes": [
+      {
+        "nom": "Bourmont-entre-Meuse-et-Mouzon",
+        "insee": "52064"
+      },
+      {
+        "nom": "Bourmont",
+        "insee": "52064"
+      },
+      {
+        "nom": "Nijon",
+        "insee": "52351"
+      },
+      {
+        "nom": "Goncourt",
+        "insee": "52225"
+      }
+    ],
+    "delegue": "oui (3)\n",
+    "arrete": "18 septembre 2018",
+    "date": "2019-01-01"
+  },
+  {
+    "nom": "Bierné-les-Villages",
+    "insee": "53029",
+    "cheflieu": "Bierné",
+    "population": 1264,
+    "anciennes": [
+      {
+        "nom": "Argenton-Notre-Dame",
+        "insee": "53006"
+      },
+      {
+        "nom": "Bierné",
+        "insee": "53029"
+      },
+      {
+        "nom": "Saint-Laurent-des-Mortiers",
+        "insee": "53231"
+      },
+      {
+        "nom": "Saint-Michel-de-Feins",
+        "insee": "53241"
+      }
+    ],
+    "delegue": "oui\n",
+    "arrete": "14 novembre 2018",
+    "date": "2019-01-01"
+  },
+  {
+    "nom": "Château-Gontier-sur-Mayenne",
+    "insee": "53062",
+    "cheflieu": "Château-Gontier",
+    "population": 16157,
+    "anciennes": [
+      {
+        "nom": "Azé",
+        "insee": "53014"
+      },
+      {
+        "nom": "Château-Gontier",
+        "insee": "53062"
+      },
+      {
+        "nom": "Saint-Fort",
+        "insee": "53215"
+      }
+    ],
+    "delegue": "oui\n",
+    "arrete": "14 novembre 2018",
+    "date": "2019-01-01"
+  },
+  {
+    "nom": "Évron",
+    "insee": "53097",
+    "cheflieu": "Évron",
+    "population": 8846,
+    "anciennes": [
+      {
+        "nom": "Châtres-la-Forêt",
+        "insee": "53065"
+      },
+      {
+        "nom": "Évron",
+        "insee": "53097"
+      },
+      {
+        "nom": "Saint-Christophe-du-Luat",
+        "insee": "53207"
+      }
+    ],
+    "delegue": "oui\n",
+    "arrete": "14 novembre 2018",
+    "date": "2019-01-01"
+  },
+  {
+    "nom": "Gennes-Longuefuye",
+    "insee": "53104",
+    "cheflieu": "Gennes-sur-Glaize",
+    "population": 1323,
+    "anciennes": [
+      {
+        "nom": "Gennes-sur-Glaize",
+        "insee": "53104"
+      },
+      {
+        "nom": "Longuefuye",
+        "insee": "53138"
+      }
+    ],
+    "delegue": "oui\n",
+    "arrete": "14 novembre 2018",
+    "date": "2019-01-01"
+  },
+  {
+    "nom": "Montsûrs",
+    "insee": "53161",
+    "cheflieu": "Montsûrs",
+    "population": 3314,
+    "anciennes": [
+      {
+        "nom": "Montsûrs-Saint-Céneré",
+        "insee": "53161"
+      },
+      {
+        "nom": "Deux-Évailles",
+        "insee": "53092"
+      },
+      {
+        "nom": "Montourtier",
+        "insee": "53159"
+      },
+      {
+        "nom": "Saint-Ouën-des-Vallons",
+        "insee": "53244"
+      }
+    ],
+    "delegue": "oui (5)\n",
+    "arrete": "12 décembre 2018",
+    "date": "2019-01-01"
+  },
+  {
+    "nom": "La Roche-Neuville",
+    "insee": "53136",
+    "cheflieu": "Loigné-sur-Mayenne",
+    "population": 1165,
+    "anciennes": [
+      {
+        "nom": "Loigné-sur-Mayenne",
+        "insee": "53136"
+      },
+      {
+        "nom": "Saint-Sulpice",
+        "insee": "53254"
+      }
+    ],
+    "delegue": "oui\n",
+    "arrete": "14 novembre 2018",
+    "date": "2019-01-01"
+  },
+  {
+    "nom": "Bois-de-Haye",
+    "insee": "54557",
+    "cheflieu": "Velaine-en-Haye",
+    "population": 2183,
+    "anciennes": [
+      {
+        "nom": "Velaine-en-Haye",
+        "insee": "54557"
+      },
+      {
+        "nom": "Sexey-les-Bois",
+        "insee": "54506"
+      }
+    ],
+    "delegue": "oui\n",
+    "arrete": "2 novembre 2018",
+    "date": "2019-01-01"
+  },
+  {
+    "nom": "Douaumont-Vaux",
+    "insee": "55537",
+    "cheflieu": "Vaux-devant-Damloup",
+    "population": 82,
+    "anciennes": [
+      {
+        "nom": "Douaumont",
+        "insee": "55164"
+      },
+      {
+        "nom": "Vaux-devant-Damloup",
+        "insee": "55537"
+      }
+    ],
+    "delegue": "oui\n",
+    "arrete": "19 décembre 2018",
+    "date": "2019-01-01"
+  },
+  {
+    "nom": "Demange-Baudignécourt",
+    "insee": "55150",
+    "cheflieu": "Demange-aux-Eaux",
+    "population": 574,
+    "anciennes": [
+      {
+        "nom": "Demange-aux-Eaux",
+        "insee": "55150"
+      },
+      {
+        "nom": "Baudignécourt",
+        "insee": "55030"
+      }
+    ],
+    "delegue": "oui (1)\n",
+    "arrete": "19 décembre 2018",
+    "date": "2019-01-01"
+  },
+  {
+    "nom": "Forges de Lanouée",
+    "insee": "56102",
+    "cheflieu": "Lanouée",
+    "population": 2230,
+    "anciennes": [
+      {
+        "nom": "Les Forges",
+        "insee": "56059"
+      },
+      {
+        "nom": "Lanouée",
+        "insee": "56102"
+      }
+    ],
+    "delegue": "oui\n",
+    "arrete": "27 décembre 2018",
+    "date": "2019-01-01"
+  },
+  {
+    "nom": "Ploërmel",
+    "insee": "56165",
+    "cheflieu": "Ploërmel",
+    "population": 9962,
+    "anciennes": [
+      {
+        "nom": "Ploërmel",
+        "insee": "56165"
+      },
+      {
+        "nom": "Monterrein",
+        "insee": "56138"
+      }
+    ],
+    "delegue": "oui (1)\n",
+    "arrete": "21 décembre 2018",
+    "date": "2019-01-01"
+  },
+  {
+    "nom": "Pluméliau-Bieuzy",
+    "insee": "56173",
+    "cheflieu": "Pluméliau",
+    "population": 4415,
+    "anciennes": [
+      {
+        "nom": "Bieuzy",
+        "insee": "56016"
+      },
+      {
+        "nom": "Pluméliau",
+        "insee": "56173"
+      }
+    ],
+    "delegue": "oui (1)\n",
+    "arrete": "28 novembre 2018",
+    "date": "2019-01-01"
+  },
+  {
+    "nom": "Manderen-Ritzing",
+    "insee": "57480",
+    "cheflieu": "Manderen",
+    "population": 589,
+    "anciennes": [
+      {
+        "nom": "Manderen",
+        "insee": "57439"
+      },
+      {
+        "nom": "Ritzing",
+        "insee": "57585"
+      }
+    ],
+    "delegue": "oui\n",
+    "arrete": "20 novembre 2018",
+    "date": "2019-01-01"
+  },
+  {
+    "nom": "Rezonville-Vionville",
+    "insee": "57578",
+    "cheflieu": "Rezonville",
+    "population": 508,
+    "anciennes": [
+      {
+        "nom": "Rezonville",
+        "insee": "57578"
+      },
+      {
+        "nom": "Vionville",
+        "insee": "57722"
+      }
+    ],
+    "delegue": "oui\n",
+    "arrete": "30 novembre 2018",
+    "date": "2019-01-01"
+  },
+  {
+    "nom": "La Corne en Vexin",
+    "insee": "60209",
+    "cheflieu": "Énencourt-le-Sec",
+    "population": 531,
+    "anciennes": [
+      {
+        "nom": "Boissy-le-Bois",
+        "insee": "60080"
+      },
+      {
+        "nom": "Énencourt-le-Sec",
+        "insee": "60209"
+      },
+      {
+        "nom": "Hardivillers-en-Vexin",
+        "insee": "60300"
+      }
+    ],
+    "delegue": "oui\n",
+    "arrete": "28 septembre 2018",
+    "date": "2019-01-01"
+  },
+  {
+    "nom": "Formerie",
+    "insee": "60245",
+    "cheflieu": "Formerie",
+    "population": 2162,
+    "anciennes": [
+      {
+        "nom": "Formerie",
+        "insee": "60245"
+      },
+      {
+        "nom": "Boutavent",
+        "insee": "60096"
+      }
+    ],
+    "delegue": "oui\n",
+    "arrete": "28 septembre 2018",
+    "date": "2019-01-01"
+  },
+  {
+    "nom": "Les Hauts Talican",
+    "insee": "60054",
+    "cheflieu": "Beaumont-les-Nonains",
+    "population": 887,
+    "anciennes": [
+      {
+        "nom": "Beaumont-les-Nonains",
+        "insee": "60054"
+      },
+      {
+        "nom": "La Neuville-Garnier",
+        "insee": "60455"
+      },
+      {
+        "nom": "Villotran",
+        "insee": "60694"
+      }
+    ],
+    "delegue": "oui\n",
+    "arrete": "28 septembre 2018",
+    "date": "2019-01-01"
+  },
+  {
+    "nom": "Montchevreuil",
+    "insee": "60256",
+    "cheflieu": "Fresneaux-Montchevreuil",
+    "population": 1248,
+    "anciennes": [
+      {
+        "nom": "Bachivillers",
+        "insee": "60038"
+      },
+      {
+        "nom": "Fresneaux-Montchevreuil",
+        "insee": "60256"
+      }
+    ],
+    "delegue": "oui\n",
+    "arrete": "26 décembre 2018",
+    "date": "2019-01-01"
+  },
+  {
+    "nom": "Villers-Saint-Frambourg-Ognon",
+    "insee": "60682",
+    "cheflieu": "Villers-Saint-Frambourg",
+    "population": 714,
+    "anciennes": [
+      {
+        "nom": "Villers-Saint-Frambourg",
+        "insee": "60682"
+      },
+      {
+        "nom": "Ognon",
+        "insee": "60475"
+      }
+    ],
+    "delegue": "oui\n",
+    "arrete": "28 septembre 2018",
+    "date": "2019-01-01"
+  },
+  {
+    "nom": "Mortrée",
+    "insee": "61294",
+    "cheflieu": "Mortrée",
+    "population": 1213,
+    "anciennes": [
+      {
+        "nom": "Mortrée",
+        "insee": "61294"
+      },
+      {
+        "nom": "Saint-Hilaire-la-Gérard",
+        "insee": "61403"
+      }
+    ],
+    "delegue": "oui\n",
+    "arrete": "28 octobre 2018",
+    "date": "2019-01-01"
+  },
+  {
+    "nom": "L'Orée-d'Écouves",
+    "insee": "61228",
+    "cheflieu": "Livaie",
+    "population": 710,
+    "anciennes": [
+      {
+        "nom": "Fontenai-les-Louvets",
+        "insee": "61172"
+      },
+      {
+        "nom": "Livaie",
+        "insee": "61228"
+      },
+      {
+        "nom": "Longuenoë",
+        "insee": "61231"
+      },
+      {
+        "nom": "Saint-Didier-sous-Écouves",
+        "insee": "61383"
+      }
+    ],
+    "delegue": "oui\n",
+    "arrete": "10 juillet 2018",
+    "date": "2019-01-01"
+  },
+  {
+    "nom": "Bonnières",
+    "insee": "62154",
+    "cheflieu": "Bonnières",
+    "population": 683,
+    "anciennes": [
+      {
+        "nom": "Bonnières",
+        "insee": "62154"
+      },
+      {
+        "nom": "Canteleux",
+        "insee": "62210"
+      }
+    ],
+    "delegue": "non\n",
+    "arrete": "25 septembre 2018",
+    "date": "2019-01-01"
+  },
+  {
+    "nom": "Mur-sur-Allier",
+    "insee": "63226",
+    "cheflieu": "Mezel",
+    "population": 3392,
+    "anciennes": [
+      {
+        "nom": "Mezel",
+        "insee": "63226"
+      },
+      {
+        "nom": "Dallet",
+        "insee": "63133"
+      }
+    ],
+    "delegue": "oui\n",
+    "arrete": "26 octobre 2018",
+    "date": "2019-01-01"
+  },
+  {
+    "nom": "Saint-Diéry",
+    "insee": "63335",
+    "cheflieu": "Saint-Diéry",
+    "population": 466,
+    "anciennes": [
+      {
+        "nom": "Creste",
+        "insee": "63127"
+      },
+      {
+        "nom": "Saint-Diéry",
+        "insee": "63335"
+      }
+    ],
+    "delegue": "non\n",
+    "arrete": "7 décembre 2018",
+    "date": "2019-01-01"
+  },
+  {
+    "nom": "Le Vernet-Chaméane",
+    "insee": "63448",
+    "cheflieu": "Le Vernet-la-Varenne",
+    "population": 915,
+    "anciennes": [
+      {
+        "nom": "Chaméane",
+        "insee": "63078"
+      },
+      {
+        "nom": "Le Vernet-la-Varenne",
+        "insee": "63448"
+      }
+    ],
+    "delegue": "oui\n",
+    "arrete": "23 novembre 2018",
+    "date": "2019-01-01"
+  },
+  {
+    "nom": "Rountzenheim-Auenheim",
+    "insee": "67418",
+    "cheflieu": "Rountzenheim",
+    "population": 1967,
+    "anciennes": [
+      {
+        "nom": "Auenheim",
+        "insee": "67014"
+      },
+      {
+        "nom": "Rountzenheim",
+        "insee": "67418"
+      }
+    ],
+    "delegue": "oui\n",
+    "arrete": "17 septembre 2018",
+    "date": "2019-01-01"
+  },
+  {
+    "nom": "Belleville-en-Beaujolais",
+    "insee": "69019",
+    "cheflieu": "Belleville",
+    "population": 12588,
+    "anciennes": [
+      {
+        "nom": "Belleville",
+        "insee": "69019"
+      },
+      {
+        "nom": "Saint-Jean-d'Ardières",
+        "insee": "69211"
+      }
+    ],
+    "delegue": "oui\n",
+    "arrete": "2 novembre 2018",
+    "date": null
+  },
+  {
+    "nom": "Deux-Grosnes",
+    "insee": "69135",
+    "cheflieu": "Monsols",
+    "population": 1897,
+    "anciennes": [
+      {
+        "nom": "Avenas",
+        "insee": "69015"
+      },
+      {
+        "nom": "Monsols",
+        "insee": "69135"
+      },
+      {
+        "nom": "Ouroux",
+        "insee": "69150"
+      },
+      {
+        "nom": "Saint-Christophe",
+        "insee": "69185"
+      },
+      {
+        "nom": "Saint-Jacques-des-Arrêts",
+        "insee": "69210"
+      },
+      {
+        "nom": "Saint-Mamert",
+        "insee": "69224"
+      },
+      {
+        "nom": "Trades",
+        "insee": "69251"
+      }
+    ],
+    "delegue": "oui\n",
+    "arrete": "29 octobre 2018",
+    "date": null
+  },
+  {
+    "nom": "Porte des Pierres Dorées",
+    "insee": "69159",
+    "cheflieu": "Pouilly-le-Monial",
+    "population": 3657,
+    "anciennes": [
+      {
+        "nom": "Jarnioux",
+        "insee": "69101"
+      },
+      {
+        "nom": "Porte des Pierres Dorées",
+        "insee": "69159"
+      },
+      {
+        "nom": "Liergues",
+        "insee": "69114"
+      },
+      {
+        "nom": "Pouilly-le-Monial",
+        "insee": "69159"
+      }
+    ],
+    "delegue": "oui (3)\n",
+    "arrete": "28 septembre 2018",
+    "date": "2019-01-01"
+  },
+  {
+    "nom": "Vindry-sur-Turdine",
+    "insee": "69157",
+    "cheflieu": "Pontcharra-sur-Turdine",
+    "population": 4994,
+    "anciennes": [
+      {
+        "nom": "Dareizé",
+        "insee": "69073"
+      },
+      {
+        "nom": "Les Olmes",
+        "insee": "69147"
+      },
+      {
+        "nom": "Pontcharra-sur-Turdine",
+        "insee": "69157"
+      },
+      {
+        "nom": "Saint-Loup",
+        "insee": "69223"
+      }
+    ],
+    "delegue": "oui\n",
+    "arrete": "19 décembre 2018",
+    "date": "2019-01-01"
+  },
+  {
+    "nom": "Fougerolles-Saint-Valbert",
+    "insee": "70245",
+    "cheflieu": "Fougerolles",
+    "population": 3915,
+    "anciennes": [
+      {
+        "nom": "Fougerolles",
+        "insee": "70245"
+      },
+      {
+        "nom": "Saint-Valbert",
+        "insee": "70475"
+      }
+    ],
+    "delegue": "oui (Saint-Valbert)\n",
+    "arrete": "25 septembre 2018",
+    "date": "2019-01-01"
+  },
+  {
+    "nom": "Héricourt",
+    "insee": "70285",
+    "cheflieu": "Héricourt",
+    "population": 10641,
+    "anciennes": [
+      {
+        "nom": "Héricourt",
+        "insee": "70285"
+      },
+      {
+        "nom": "Tavey",
+        "insee": "70497"
+      }
+    ],
+    "delegue": null,
+    "arrete": "19 octobre 2018",
+    "date": "2019-01-01"
+  },
+  {
+    "nom": "Seveux-Motey",
+    "insee": "70491",
+    "cheflieu": "Seveux",
+    "population": 479,
+    "anciennes": [
+      {
+        "nom": "Seveux",
+        "insee": "70491"
+      },
+      {
+        "nom": "Motey-sur-Saône",
+        "insee": "70375"
+      }
+    ],
+    "delegue": "\n",
+    "arrete": "19 décembre 2018",
+    "date": "2019-01-01"
+  },
+  {
+    "nom": "Navour-sur-Grosne",
+    "insee": "71134",
+    "cheflieu": "Clermain",
+    "population": 635,
+    "anciennes": [
+      {
+        "nom": "Brandon",
+        "insee": "71055"
+      },
+      {
+        "nom": "Clermain",
+        "insee": "71134"
+      },
+      {
+        "nom": "Montagny-sur-Grosne",
+        "insee": "71304"
+      }
+    ],
+    "delegue": "oui\n",
+    "arrete": "13 novembre 2018",
+    "date": "2019-01-01"
+  },
+  {
+    "nom": "Bernay-Neuvy-en-Champagne",
+    "insee": "72219",
+    "cheflieu": "Neuvy-en-Champagne",
+    "population": 867,
+    "anciennes": [
+      {
+        "nom": "Bernay-en-Champagne",
+        "insee": "72033"
+      },
+      {
+        "nom": "Neuvy-en-Champagne",
+        "insee": "72219"
+      }
+    ],
+    "delegue": "non\n",
+    "arrete": "26 septembre 2018",
+    "date": "2019-01-01"
+  },
+  {
+    "nom": "Cherré-Au",
+    "insee": "72080",
+    "cheflieu": "Cherré",
+    "population": 2669,
+    "anciennes": [
+      {
+        "nom": "Cherré",
+        "insee": "72080"
+      },
+      {
+        "nom": "Cherreau",
+        "insee": "72081"
+      }
+    ],
+    "delegue": "oui\n",
+    "arrete": "13 septembre 2018",
+    "date": "2019-01-01"
+  },
+  {
+    "nom": "Marolles-les-Braults",
+    "insee": "72189",
+    "cheflieu": "Marolles-les-Braults",
+    "population": 2207,
+    "anciennes": [
+      {
+        "nom": "Marolles-les-Braults",
+        "insee": "72189"
+      },
+      {
+        "nom": "Dissé-sous-Ballon",
+        "insee": "72116"
+      }
+    ],
+    "delegue": "oui\n",
+    "arrete": "18 septembre 2018",
+    "date": "2019-01-01"
+  },
+  {
+    "nom": "Val d'Étangson",
+    "insee": "72128",
+    "cheflieu": "Évaillé",
+    "population": 525,
+    "anciennes": [
+      {
+        "nom": "Évaillé",
+        "insee": "72128"
+      },
+      {
+        "nom": "Sainte-Osmane",
+        "insee": "72304"
+      }
+    ],
+    "delegue": "oui\n",
+    "arrete": "13 septembre 2018",
+    "date": "2019-01-01"
+  },
+  {
+    "nom": "Les Belleville",
+    "insee": "73257",
+    "cheflieu": "Saint-Martin-de-Belleville",
+    "population": 3510,
+    "anciennes": [
+      {
+        "nom": "Les Belleville",
+        "insee": "73257"
+      },
+      {
+        "nom": "Saint-Martin-de-Belleville",
+        "insee": "73257"
+      },
+      {
+        "nom": "Villarlurin",
+        "insee": "73321"
+      },
+      {
+        "nom": "Saint-Jean-de-Belleville",
+        "insee": "73244"
+      }
+    ],
+    "delegue": "oui (3)\n",
+    "arrete": "28 septembre 2018",
+    "date": "2019-01-01"
+  },
+  {
+    "nom": "Grand-Aigueblanche",
+    "insee": "73003",
+    "cheflieu": "Aigueblanche",
+    "population": 3783,
+    "anciennes": [
+      {
+        "nom": "Aigueblanche",
+        "insee": "73003"
+      },
+      {
+        "nom": "Le Bois",
+        "insee": "73045"
+      },
+      {
+        "nom": "Saint-Oyen",
+        "insee": "73266"
+      }
+    ],
+    "delegue": "oui\n",
+    "arrete": "7 novembre 2018",
+    "date": "2019-01-01"
+  },
+  {
+    "nom": "Porte-de-Savoie",
+    "insee": "73151",
+    "cheflieu": "Les Marches",
+    "population": 3568,
+    "anciennes": [
+      {
+        "nom": "Les Marches",
+        "insee": "73151"
+      },
+      {
+        "nom": "Francin",
+        "insee": "73118"
+      }
+    ],
+    "delegue": "oui\n",
+    "arrete": "26 septembre 2018",
+    "date": "2019-01-01"
+  },
+  {
+    "nom": "Saint-Genix-les-Villages",
+    "insee": "73236",
+    "cheflieu": "Saint-Genix-sur-Guiers",
+    "population": 2985,
+    "anciennes": [
+      {
+        "nom": "Saint-Genix-sur-Guiers",
+        "insee": "73236"
+      },
+      {
+        "nom": "Gresin",
+        "insee": "73127"
+      },
+      {
+        "nom": "Saint-Maurice-de-Rotherens",
+        "insee": "73260"
+      }
+    ],
+    "delegue": "oui\n",
+    "arrete": "23 octobre 2018",
+    "date": "2019-01-01"
+  },
+  {
+    "nom": "La Tour-en-Maurienne",
+    "insee": "73135",
+    "cheflieu": "Hermillon",
+    "population": 1079,
+    "anciennes": [
+      {
+        "nom": "Pontamafrey-Montpascal",
+        "insee": "73203"
+      },
+      {
+        "nom": "Hermillon",
+        "insee": "73135"
+      },
+      {
+        "nom": "Le Châtel",
+        "insee": "73080"
+      }
+    ],
+    "delegue": "oui\n",
+    "arrete": "31 octobre 2018",
+    "date": "2019-01-01"
+  },
+  {
+    "nom": "La Léchère",
+    "insee": "73260",
+    "cheflieu": "La Léchère",
+    "population": 2502,
+    "anciennes": [
+      {
+        "nom": "La Léchère",
+        "insee": "73187"
+      },
+      {
+        "nom": "Feissons-sur-Isère",
+        "insee": "73112"
+      },
+      {
+        "nom": "Bonneval",
+        "insee": "73046"
+      }
+    ],
+    "delegue": "oui (8)\n",
+    "arrete": "15 novembre 2018",
+    "date": "2019-01-01"
+  },
+  {
+    "nom": "Val-d'Arc",
+    "insee": "73212",
+    "cheflieu": "Randens",
+    "population": 1982,
+    "anciennes": [
+      {
+        "nom": "Aiguebelle",
+        "insee": "73002"
+      },
+      {
+        "nom": "Randens",
+        "insee": "73212"
+      }
+    ],
+    "delegue": "oui\n",
+    "arrete": "17 décembre 2018",
+    "date": "2019-01-01"
+  },
+  {
+    "nom": "Valgelon-La Rochette",
+    "insee": "73215",
+    "cheflieu": "La Rochette",
+    "population": 4082,
+    "anciennes": [
+      {
+        "nom": "Étable",
+        "insee": "73111"
+      },
+      {
+        "nom": "La Rochette",
+        "insee": "73215"
+      }
+    ],
+    "delegue": "oui\n",
+    "arrete": "20 décembre 2018",
+    "date": "2019-01-01"
+  },
+  {
+    "nom": "Glières-Val-de-Borne",
+    "insee": "74212",
+    "cheflieu": "Le Petit-Bornand-les-Glières",
+    "population": 1782,
+    "anciennes": [
+      {
+        "nom": "Entremont",
+        "insee": "74110"
+      },
+      {
+        "nom": "Le Petit-Bornand-les-Glières",
+        "insee": "74212"
+      }
+    ],
+    "delegue": "non\n",
+    "arrete": "27 juin 2018",
+    "date": "2019-01-01"
+  },
+  {
+    "nom": "Vallières-sur-Fier",
+    "insee": "74289",
+    "cheflieu": "Vallières",
+    "population": 2447,
+    "anciennes": [
+      {
+        "nom": "Val-de-Fier",
+        "insee": "74274"
+      },
+      {
+        "nom": "Vallières",
+        "insee": "74289"
+      }
+    ],
+    "delegue": "non\n",
+    "arrete": "7 mai 2018",
+    "date": "2019-01-01"
+  },
+  {
+    "nom": "Les Hauts-de-Caux",
+    "insee": "76041",
+    "cheflieu": "Autretot",
+    "population": 1457,
+    "anciennes": [
+      {
+        "nom": "Autretot",
+        "insee": "76041"
+      },
+      {
+        "nom": "Veauville-lès-Baons",
+        "insee": "76729"
+      }
+    ],
+    "delegue": "oui\n",
+    "arrete": "19 décembre 2018",
+    "date": "2019-01-01"
+  },
+  {
+    "nom": "Val-de-Scie",
+    "insee": "76034",
+    "cheflieu": "Auffay",
+    "population": 2592,
+    "anciennes": [
+      {
+        "nom": "Auffay",
+        "insee": "76034"
+      },
+      {
+        "nom": "Cressy",
+        "insee": "76191"
+      },
+      {
+        "nom": "Sévis",
+        "insee": "76674"
+      }
+    ],
+    "delegue": "oui\n",
+    "arrete": "28 septembre 2018",
+    "date": "2019-01-01"
+  },
+  {
+    "nom": "Beautheil-Saints",
+    "insee": "77433",
+    "cheflieu": "Saints",
+    "population": 2143,
+    "anciennes": [
+      {
+        "nom": "Beautheil",
+        "insee": "77028"
+      },
+      {
+        "nom": "Saints",
+        "insee": "77433"
+      }
+    ],
+    "delegue": "oui\n",
+    "arrete": "3 juillet 2018",
+    "date": "2019-01-01"
+  },
+  {
+    "nom": "Chenoise-Cucharmoy",
+    "insee": "77109",
+    "cheflieu": "Chenoise",
+    "population": 1601,
+    "anciennes": [
+      {
+        "nom": "Chenoise",
+        "insee": "77109"
+      },
+      {
+        "nom": "Cucharmoy",
+        "insee": "77149"
+      }
+    ],
+    "delegue": "non\n",
+    "arrete": "29 octobre 2018",
+    "date": "2019-01-01"
+  },
+  {
+    "nom": "Notre-Dame-de-la-Mer",
+    "insee": "78320",
+    "cheflieu": "Jeufosse",
+    "population": 659,
+    "anciennes": [
+      {
+        "nom": "Jeufosse",
+        "insee": "78320"
+      },
+      {
+        "nom": "Port-Villez",
+        "insee": "78503"
+      }
+    ],
+    "delegue": "oui\n",
+    "arrete": "27 septembre 2018",
+    "date": "2019-01-01"
+  },
+  {
+    "nom": "Le Chesnay-Rocquencourt",
+    "insee": "78150",
+    "cheflieu": "Le Chesnay",
+    "population": 31686,
+    "anciennes": [
+      {
+        "nom": "Le Chesnay",
+        "insee": "78158"
+      },
+      {
+        "nom": "Rocquencourt",
+        "insee": "78524"
+      }
+    ],
+    "delegue": "oui\n",
+    "arrete": "29 novembre 2018",
+    "date": "2019-01-01"
+  },
+  {
+    "nom": "Saint-Germain-en-Laye",
+    "insee": "78551",
+    "cheflieu": "Saint-Germain-en-Laye",
+    "population": 43976,
+    "anciennes": [
+      {
+        "nom": "Saint-Germain-en-Laye",
+        "insee": "78551"
+      },
+      {
+        "nom": "Fourqueux",
+        "insee": "78251"
+      }
+    ],
+    "delegue": "oui\n",
+    "arrete": "19 décembre 2018",
+    "date": "2019-01-01"
+  },
+  {
+    "nom": "Aigondigné",
+    "insee": "79185",
+    "cheflieu": "Mougon",
+    "population": 4780,
+    "anciennes": [
+      {
+        "nom": "Aigonnay",
+        "insee": "79004"
+      },
+      {
+        "nom": "Mougon-Thorigné",
+        "insee": "79185"
+      },
+      {
+        "nom": "Mougon",
+        "insee": "79185"
+      },
+      {
+        "nom": "Thorigné",
+        "insee": "79327"
+      },
+      {
+        "nom": "Sainte-Blandine",
+        "insee": "79240"
+      }
+    ],
+    "delegue": "oui (4)\n",
+    "arrete": "13 novembre 2018",
+    "date": "2019-01-01"
+  },
+  {
+    "nom": "Airvault",
+    "insee": "79005",
+    "cheflieu": "Airvault",
+    "population": 3315,
+    "anciennes": [
+      {
+        "nom": "Airvault",
+        "insee": "79005"
+      },
+      {
+        "nom": "Tessonnière",
+        "insee": "79325"
+      }
+    ],
+    "delegue": null,
+    "arrete": "6 décembre 2018",
+    "date": "2019-01-01"
+  },
+  {
+    "nom": "Beugnon-Thireuil",
+    "insee": "79077",
+    "cheflieu": "La Chapelle-Thireuil",
+    "population": 731,
+    "anciennes": [
+      {
+        "nom": "Le Beugnon",
+        "insee": "79035"
+      },
+      {
+        "nom": "La Chapelle-Thireuil",
+        "insee": "79077"
+      }
+    ],
+    "delegue": "oui\n",
+    "arrete": "7 décembre 2018",
+    "date": "2019-01-01"
+  },
+  {
+    "nom": "Celles-sur-Belle",
+    "insee": "79061",
+    "cheflieu": "Celles-sur-Belle",
+    "population": 3858,
+    "anciennes": [
+      {
+        "nom": "Celles-sur-Belle",
+        "insee": "79061"
+      },
+      {
+        "nom": "Saint-Médard",
+        "insee": "79282"
+      }
+    ],
+    "delegue": null,
+    "arrete": "26 octobre 2018",
+    "date": "2019-01-01"
+  },
+  {
+    "nom": "Les Châteliers",
+    "insee": "79105",
+    "cheflieu": "Coutières",
+    "population": 509,
+    "anciennes": [
+      {
+        "nom": "Chantecorps",
+        "insee": "79068"
+      },
+      {
+        "nom": "Coutières",
+        "insee": "79105"
+      }
+    ],
+    "delegue": "oui\n",
+    "arrete": "9 novembre 2018",
+    "date": "2019-01-01"
+  },
+  {
+    "nom": "Chef-Boutonne",
+    "insee": "79083",
+    "cheflieu": "Chef-Boutonne",
+    "population": 2600,
+    "anciennes": [
+      {
+        "nom": "Chef-Boutonne",
+        "insee": "79083"
+      },
+      {
+        "nom": "Crézières",
+        "insee": "79107"
+      },
+      {
+        "nom": "La Bataille",
+        "insee": "79027"
+      },
+      {
+        "nom": "Tillou",
+        "insee": "79330"
+      }
+    ],
+    "delegue": "oui\n",
+    "arrete": "9 septembre 2018",
+    "date": "2019-01-01"
+  },
+  {
+    "nom": "Fontivillié",
+    "insee": "79064",
+    "cheflieu": "Chail",
+    "population": 862,
+    "anciennes": [
+      {
+        "nom": "Chail",
+        "insee": "79064"
+      },
+      {
+        "nom": "Sompt",
+        "insee": "79314"
+      }
+    ],
+    "delegue": "oui\n",
+    "arrete": "21 août 2018",
+    "date": "2019-01-01"
+  },
+  {
+    "nom": "Loretz-d'Argenton",
+    "insee": "79014",
+    "cheflieu": "Argenton-l'Église",
+    "population": 2696,
+    "anciennes": [
+      {
+        "nom": "Argenton-l'Église",
+        "insee": "79014"
+      },
+      {
+        "nom": "Bouillé-Loretz",
+        "insee": "79043"
+      }
+    ],
+    "delegue": "oui (3 avec Bagneux, jusque là commune associée d’Argenton-l’Église)\n",
+    "arrete": "11 juin 2018",
+    "date": "2019-01-01"
+  },
+  {
+    "nom": "Marcillé",
+    "insee": "79251",
+    "cheflieu": "Saint-Génard",
+    "population": 762,
+    "anciennes": [
+      {
+        "nom": "Pouffonds",
+        "insee": "79214"
+      },
+      {
+        "nom": "Saint-Génard",
+        "insee": "79251"
+      }
+    ],
+    "delegue": "oui\n",
+    "arrete": "6 juillet 2018",
+    "date": "2019-01-01"
+  },
+  {
+    "nom": "Melle",
+    "insee": "79174",
+    "cheflieu": "Melle",
+    "population": 6347,
+    "anciennes": [
+      {
+        "nom": "Mazières-sur-Béronne",
+        "insee": "79173"
+      },
+      {
+        "nom": "Melle",
+        "insee": "79174"
+      },
+      {
+        "nom": "Paizay-le-Tort",
+        "insee": "79199"
+      },
+      {
+        "nom": "Saint-Léger-de-la-Martinière",
+        "insee": "79264"
+      },
+      {
+        "nom": "Saint-Martin-lès-Melle",
+        "insee": "79279"
+      }
+    ],
+    "delegue": "oui\n",
+    "arrete": "27 juin 2018",
+    "date": "2019-01-01"
+  },
+  {
+    "nom": "Moncoutant-sur-Sèvre",
+    "insee": "79179",
+    "cheflieu": "Moncoutant",
+    "population": 5021,
+    "anciennes": [
+      {
+        "nom": "Le Breuil-Bernard",
+        "insee": "79051"
+      },
+      {
+        "nom": "La Chapelle-Saint-Étienne",
+        "insee": "79075"
+      },
+      {
+        "nom": "Moncoutant",
+        "insee": "79179"
+      },
+      {
+        "nom": "Moutiers-sous-Chantemerle",
+        "insee": "79188"
+      },
+      {
+        "nom": "Pugny",
+        "insee": "79222"
+      },
+      {
+        "nom": "Saint-Jouin-de-Milly",
+        "insee": "79261"
+      }
+    ],
+    "delegue": "oui\n",
+    "arrete": "23 novembre 2018",
+    "date": "2019-01-01"
+  },
+  {
+    "nom": "Plaine-et-Vallées",
+    "insee": "79196",
+    "cheflieu": "Oiron",
+    "population": 2426,
+    "anciennes": [
+      {
+        "nom": "Brie",
+        "insee": "79054"
+      },
+      {
+        "nom": "Oiron",
+        "insee": "79196"
+      },
+      {
+        "nom": "Saint-Jouin-de-Marnes",
+        "insee": "79260"
+      },
+      {
+        "nom": "Taizé-Maulais",
+        "insee": "79321"
+      }
+    ],
+    "delegue": "oui\n",
+    "arrete": "7 novembre 2018",
+    "date": "2019-01-01"
+  },
+  {
+    "nom": "Prailles-La Couarde",
+    "insee": "79217",
+    "cheflieu": "Prailles",
+    "population": 944,
+    "anciennes": [
+      {
+        "nom": "La Couarde",
+        "insee": "79098"
+      },
+      {
+        "nom": "Prailles",
+        "insee": "79217"
+      }
+    ],
+    "delegue": "oui\n",
+    "arrete": "18 septembre 2018",
+    "date": "2019-01-01"
+  },
+  {
+    "nom": "Saint-Pardoux-Soutiers",
+    "insee": "79285",
+    "cheflieu": "Saint-Pardoux",
+    "population": 1879,
+    "anciennes": [
+      {
+        "nom": "Saint-Pardoux",
+        "insee": "79285"
+      },
+      {
+        "nom": "Soutiers",
+        "insee": "79318"
+      }
+    ],
+    "delegue": "oui\n",
+    "arrete": "1",
+    "date": "2019-01-01"
+  },
+  {
+    "nom": "Thouars",
+    "insee": "79329",
+    "cheflieu": "Thouars",
+    "population": 14126,
+    "anciennes": [
+      {
+        "nom": "Mauzé-Thouarsais",
+        "insee": "79171"
+      },
+      {
+        "nom": "Missé",
+        "insee": "79178"
+      },
+      {
+        "nom": "Sainte-Radegonde",
+        "insee": "79292"
+      },
+      {
+        "nom": "Thouars",
+        "insee": "79329"
+      }
+    ],
+    "delegue": "oui (Mauzé-Thouarsais, Missé et Sainte-Radegonde)\n",
+    "arrete": "30 octobre 2018",
+    "date": "2019-01-01"
+  },
+  {
+    "nom": "Valdelaume",
+    "insee": "79140",
+    "cheflieu": "Hanc",
+    "population": 871,
+    "anciennes": [
+      {
+        "nom": "Ardilleux",
+        "insee": "79011"
+      },
+      {
+        "nom": "Bouin",
+        "insee": "79045"
+      },
+      {
+        "nom": "Hanc",
+        "insee": "79140"
+      },
+      {
+        "nom": "Pioussay",
+        "insee": "79211"
+      }
+    ],
+    "delegue": "non\n",
+    "arrete": "26 juin 2018",
+    "date": "2019-01-01"
+  },
+  {
+    "nom": "Val-du-Mignon",
+    "insee": "79334",
+    "cheflieu": "Usseau",
+    "population": 1118,
+    "anciennes": [
+      {
+        "nom": "Priaires",
+        "insee": "79219"
+      },
+      {
+        "nom": "Thorigny-sur-le-Mignon",
+        "insee": "79328"
+      },
+      {
+        "nom": "Usseau",
+        "insee": "79334"
+      }
+    ],
+    "delegue": "oui\n",
+    "arrete": "19 septembre 2018",
+    "date": "2019-01-01"
+  },
+  {
+    "nom": "Carnoy-Mametz",
+    "insee": "80505",
+    "cheflieu": "Mametz",
+    "population": 287,
+    "anciennes": [
+      {
+        "nom": "Mametz",
+        "insee": "80505"
+      },
+      {
+        "nom": "Carnoy",
+        "insee": "80175"
+      }
+    ],
+    "delegue": "oui\n",
+    "arrete": "26 octobre 2018",
+    "date": null
+  },
+  {
+    "nom": "Hombleux",
+    "insee": "80442",
+    "cheflieu": "Hombleux",
+    "population": 1162,
+    "anciennes": [
+      {
+        "nom": "Hombleux",
+        "insee": "80442"
+      },
+      {
+        "nom": "Grécourt",
+        "insee": "80389"
+      }
+    ],
+    "delegue": "non\n",
+    "arrete": "7 décembre 2018",
+    "date": "2019-01-01"
+  },
+  {
+    "nom": "Marchélepot-Misery",
+    "insee": "80509",
+    "cheflieu": "Marchélepot",
+    "population": 598,
+    "anciennes": [
+      {
+        "nom": "Marchélepot",
+        "insee": "80509"
+      },
+      {
+        "nom": "Misery",
+        "insee": "80551"
+      }
+    ],
+    "delegue": "oui\n",
+    "arrete": "28 septembre 2018",
+    "date": "2019-01-01"
+  },
+  {
+    "nom": "Ô-de-Selle",
+    "insee": "80485",
+    "cheflieu": "Lœuilly",
+    "population": 1233,
+    "anciennes": [
+      {
+        "nom": "Lœuilly",
+        "insee": "80485"
+      },
+      {
+        "nom": "Neuville-lès-Lœuilly",
+        "insee": "80594"
+      },
+      {
+        "nom": "Tilloy-lès-Conty",
+        "insee": "80761"
+      }
+    ],
+    "delegue": "oui\n",
+    "arrete": "7 décembre 2018",
+    "date": "2019-01-01"
+  },
+  {
+    "nom": "Trois-Rivières",
+    "insee": "80625",
+    "cheflieu": "Pierrepont-sur-Avre",
+    "population": 1488,
+    "anciennes": [
+      {
+        "nom": "Contoire",
+        "insee": "80209"
+      },
+      {
+        "nom": "Hargicourt",
+        "insee": "80419"
+      },
+      {
+        "nom": "Pierrepont-sur-Avre",
+        "insee": "80625"
+      }
+    ],
+    "delegue": "oui\n",
+    "arrete": "12 novembre 2018",
+    "date": "2019-01-01"
+  },
+  {
+    "nom": "Terre-de-Bancalié",
+    "insee": "81233",
+    "cheflieu": "Roumégoux",
+    "population": 1673,
+    "anciennes": [
+      {
+        "nom": "Roumégoux",
+        "insee": "81233"
+      },
+      {
+        "nom": "Ronel",
+        "insee": "81226"
+      },
+      {
+        "nom": "Terre-Clapier",
+        "insee": "81296"
+      },
+      {
+        "nom": "Le Travet",
+        "insee": "81301"
+      },
+      {
+        "nom": "Saint-Antonin-de-Lacalm",
+        "insee": "81241"
+      },
+      {
+        "nom": "Saint-Lieux-Lafenasse",
+        "insee": "81260"
+      }
+    ],
+    "delegue": "oui\n",
+    "arrete": "29 novembre 2018",
+    "date": "2019-01-01"
+  },
+  {
+    "nom": "Chanverrie",
+    "insee": "85302",
+    "cheflieu": "La Verrie",
+    "population": 5522,
+    "anciennes": [
+      {
+        "nom": "Chambretaud",
+        "insee": "85048"
+      },
+      {
+        "nom": "La Verrie",
+        "insee": "85302"
+      }
+    ],
+    "delegue": "oui\n",
+    "arrete": "21 novembre 2018",
+    "date": "2019-01-01"
+  },
+  {
+    "nom": "Montaigu-Vendée",
+    "insee": "85146",
+    "cheflieu": "Montaigu",
+    "population": 19942,
+    "anciennes": [
+      {
+        "nom": "Boufféré",
+        "insee": "85027"
+      },
+      {
+        "nom": "La Guyonnière",
+        "insee": "85107"
+      },
+      {
+        "nom": "Montaigu",
+        "insee": "85146"
+      },
+      {
+        "nom": "Saint-Georges-de-Montaigu",
+        "insee": "85217"
+      },
+      {
+        "nom": "Saint-Hilaire-de-Loulay",
+        "insee": "85224"
+      }
+    ],
+    "delegue": "oui\n",
+    "arrete": "20 avril 2017",
+    "date": "2019-01-01"
+  },
+  {
+    "nom": "Les Sables-d'Olonne",
+    "insee": "85194",
+    "cheflieu": "Les Sables-d'Olonne",
+    "population": 42649,
+    "anciennes": [
+      {
+        "nom": "Château-d'Olonne",
+        "insee": "85060"
+      },
+      {
+        "nom": "Olonne-sur-Mer",
+        "insee": "85166"
+      },
+      {
+        "nom": "Les Sables-d'Olonne",
+        "insee": "85194"
+      }
+    ],
+    "delegue": "oui\n",
+    "arrete": "17 août 2018",
+    "date": "2019-01-01"
+  },
+  {
+    "nom": "Les Velluire-sur-Vendée",
+    "insee": "85177",
+    "cheflieu": "Le Poiré-sur-Velluire",
+    "population": 1347,
+    "anciennes": [
+      {
+        "nom": "Le Poiré-sur-Velluire",
+        "insee": "85177"
+      },
+      {
+        "nom": "Velluire",
+        "insee": "85299"
+      }
+    ],
+    "delegue": "oui\n",
+    "arrete": "17 août 2018",
+    "date": "2019-01-01"
+  },
+  {
+    "nom": "Rives-d'Autise",
+    "insee": "85162",
+    "cheflieu": "Nieul-sur-l'Autise",
+    "population": 2125,
+    "anciennes": [
+      {
+        "nom": "Nieul-sur-l'Autise",
+        "insee": "85162"
+      },
+      {
+        "nom": "Oulmes",
+        "insee": "85168"
+      }
+    ],
+    "delegue": "oui\n",
+    "arrete": "4 décembre 2018",
+    "date": "2019-01-01"
+  },
+  {
+    "nom": "Boivre-la-Vallée",
+    "insee": "86123",
+    "cheflieu": "Lavausseau",
+    "population": 3194,
+    "anciennes": [
+      {
+        "nom": "Benassay",
+        "insee": "86021"
+      },
+      {
+        "nom": "La Chapelle-Montreuil",
+        "insee": "86056"
+      },
+      {
+        "nom": "Lavausseau",
+        "insee": "86123"
+      },
+      {
+        "nom": "Montreuil-Bonnin",
+        "insee": "86166"
+      }
+    ],
+    "delegue": "oui\n",
+    "arrete": "21 septembre 2018",
+    "date": "2019-01-01"
+  },
+  {
+    "nom": "Saint Martin la Pallu",
+    "insee": "86281",
+    "cheflieu": "Vendeuvre-du-Poitou",
+    "population": 5647,
+    "anciennes": [
+      {
+        "nom": "Saint Martin la Pallu",
+        "insee": "86281"
+      },
+      {
+        "nom": "Blaslay",
+        "insee": "86030"
+      },
+      {
+        "nom": "Charrais",
+        "insee": "86060"
+      },
+      {
+        "nom": "Cheneché",
+        "insee": "86071"
+      },
+      {
+        "nom": "Vendeuvre-du-Poitou",
+        "insee": "86281"
+      },
+      {
+        "nom": "Varennes",
+        "insee": "86277"
+      }
+    ],
+    "delegue": "oui (5)\n",
+    "arrete": "21 septembre 2018",
+    "date": "2019-01-01"
+  },
+  {
+    "nom": "Valence-en-Poitou",
+    "insee": "86082",
+    "cheflieu": "Couhé",
+    "population": 4419,
+    "anciennes": [
+      {
+        "nom": "Ceaux-en-Couhé",
+        "insee": "86043"
+      },
+      {
+        "nom": "Châtillon",
+        "insee": "86067"
+      },
+      {
+        "nom": "Couhé",
+        "insee": "86082"
+      },
+      {
+        "nom": "Payré",
+        "insee": "86188"
+      },
+      {
+        "nom": "Vaux",
+        "insee": "86278"
+      }
+    ],
+    "delegue": "oui\n",
+    "arrete": "22 novembre 2018",
+    "date": "2019-01-01"
+  },
+  {
+    "nom": "Saint-Pardoux-le-Lac",
+    "insee": "87128",
+    "cheflieu": "Roussac",
+    "population": 1312,
+    "anciennes": [
+      {
+        "nom": "Roussac",
+        "insee": "87128"
+      },
+      {
+        "nom": "Saint-Symphorien-sur-Couze",
+        "insee": "87184"
+      },
+      {
+        "nom": "Saint-Pardoux",
+        "insee": "87173"
+      }
+    ],
+    "delegue": "oui\n",
+    "arrete": "26 novembre 2018",
+    "date": "2019-01-01"
+  },
+  {
+    "nom": "Val-d'Oire-et-Gartempe",
+    "insee": "87028",
+    "cheflieu": "Bussière-Poitevine",
+    "population": 1732,
+    "anciennes": [
+      {
+        "nom": "Bussière-Poitevine",
+        "insee": "87028"
+      },
+      {
+        "nom": "Saint-Barbant",
+        "insee": "87136"
+      },
+      {
+        "nom": "Darnac",
+        "insee": "87055"
+      },
+      {
+        "nom": "Thiat",
+        "insee": "87196"
+      }
+    ],
+    "delegue": "oui\n",
+    "arrete": "3 août 2018",
+    "date": "2019-01-01"
+  },
+  {
+    "nom": "Treigny-Perreuse-Sainte-Colombe",
+    "insee": "89420",
+    "cheflieu": "Treigny",
+    "population": 1070,
+    "anciennes": [
+      {
+        "nom": "Treigny",
+        "insee": "89420"
+      },
+      {
+        "nom": "Sainte-Colombe-sur-Loing",
+        "insee": "89340"
+      }
+    ],
+    "delegue": "oui (3)\n",
+    "arrete": "29 novembre 2018",
+    "date": "2019-01-01"
+  },
+  {
+    "nom": "Meroux-Moval",
+    "insee": "90068",
+    "cheflieu": "Meroux",
+    "population": 1283,
+    "anciennes": [
+      {
+        "nom": "Meroux",
+        "insee": "90068"
+      },
+      {
+        "nom": "Moval",
+        "insee": "90073"
+      }
+    ],
+    "delegue": "oui\n",
+    "arrete": "21 décembre 2018",
+    "date": "2019-01-01"
+  },
+  {
+    "nom": "Évry-Courcouronnes",
+    "insee": "91228",
+    "cheflieu": "Évry",
+    "population": 68098,
+    "anciennes": [
+      {
+        "nom": "Évry",
+        "insee": "91228"
+      },
+      {
+        "nom": "Courcouronnes",
+        "insee": "91182"
+      }
+    ],
+    "delegue": "oui\n",
+    "arrete": "12 octobre 2018",
+    "date": "2019-01-01"
+  },
+  {
+    "nom": "Le Mérévillois",
+    "insee": "91390",
+    "cheflieu": "Méréville",
+    "population": 3462,
+    "anciennes": [
+      {
+        "nom": "Estouches",
+        "insee": "91222"
+      },
+      {
+        "nom": "Méréville",
+        "insee": "91390"
+      }
+    ],
+    "delegue": "oui\n",
+    "arrete": "28 septembre 2018",
+    "date": "2019-01-01"
+  }
+]

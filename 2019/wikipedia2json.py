@@ -37,7 +37,7 @@ for row in rows[2:]:
                cheflieu=c[2].a.string,
                population=c[3].string.replace('\n',''),
                anciennes=c[5],
-               delegue=c[6].string,
+               delegue=c[6].string.replace('\n', ''),
                arrete=c[7],
                date=c[8].span)
 
